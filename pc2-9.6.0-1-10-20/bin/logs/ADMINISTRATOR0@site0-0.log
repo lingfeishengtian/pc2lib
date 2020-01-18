@@ -1,0 +1,24 @@
+200110 145740.524|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
+200110 145740.524|INFO|AWT-EventQueue-0|info|
+200110 145740.525|INFO|AWT-EventQueue-0|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200110 145740.525|INFO|AWT-EventQueue-0|info|Login: admin1 (aka root)
+200110 145740.525|INFO|AWT-EventQueue-0|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
+200110 145740.525|INFO|AWT-EventQueue-0|startLog|Process id is 7323@Hunters-MacBook-Pro.local
+200110 145740.526|INFO|AWT-EventQueue-0|info|Contacting server at 192.168.1.3:50002 as ADMINISTRATOR0 @ site 0
+200110 145740.526|INFO|AWT-EventQueue-0|info|sendLoginRequest start - sending from ADMINISTRATOR0 @ site 0
+200110 145740.532|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[LOGIN_REQUEST] #1 ADMINISTRATOR0 @ site 0 -> SERVER0 @ site 0
+200110 145740.534|INFO|Thread-2|run|send(Serializable)
+200110 145740.535|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[LOGIN_REQUEST] #1 ADMINISTRATOR0 @ site 0 -> SERVER0 @ site 0
+200110 145740.536|INFO|AWT-EventQueue-0|info|sendLoginRequest end - packet sent.
+200110 145740.577|INFO|Thread-1|receive|public void receive(SealedObject TransportPacket, ConnectionHandlerID connectionHandlerID)
+200110 145740.580|INFO|Thread-3|info| receiveObject(S) start got Packet[LOGIN_FAILED] #2 SERVER0 @ site 1 -> ADMINISTRATOR0 @ site 0
+200110 145740.580|INFO|Thread-3|dumpPacket|Packet LOGIN_FAILED (Seq #2, o#2 ) recieveObject
+200110 145740.581|INFO|Thread-3|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hunters-MacBook-Pro.local @ 127.0.0.1) (Contest Id: Default-3586998405885201546)
+200110 145740.581|INFO|Thread-3|dumpPacket|    To: ADMINISTRATOR0 @ site 0
+200110 145740.582|INFO|Thread-3|dumpPacket|   key: MESSAGE_STRING is: java.lang.String No such account
+200110 145740.584|INFO|Thread-3|info|handlePacket start Packet[LOGIN_FAILED] #2 SERVER0 @ site 1 -> ADMINISTRATOR0 @ site 0
+200110 145740.585|INFO|Thread-3|dumpPacket|Packet LOGIN_FAILED (Seq #2, o#2 ) handlePacket
+200110 145740.585|INFO|Thread-3|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hunters-MacBook-Pro.local @ 127.0.0.1) (Contest Id: Default-3586998405885201546)
+200110 145740.586|INFO|Thread-3|dumpPacket|    To: ADMINISTRATOR0 @ site 0
+200110 145740.587|INFO|Thread-3|dumpPacket|   key: MESSAGE_STRING is: java.lang.String No such account
+200110 145741.347|INFO|Thread-3|info| receiveObject(S) end   got Packet[LOGIN_FAILED] #2 SERVER0 @ site 1 -> ADMINISTRATOR0 @ site 0
