@@ -1,0 +1,11 @@
+200110 150303.443|CONFIG|Thread-7|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
+200110 150303.443|INFO|Thread-7|info|
+200110 150303.443|INFO|Thread-7|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200110 150303.444|INFO|Thread-7|info|Login: judge1 (aka judge1)
+200110 150303.444|INFO|Thread-7|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
+200110 150303.444|INFO|Thread-7|startLog|Process id is 7693@Hunters-MacBook-Pro.local
+200110 150303.444|INFO|Thread-7|info|Attempting to load UI class edu.csus.ecs.pc2.ui.judge.JudgeView
+200110 150303.453|INFO|Thread-7|info|Loaded UI class edu.csus.ecs.pc2.ui.judge.JudgeView
+200110 150303.765|INFO|Thread-7|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200110 150303.766|INFO|Thread-7|info|handlePacket end Packet[LOGIN_SUCCESS] #10 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200110 150303.767|INFO|Thread-7|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #10 SERVER0 @ site 1 -> JUDGE1 @ site 1

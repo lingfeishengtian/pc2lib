@@ -1,0 +1,31 @@
+CSUS Programming Contest System
+Date: Friday, January 10, 2020 3:03:32 PM CST
+Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+
+Standings XML  Report
+
+-- Start XML --
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<contestStandings>
+  <standingsHeader currentDate="Fri Jan 10 15:03:32 CST 2020" generatorId="$Id$" groupCount="1" medianProblemsSolved="0" problemCount="0" problemsAttempted="0" siteCount="1" systemName="CSUS Programming Contest System" systemURL="http://pc2.ecs.csus.edu/" systemVersion="9.6.0 20190102 build 5102" title="Programming Contest" totalAttempts="0" totalSolved="0">
+    <groupList/>
+    <colorList/>
+  </standingsHeader>
+</contestStandings>
+
+
+-- End XML --
+
+ #document DOCUMENT_NODE
+    contestStandings ELEMENT_NODE
+       #text TEXT_NODE
+       standingsHeader ELEMENT_NODE
+          #text TEXT_NODE
+          groupList ELEMENT_NODE
+          #text TEXT_NODE
+          colorList ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+
+
+end report

@@ -1,0 +1,7 @@
+200110 163459.300|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
+200110 163459.301|INFO|main|info|
+200110 163459.305|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200110 163459.305|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
+200110 163459.322|INFO|main|startLog|Process id is 15038@Elijahs-iPhone.District.FBISD.local
+200110 163459.322|SEVERE|main|fatalError|Must specify --login option and login name when using --nogui
+200110 163459.322|INFO|main|fatalError|PC^2 halted
