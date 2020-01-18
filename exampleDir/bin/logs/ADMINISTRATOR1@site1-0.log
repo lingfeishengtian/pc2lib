@@ -640,3 +640,1324 @@
 200117 144901.999|INFO|Thread-6|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
 200117 144901.999|INFO|Thread-6|info|handlePacket end Packet[LOGIN_SUCCESS] #3 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
 200117 144902.000|INFO|Thread-6|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #3 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200117 230857.228|CONFIG|Thread-6|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
+200117 230857.228|INFO|Thread-6|info|
+200117 230857.228|INFO|Thread-6|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 230857.228|INFO|Thread-6|info|Login: administrator1 (aka administrator1)
+200117 230857.228|INFO|Thread-6|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 230857.229|INFO|Thread-6|startLog|Process id is 85976@DESKTOP-K31L36J
+200117 230857.229|INFO|Thread-6|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200117 230857.235|INFO|Thread-6|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200117 230857.622|INFO|Thread-6|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200117 230857.622|INFO|Thread-6|info|handlePacket end Packet[LOGIN_SUCCESS] #2 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200117 230857.622|INFO|Thread-6|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #2 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200117 231006.831|CONFIG|Thread-8|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
+200117 231006.832|INFO|Thread-8|info|
+200117 231006.832|INFO|Thread-8|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 231006.832|INFO|Thread-8|info|Login: administrator1 (aka administrator1)
+200117 231006.832|INFO|Thread-8|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 231006.832|INFO|Thread-8|startLog|Process id is 91004@DESKTOP-K31L36J
+200117 231006.832|INFO|Thread-8|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200117 231006.837|INFO|Thread-8|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200117 231007.187|INFO|Thread-8|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200117 231007.188|INFO|Thread-8|info|handlePacket end Packet[LOGIN_SUCCESS] #8 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200117 231007.188|INFO|Thread-8|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #8 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200117 231100.924|DEBUG|AWT-EventQueue-0|logDebugException|Input Problem (but not saving) 
+|edu.csus.ecs.pc2.ui.InvalidFieldValue: Error reading file ' C:\Users\625783\Desktop\packet2\judgesdata\scale.dat ': C:\Users\625783\Desktop\packet2\judgesdata\scale.dat while adding problem; choose data file again
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.getProblemFromFields (EditProblemPane.java:1098)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.enableUpdateButton (EditProblemPane.java:654)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane$6.run (EditProblemPane.java:2090)
+|    at java.awt.event.InvocationEvent.dispatch (Unknown Source)
+|    at java.awt.EventQueue.dispatchEventImpl (Unknown Source)
+|    at java.awt.EventQueue.access$500 (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue.dispatchEvent (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpOneEventForFilters (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForFilter (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForHierarchy (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.run (Unknown Source)
+200117 231216.535|DEBUG|AWT-EventQueue-0|logDebugException|Input Problem (but not saving) 
+|edu.csus.ecs.pc2.ui.InvalidFieldValue: Error reading file ' C:\Users\625783\Desktop\packet2\judgesdata\scale.dat ': C:\Users\625783\Desktop\packet2\judgesdata\scale.dat while adding problem; choose data file again
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.getProblemFromFields (EditProblemPane.java:1098)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.enableUpdateButton (EditProblemPane.java:654)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane$6.run (EditProblemPane.java:2090)
+|    at java.awt.event.InvocationEvent.dispatch (Unknown Source)
+|    at java.awt.EventQueue.dispatchEventImpl (Unknown Source)
+|    at java.awt.EventQueue.access$500 (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue.dispatchEvent (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpOneEventForFilters (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForFilter (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForHierarchy (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.run (Unknown Source)
+200117 232106.202|CONFIG|Thread-6|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
+200117 232106.204|INFO|Thread-6|info|
+200117 232106.205|INFO|Thread-6|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 232106.205|INFO|Thread-6|info|Login: administrator1 (aka administrator1)
+200117 232106.205|INFO|Thread-6|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 232106.205|INFO|Thread-6|startLog|Process id is 88608@DESKTOP-K31L36J
+200117 232106.205|INFO|Thread-6|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200117 232106.209|INFO|Thread-6|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200117 232106.577|INFO|Thread-6|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200117 232106.577|INFO|Thread-6|info|handlePacket end Packet[LOGIN_SUCCESS] #13 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200117 232106.577|INFO|Thread-6|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #13 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200117 232112.553|DEBUG|AWT-EventQueue-0|logDebugException|Input Problem (but not saving) 
+|edu.csus.ecs.pc2.ui.InvalidFieldValue: Error reading file ' C:\Users\625783\Desktop\packet2\judgesdata\playtime.dat ': C:\Users\625783\Desktop\packet2\judgesdata\playtime.dat while adding problem; choose data file again
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.getProblemFromFields (EditProblemPane.java:1098)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.enableUpdateButton (EditProblemPane.java:654)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane$6.run (EditProblemPane.java:2090)
+|    at java.awt.event.InvocationEvent.dispatch (Unknown Source)
+|    at java.awt.EventQueue.dispatchEventImpl (Unknown Source)
+|    at java.awt.EventQueue.access$500 (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue.dispatchEvent (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpOneEventForFilters (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForFilter (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForHierarchy (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.run (Unknown Source)
+200117 232306.759|CONFIG|Thread-6|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
+200117 232306.759|INFO|Thread-6|info|
+200117 232306.759|INFO|Thread-6|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 232306.759|INFO|Thread-6|info|Login: administrator1 (aka administrator1)
+200117 232306.759|INFO|Thread-6|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 232306.759|INFO|Thread-6|startLog|Process id is 92972@DESKTOP-K31L36J
+200117 232306.759|INFO|Thread-6|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200117 232306.764|INFO|Thread-6|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200117 232307.113|INFO|Thread-6|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200117 232307.114|INFO|Thread-6|info|handlePacket end Packet[LOGIN_SUCCESS] #20 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200117 232307.114|INFO|Thread-6|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #20 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200117 232315.520|DEBUG|AWT-EventQueue-0|logDebugException|Input Problem (but not saving) 
+|edu.csus.ecs.pc2.ui.InvalidFieldValue: Error reading file ' C:\Users\625783\Desktop\packet2\judgesdata\playtime.dat ': C:\Users\625783\Desktop\packet2\judgesdata\playtime.dat while adding problem; choose data file again
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.getProblemFromFields (EditProblemPane.java:1098)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.enableUpdateButton (EditProblemPane.java:654)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane$6.run (EditProblemPane.java:2090)
+|    at java.awt.event.InvocationEvent.dispatch (Unknown Source)
+|    at java.awt.EventQueue.dispatchEventImpl (Unknown Source)
+|    at java.awt.EventQueue.access$500 (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue.dispatchEvent (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpOneEventForFilters (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForFilter (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForHierarchy (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.run (Unknown Source)
+200117 232323.716|DEBUG|AWT-EventQueue-0|logDebugException|Input Problem (but not saving) 
+|edu.csus.ecs.pc2.ui.InvalidFieldValue: Error reading file ' C:\Users\625783\Desktop\packet2\judgesdata\playtime.dat ': C:\Users\625783\Desktop\packet2\judgesdata\playtime.dat while adding problem; choose data file again
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.getProblemFromFields (EditProblemPane.java:1098)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.enableUpdateButton (EditProblemPane.java:654)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane$18.actionPerformed (EditProblemPane.java:3146)
+|    at javax.swing.AbstractButton.fireActionPerformed (Unknown Source)
+|    at javax.swing.AbstractButton$Handler.actionPerformed (Unknown Source)
+|    at javax.swing.DefaultButtonModel.fireActionPerformed (Unknown Source)
+|    at javax.swing.DefaultButtonModel.setPressed (Unknown Source)
+|    at javax.swing.plaf.basic.BasicButtonListener.mouseReleased (Unknown Source)
+|    at java.awt.Component.processMouseEvent (Unknown Source)
+|    at javax.swing.JComponent.processMouseEvent (Unknown Source)
+|    at java.awt.Component.processEvent (Unknown Source)
+|    at java.awt.Container.processEvent (Unknown Source)
+|    at java.awt.Component.dispatchEventImpl (Unknown Source)
+|    at java.awt.Container.dispatchEventImpl (Unknown Source)
+|    at java.awt.Component.dispatchEvent (Unknown Source)
+|    at java.awt.LightweightDispatcher.retargetMouseEvent (Unknown Source)
+|    at java.awt.LightweightDispatcher.processMouseEvent (Unknown Source)
+|    at java.awt.LightweightDispatcher.dispatchEvent (Unknown Source)
+|    at java.awt.Container.dispatchEventImpl (Unknown Source)
+|    at java.awt.Window.dispatchEventImpl (Unknown Source)
+|    at java.awt.Component.dispatchEvent (Unknown Source)
+|    at java.awt.EventQueue.dispatchEventImpl (Unknown Source)
+|    at java.awt.EventQueue.access$500 (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue$4.run (Unknown Source)
+|    at java.awt.EventQueue$4.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue.dispatchEvent (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpOneEventForFilters (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForFilter (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForHierarchy (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.run (Unknown Source)
+200117 232405.640|DEBUG|AWT-EventQueue-0|logDebugException|Input Problem (but not saving) 
+|edu.csus.ecs.pc2.ui.InvalidFieldValue: Error reading file ' C:\Users\625783\Desktop\packet2\judgesdata\playtime.dat ': C:\Users\625783\Desktop\packet2\judgesdata\playtime.dat while adding problem; choose data file again
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.getProblemFromFields (EditProblemPane.java:1098)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.enableUpdateButton (EditProblemPane.java:654)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane$8.keyReleased (EditProblemPane.java:2784)
+|    at java.awt.Component.processKeyEvent (Unknown Source)
+|    at javax.swing.JComponent.processKeyEvent (Unknown Source)
+|    at java.awt.Component.processEvent (Unknown Source)
+|    at java.awt.Container.processEvent (Unknown Source)
+|    at java.awt.Component.dispatchEventImpl (Unknown Source)
+|    at java.awt.Container.dispatchEventImpl (Unknown Source)
+|    at java.awt.Component.dispatchEvent (Unknown Source)
+|    at java.awt.KeyboardFocusManager.redispatchEvent (Unknown Source)
+|    at java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent (Unknown Source)
+|    at java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent (Unknown Source)
+|    at java.awt.DefaultKeyboardFocusManager.typeAheadAssertions (Unknown Source)
+|    at java.awt.DefaultKeyboardFocusManager.dispatchEvent (Unknown Source)
+|    at java.awt.Component.dispatchEventImpl (Unknown Source)
+|    at java.awt.Container.dispatchEventImpl (Unknown Source)
+|    at java.awt.Window.dispatchEventImpl (Unknown Source)
+|    at java.awt.Component.dispatchEvent (Unknown Source)
+|    at java.awt.EventQueue.dispatchEventImpl (Unknown Source)
+|    at java.awt.EventQueue.access$500 (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue$4.run (Unknown Source)
+|    at java.awt.EventQueue$4.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue.dispatchEvent (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpOneEventForFilters (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForFilter (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForHierarchy (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.run (Unknown Source)
+200117 232405.705|DEBUG|AWT-EventQueue-0|logDebugException|Input Problem (but not saving) 
+|edu.csus.ecs.pc2.ui.InvalidFieldValue: Error reading file ' C:\Users\625783\Desktop\packet2\judgesdata\playtime.dat ': C:\Users\625783\Desktop\packet2\judgesdata\playtime.dat while adding problem; choose data file again
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.getProblemFromFields (EditProblemPane.java:1098)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.enableUpdateButton (EditProblemPane.java:654)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane$8.keyReleased (EditProblemPane.java:2784)
+|    at java.awt.Component.processKeyEvent (Unknown Source)
+|    at javax.swing.JComponent.processKeyEvent (Unknown Source)
+|    at java.awt.Component.processEvent (Unknown Source)
+|    at java.awt.Container.processEvent (Unknown Source)
+|    at java.awt.Component.dispatchEventImpl (Unknown Source)
+|    at java.awt.Container.dispatchEventImpl (Unknown Source)
+|    at java.awt.Component.dispatchEvent (Unknown Source)
+|    at java.awt.KeyboardFocusManager.redispatchEvent (Unknown Source)
+|    at java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent (Unknown Source)
+|    at java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent (Unknown Source)
+|    at java.awt.DefaultKeyboardFocusManager.typeAheadAssertions (Unknown Source)
+|    at java.awt.DefaultKeyboardFocusManager.dispatchEvent (Unknown Source)
+|    at java.awt.Component.dispatchEventImpl (Unknown Source)
+|    at java.awt.Container.dispatchEventImpl (Unknown Source)
+|    at java.awt.Window.dispatchEventImpl (Unknown Source)
+|    at java.awt.Component.dispatchEvent (Unknown Source)
+|    at java.awt.EventQueue.dispatchEventImpl (Unknown Source)
+|    at java.awt.EventQueue.access$500 (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue$4.run (Unknown Source)
+|    at java.awt.EventQueue$4.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue.dispatchEvent (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpOneEventForFilters (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForFilter (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForHierarchy (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.run (Unknown Source)
+200117 232405.897|DEBUG|AWT-EventQueue-0|logDebugException|Input Problem (but not saving) 
+|edu.csus.ecs.pc2.ui.InvalidFieldValue: Error reading file ' C:\Users\625783\Desktop\packet2\judgesdata\playtime.dat ': C:\Users\625783\Desktop\packet2\judgesdata\playtime.dat while adding problem; choose data file again
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.getProblemFromFields (EditProblemPane.java:1098)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.enableUpdateButton (EditProblemPane.java:654)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane$8.keyReleased (EditProblemPane.java:2784)
+|    at java.awt.Component.processKeyEvent (Unknown Source)
+|    at javax.swing.JComponent.processKeyEvent (Unknown Source)
+|    at java.awt.Component.processEvent (Unknown Source)
+|    at java.awt.Container.processEvent (Unknown Source)
+|    at java.awt.Component.dispatchEventImpl (Unknown Source)
+|    at java.awt.Container.dispatchEventImpl (Unknown Source)
+|    at java.awt.Component.dispatchEvent (Unknown Source)
+|    at java.awt.KeyboardFocusManager.redispatchEvent (Unknown Source)
+|    at java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent (Unknown Source)
+|    at java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent (Unknown Source)
+|    at java.awt.DefaultKeyboardFocusManager.typeAheadAssertions (Unknown Source)
+|    at java.awt.DefaultKeyboardFocusManager.dispatchEvent (Unknown Source)
+|    at java.awt.Component.dispatchEventImpl (Unknown Source)
+|    at java.awt.Container.dispatchEventImpl (Unknown Source)
+|    at java.awt.Window.dispatchEventImpl (Unknown Source)
+|    at java.awt.Component.dispatchEvent (Unknown Source)
+|    at java.awt.EventQueue.dispatchEventImpl (Unknown Source)
+|    at java.awt.EventQueue.access$500 (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue$4.run (Unknown Source)
+|    at java.awt.EventQueue$4.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue.dispatchEvent (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpOneEventForFilters (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForFilter (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForHierarchy (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.run (Unknown Source)
+200117 232405.961|DEBUG|AWT-EventQueue-0|logDebugException|Input Problem (but not saving) 
+|edu.csus.ecs.pc2.ui.InvalidFieldValue: Error reading file ' C:\Users\625783\Desktop\packet2\judgesdata\playtime.dat ': C:\Users\625783\Desktop\packet2\judgesdata\playtime.dat while adding problem; choose data file again
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.getProblemFromFields (EditProblemPane.java:1098)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.enableUpdateButton (EditProblemPane.java:654)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane$8.keyReleased (EditProblemPane.java:2784)
+|    at java.awt.Component.processKeyEvent (Unknown Source)
+|    at javax.swing.JComponent.processKeyEvent (Unknown Source)
+|    at java.awt.Component.processEvent (Unknown Source)
+|    at java.awt.Container.processEvent (Unknown Source)
+|    at java.awt.Component.dispatchEventImpl (Unknown Source)
+|    at java.awt.Container.dispatchEventImpl (Unknown Source)
+|    at java.awt.Component.dispatchEvent (Unknown Source)
+|    at java.awt.KeyboardFocusManager.redispatchEvent (Unknown Source)
+|    at java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent (Unknown Source)
+|    at java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent (Unknown Source)
+|    at java.awt.DefaultKeyboardFocusManager.typeAheadAssertions (Unknown Source)
+|    at java.awt.DefaultKeyboardFocusManager.dispatchEvent (Unknown Source)
+|    at java.awt.Component.dispatchEventImpl (Unknown Source)
+|    at java.awt.Container.dispatchEventImpl (Unknown Source)
+|    at java.awt.Window.dispatchEventImpl (Unknown Source)
+|    at java.awt.Component.dispatchEvent (Unknown Source)
+|    at java.awt.EventQueue.dispatchEventImpl (Unknown Source)
+|    at java.awt.EventQueue.access$500 (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue$4.run (Unknown Source)
+|    at java.awt.EventQueue$4.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue.dispatchEvent (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpOneEventForFilters (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForFilter (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForHierarchy (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.run (Unknown Source)
+200117 232437.419|INFO|AWT-EventQueue-0|loadDataFiles|No Judge's answer files with required  '.ans'  extension found in C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\TestData
+|java.lang.RuntimeException: No Judge's answer files with required  '.ans'  extension found in C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\TestData
+|    at edu.csus.ecs.pc2.ui.MultipleDataSetPane.loadDataFiles (MultipleDataSetPane.java:542)
+|    at edu.csus.ecs.pc2.ui.MultipleDataSetPane.loadDataFiles (MultipleDataSetPane.java:469)
+|    at edu.csus.ecs.pc2.ui.MultipleDataSetPane$3.actionPerformed (MultipleDataSetPane.java:509)
+|    at javax.swing.AbstractButton.fireActionPerformed (Unknown Source)
+|    at javax.swing.AbstractButton$Handler.actionPerformed (Unknown Source)
+|    at javax.swing.DefaultButtonModel.fireActionPerformed (Unknown Source)
+|    at javax.swing.DefaultButtonModel.setPressed (Unknown Source)
+|    at javax.swing.plaf.basic.BasicButtonListener.mouseReleased (Unknown Source)
+|    at java.awt.AWTEventMulticaster.mouseReleased (Unknown Source)
+|    at java.awt.Component.processMouseEvent (Unknown Source)
+|    at javax.swing.JComponent.processMouseEvent (Unknown Source)
+|    at java.awt.Component.processEvent (Unknown Source)
+|    at java.awt.Container.processEvent (Unknown Source)
+|    at java.awt.Component.dispatchEventImpl (Unknown Source)
+|    at java.awt.Container.dispatchEventImpl (Unknown Source)
+|    at java.awt.Component.dispatchEvent (Unknown Source)
+|    at java.awt.LightweightDispatcher.retargetMouseEvent (Unknown Source)
+|    at java.awt.LightweightDispatcher.processMouseEvent (Unknown Source)
+|    at java.awt.LightweightDispatcher.dispatchEvent (Unknown Source)
+|    at java.awt.Container.dispatchEventImpl (Unknown Source)
+|    at java.awt.Window.dispatchEventImpl (Unknown Source)
+|    at java.awt.Component.dispatchEvent (Unknown Source)
+|    at java.awt.EventQueue.dispatchEventImpl (Unknown Source)
+|    at java.awt.EventQueue.access$500 (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue$4.run (Unknown Source)
+|    at java.awt.EventQueue$4.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue.dispatchEvent (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpOneEventForFilters (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForFilter (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForHierarchy (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.run (Unknown Source)
+200117 232439.659|DEBUG|AWT-EventQueue-0|logDebugException|Input Problem (but not saving) 
+|edu.csus.ecs.pc2.ui.InvalidFieldValue: Error reading file ' C:\Users\625783\Desktop\packet2\judgesdata\playtime.dat ': C:\Users\625783\Desktop\packet2\judgesdata\playtime.dat while adding problem; choose data file again
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.getProblemFromFields (EditProblemPane.java:1098)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.enableUpdateButton (EditProblemPane.java:654)
+|    at edu.csus.ecs.pc2.ui.MultipleDataSetPane.loadDataFiles (MultipleDataSetPane.java:495)
+|    at edu.csus.ecs.pc2.ui.MultipleDataSetPane$3.actionPerformed (MultipleDataSetPane.java:509)
+|    at javax.swing.AbstractButton.fireActionPerformed (Unknown Source)
+|    at javax.swing.AbstractButton$Handler.actionPerformed (Unknown Source)
+|    at javax.swing.DefaultButtonModel.fireActionPerformed (Unknown Source)
+|    at javax.swing.DefaultButtonModel.setPressed (Unknown Source)
+|    at javax.swing.plaf.basic.BasicButtonListener.mouseReleased (Unknown Source)
+|    at java.awt.AWTEventMulticaster.mouseReleased (Unknown Source)
+|    at java.awt.Component.processMouseEvent (Unknown Source)
+|    at javax.swing.JComponent.processMouseEvent (Unknown Source)
+|    at java.awt.Component.processEvent (Unknown Source)
+|    at java.awt.Container.processEvent (Unknown Source)
+|    at java.awt.Component.dispatchEventImpl (Unknown Source)
+|    at java.awt.Container.dispatchEventImpl (Unknown Source)
+|    at java.awt.Component.dispatchEvent (Unknown Source)
+|    at java.awt.LightweightDispatcher.retargetMouseEvent (Unknown Source)
+|    at java.awt.LightweightDispatcher.processMouseEvent (Unknown Source)
+|    at java.awt.LightweightDispatcher.dispatchEvent (Unknown Source)
+|    at java.awt.Container.dispatchEventImpl (Unknown Source)
+|    at java.awt.Window.dispatchEventImpl (Unknown Source)
+|    at java.awt.Component.dispatchEvent (Unknown Source)
+|    at java.awt.EventQueue.dispatchEventImpl (Unknown Source)
+|    at java.awt.EventQueue.access$500 (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue$4.run (Unknown Source)
+|    at java.awt.EventQueue$4.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue.dispatchEvent (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpOneEventForFilters (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForFilter (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForHierarchy (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.run (Unknown Source)
+200117 234827.528|CONFIG|Thread-6|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
+200117 234827.528|INFO|Thread-6|info|
+200117 234827.528|INFO|Thread-6|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 234827.528|INFO|Thread-6|info|Login: administrator1 (aka administrator1)
+200117 234827.528|INFO|Thread-6|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 234827.529|INFO|Thread-6|startLog|Process id is 96188@DESKTOP-K31L36J
+200117 234827.529|INFO|Thread-6|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200117 234827.536|INFO|Thread-6|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200117 234827.905|INFO|Thread-6|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200117 234827.905|INFO|Thread-6|info|handlePacket end Packet[LOGIN_SUCCESS] #31 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200117 234827.905|INFO|Thread-6|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #31 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200117 234838.905|DEBUG|AWT-EventQueue-0|logDebugException|Input Problem (but not saving) 
+|edu.csus.ecs.pc2.ui.InvalidFieldValue: Error reading file ' C:\Users\625783\Desktop\packet2\judgesdata\playtime.dat ': C:\Users\625783\Desktop\packet2\judgesdata\playtime.dat while adding problem; choose data file again
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.getProblemFromFields (EditProblemPane.java:1098)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.enableUpdateButton (EditProblemPane.java:654)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane$6.run (EditProblemPane.java:2090)
+|    at java.awt.event.InvocationEvent.dispatch (Unknown Source)
+|    at java.awt.EventQueue.dispatchEventImpl (Unknown Source)
+|    at java.awt.EventQueue.access$500 (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue.dispatchEvent (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpOneEventForFilters (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForFilter (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForHierarchy (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.run (Unknown Source)
+200117 235022.394|CONFIG|Thread-6|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
+200117 235022.394|INFO|Thread-6|info|
+200117 235022.394|INFO|Thread-6|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 235022.394|INFO|Thread-6|info|Login: administrator1 (aka administrator1)
+200117 235022.394|INFO|Thread-6|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 235022.395|INFO|Thread-6|startLog|Process id is 95436@DESKTOP-K31L36J
+200117 235022.395|INFO|Thread-6|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200117 235022.399|INFO|Thread-6|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200117 235022.742|INFO|Thread-6|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200117 235022.743|INFO|Thread-6|info|handlePacket end Packet[LOGIN_SUCCESS] #36 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200117 235022.743|INFO|Thread-6|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #36 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200117 235133.763|CONFIG|Thread-6|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
+200117 235133.763|INFO|Thread-6|info|
+200117 235133.763|INFO|Thread-6|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 235133.763|INFO|Thread-6|info|Login: administrator1 (aka administrator1)
+200117 235133.763|INFO|Thread-6|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 235133.764|INFO|Thread-6|startLog|Process id is 95736@DESKTOP-K31L36J
+200117 235133.764|INFO|Thread-6|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200117 235133.768|INFO|Thread-6|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200117 235134.108|INFO|Thread-6|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200117 235134.108|INFO|Thread-6|info|handlePacket end Packet[LOGIN_SUCCESS] #41 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200117 235134.108|INFO|Thread-6|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #41 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200117 235529.259|CONFIG|Thread-6|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
+200117 235529.259|INFO|Thread-6|info|
+200117 235529.259|INFO|Thread-6|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 235529.259|INFO|Thread-6|info|Login: administrator1 (aka administrator1)
+200117 235529.259|INFO|Thread-6|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 235529.259|INFO|Thread-6|startLog|Process id is 87900@DESKTOP-K31L36J
+200117 235529.260|INFO|Thread-6|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200117 235529.264|INFO|Thread-6|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200117 235529.614|INFO|Thread-6|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200117 235529.614|INFO|Thread-6|info|handlePacket end Packet[LOGIN_SUCCESS] #2 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200117 235529.614|INFO|Thread-6|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #2 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200117 235546.737|DEBUG|AWT-EventQueue-0|logDebugException|Input Problem (but not saving) 
+|edu.csus.ecs.pc2.ui.InvalidFieldValue: Error reading file ' C:\Users\625783\Desktop\packet2\judgesdata\playtime.dat ': C:\Users\625783\Desktop\packet2\judgesdata\playtime.dat while adding problem; choose data file again
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.getProblemFromFields (EditProblemPane.java:1098)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.enableUpdateButton (EditProblemPane.java:654)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane$6.run (EditProblemPane.java:2090)
+|    at java.awt.event.InvocationEvent.dispatch (Unknown Source)
+|    at java.awt.EventQueue.dispatchEventImpl (Unknown Source)
+|    at java.awt.EventQueue.access$500 (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue.dispatchEvent (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpOneEventForFilters (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForFilter (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForHierarchy (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.run (Unknown Source)
+200117 235554.949|WARNING|AWT-EventQueue-0|logException|Problem with input Problem fields
+|edu.csus.ecs.pc2.ui.InvalidFieldValue: PC2 Validator selected but no valid Mode chosen
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.getPC2ValidatorSettingsFromFields (EditProblemPane.java:4964)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.getProblemFromFields (EditProblemPane.java:1192)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.populateGUI (EditProblemPane.java:2242)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.access$3 (EditProblemPane.java:2224)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane$6.run (EditProblemPane.java:2076)
+|    at java.awt.event.InvocationEvent.dispatch (Unknown Source)
+|    at java.awt.EventQueue.dispatchEventImpl (Unknown Source)
+|    at java.awt.EventQueue.access$500 (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue.dispatchEvent (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpOneEventForFilters (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForFilter (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForHierarchy (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.run (Unknown Source)
+200117 235554.952|DEBUG|AWT-EventQueue-0|logDebugException|Input Problem (but not saving) 
+|edu.csus.ecs.pc2.ui.InvalidFieldValue: PC2 Validator selected but no valid Mode chosen
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.getPC2ValidatorSettingsFromFields (EditProblemPane.java:4964)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.getProblemFromFields (EditProblemPane.java:1192)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane.enableUpdateButton (EditProblemPane.java:654)
+|    at edu.csus.ecs.pc2.ui.EditProblemPane$6.run (EditProblemPane.java:2090)
+|    at java.awt.event.InvocationEvent.dispatch (Unknown Source)
+|    at java.awt.EventQueue.dispatchEventImpl (Unknown Source)
+|    at java.awt.EventQueue.access$500 (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue.dispatchEvent (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpOneEventForFilters (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForFilter (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForHierarchy (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.run (Unknown Source)
+200117 235652.008|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[START_CONTEST_CLOCK] #2 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200117 235652.008|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[START_CONTEST_CLOCK] #2 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200117 235652.015|INFO|Thread-8|info| receiveObject(S) start got Packet[CLOCK_STARTED] #4 SERVER0 @ site 1 -> SERVER0 @ site 0
+200117 235652.015|INFO|Thread-8|dumpPacket|Packet CLOCK_STARTED (Seq #4, o#4 ) recieveObject
+200117 235652.015|INFO|Thread-8|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200117 235652.015|INFO|Thread-8|dumpPacket|    To: SERVER0 @ site 0
+200117 235652.015|INFO|Thread-8|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId ADMINISTRATOR1 @ site 1
+200117 235652.016|INFO|Thread-8|dumpPacket|   key: SERVER_CLOCK_OFFSET is: java.util.GregorianCalendar java.util.GregorianCalendar[time=1579327012012,areFieldsSet=true,areAllFieldsSet=false,lenient=true,zone=sun.util.calendar.ZoneInfo[id="GMT",offset=0,dstSavings=0,useDaylight=false,transitions=0,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2020,MONTH=0,WEEK_OF_YEAR=3,WEEK_OF_MONTH=3,DAY_OF_MONTH=18,DAY_OF_YEAR=18,DAY_OF_WEEK=7,DAY_OF_WEEK_IN_MONTH=3,AM_PM=0,HOUR=5,HOUR_OF_DAY=5,MINUTE=56,SECOND=52,MILLISECOND=12,ZONE_OFFSET=0,DST_OFFSET=0]
+200117 235652.016|INFO|Thread-8|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200117 235652.016|INFO|Thread-8|info|handlePacket start Packet[CLOCK_STARTED] #4 SERVER0 @ site 1 -> SERVER0 @ site 0
+200117 235652.016|INFO|Thread-8|dumpPacket|Packet CLOCK_STARTED (Seq #4, o#4 ) handlePacket
+200117 235652.016|INFO|Thread-8|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200117 235652.016|INFO|Thread-8|dumpPacket|    To: SERVER0 @ site 0
+200117 235652.016|INFO|Thread-8|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId ADMINISTRATOR1 @ site 1
+200117 235652.016|INFO|Thread-8|dumpPacket|   key: SERVER_CLOCK_OFFSET is: java.util.GregorianCalendar java.util.GregorianCalendar[time=1579327012012,areFieldsSet=true,areAllFieldsSet=false,lenient=true,zone=sun.util.calendar.ZoneInfo[id="GMT",offset=0,dstSavings=0,useDaylight=false,transitions=0,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2020,MONTH=0,WEEK_OF_YEAR=3,WEEK_OF_MONTH=3,DAY_OF_MONTH=18,DAY_OF_YEAR=18,DAY_OF_WEEK=7,DAY_OF_WEEK_IN_MONTH=3,AM_PM=0,HOUR=5,HOUR_OF_DAY=5,MINUTE=56,SECOND=52,MILLISECOND=12,ZONE_OFFSET=0,DST_OFFSET=0]
+200117 235652.016|INFO|Thread-8|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200117 235652.018|INFO|Thread-8|info|Clock for site 1 started by ADMINISTRATOR1 @ site 1 elapsed 0:00:00
+200117 235652.018|INFO|Thread-8|info| receiveObject(S) end   got Packet[CLOCK_STARTED] #4 SERVER0 @ site 1 -> SERVER0 @ site 0
+200117 235705.612|INFO|Thread-9|info| receiveObject(S) start got Packet[ESTABLISHED_CONNECTION] #5 SERVER0 @ site 1 -> SERVER0 @ site 0
+200117 235705.612|INFO|Thread-9|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #5, o#5 ) recieveObject
+200117 235705.612|INFO|Thread-9|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200117 235705.612|INFO|Thread-9|dumpPacket|    To: SERVER0 @ site 0
+200117 235705.612|INFO|Thread-9|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=51366,localport=50002]-4277113533511075788
+200117 235705.612|INFO|Thread-9|info|handlePacket start Packet[ESTABLISHED_CONNECTION] #5 SERVER0 @ site 1 -> SERVER0 @ site 0
+200117 235705.612|INFO|Thread-9|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #5, o#5 ) handlePacket
+200117 235705.613|INFO|Thread-9|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200117 235705.613|INFO|Thread-9|dumpPacket|    To: SERVER0 @ site 0
+200117 235705.613|INFO|Thread-9|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=51366,localport=50002]-4277113533511075788
+200117 235705.613|INFO|Thread-9|info| receiveObject(S) end   got Packet[ESTABLISHED_CONNECTION] #5 SERVER0 @ site 1 -> SERVER0 @ site 0
+200117 235711.000|INFO|Thread-10|info| receiveObject(S) start got Packet[ESTABLISHED_CONNECTION] #6 SERVER0 @ site 1 -> SERVER0 @ site 0
+200117 235711.001|INFO|Thread-10|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #6, o#6 ) recieveObject
+200117 235711.001|INFO|Thread-10|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200117 235711.001|INFO|Thread-10|dumpPacket|    To: SERVER0 @ site 0
+200117 235711.001|INFO|Thread-10|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=51373,localport=50002]-2142663465327587690
+200117 235711.001|INFO|Thread-10|info|handlePacket start Packet[ESTABLISHED_CONNECTION] #6 SERVER0 @ site 1 -> SERVER0 @ site 0
+200117 235711.001|INFO|Thread-10|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #6, o#6 ) handlePacket
+200117 235711.001|INFO|Thread-10|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200117 235711.001|INFO|Thread-10|dumpPacket|    To: SERVER0 @ site 0
+200117 235711.001|INFO|Thread-10|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=51373,localport=50002]-2142663465327587690
+200117 235711.001|INFO|Thread-10|info| receiveObject(S) end   got Packet[ESTABLISHED_CONNECTION] #6 SERVER0 @ site 1 -> SERVER0 @ site 0
+200117 235729.360|INFO|Thread-11|info| receiveObject(S) start got Packet[LOGIN] #10 SERVER0 @ site 1 -> SERVER0 @ site 0
+200117 235729.360|INFO|Thread-11|dumpPacket|Packet LOGIN (Seq #10, o#10 ) recieveObject
+200117 235729.360|INFO|Thread-11|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200117 235729.361|INFO|Thread-11|dumpPacket|    To: SERVER0 @ site 0
+200117 235729.361|INFO|Thread-11|dumpPacket|   key: CLIENT_SETTINGS is: edu.csus.ecs.pc2.core.model.ClientSettings edu.csus.ecs.pc2.core.model.ClientSettings@4ee3161a
+200117 235729.361|INFO|Thread-11|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=51366,localport=50002]-4277113533511075788
+200117 235729.361|INFO|Thread-11|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200117 235729.361|INFO|Thread-11|info|handlePacket start Packet[LOGIN] #10 SERVER0 @ site 1 -> SERVER0 @ site 0
+200117 235729.362|INFO|Thread-11|dumpPacket|Packet LOGIN (Seq #10, o#10 ) handlePacket
+200117 235729.363|INFO|Thread-11|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200117 235729.363|INFO|Thread-11|dumpPacket|    To: SERVER0 @ site 0
+200117 235729.363|INFO|Thread-11|dumpPacket|   key: CLIENT_SETTINGS is: edu.csus.ecs.pc2.core.model.ClientSettings edu.csus.ecs.pc2.core.model.ClientSettings@4ee3161a
+200117 235729.363|INFO|Thread-11|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=51366,localport=50002]-4277113533511075788
+200117 235729.363|INFO|Thread-11|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200117 235729.364|INFO|Thread-11|info|handlePacket end Packet[LOGIN] #10 SERVER0 @ site 1 -> SERVER0 @ site 0
+200117 235729.364|INFO|Thread-11|info| receiveObject(S) end   got Packet[LOGIN] #10 SERVER0 @ site 1 -> SERVER0 @ site 0
+200117 235734.553|INFO|Thread-12|info| receiveObject(S) start got Packet[LOGIN] #12 SERVER0 @ site 1 -> SERVER0 @ site 0
+200117 235734.553|INFO|Thread-12|dumpPacket|Packet LOGIN (Seq #12, o#12 ) recieveObject
+200117 235734.553|INFO|Thread-12|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200117 235734.554|INFO|Thread-12|dumpPacket|    To: SERVER0 @ site 0
+200117 235734.554|INFO|Thread-12|dumpPacket|   key: CLIENT_SETTINGS is: edu.csus.ecs.pc2.core.model.ClientSettings edu.csus.ecs.pc2.core.model.ClientSettings@55ac4177
+200117 235734.554|INFO|Thread-12|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=51373,localport=50002]-2142663465327587690
+200117 235734.554|INFO|Thread-12|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId TEAM9 @ site 1
+200117 235734.554|INFO|Thread-12|info|handlePacket start Packet[LOGIN] #12 SERVER0 @ site 1 -> SERVER0 @ site 0
+200117 235734.554|INFO|Thread-12|dumpPacket|Packet LOGIN (Seq #12, o#12 ) handlePacket
+200117 235734.555|INFO|Thread-12|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200117 235734.555|INFO|Thread-12|dumpPacket|    To: SERVER0 @ site 0
+200117 235734.555|INFO|Thread-12|dumpPacket|   key: CLIENT_SETTINGS is: edu.csus.ecs.pc2.core.model.ClientSettings edu.csus.ecs.pc2.core.model.ClientSettings@55ac4177
+200117 235734.555|INFO|Thread-12|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=51373,localport=50002]-2142663465327587690
+200117 235734.555|INFO|Thread-12|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId TEAM9 @ site 1
+200117 235734.555|INFO|Thread-12|info|handlePacket end Packet[LOGIN] #12 SERVER0 @ site 1 -> SERVER0 @ site 0
+200117 235734.555|INFO|Thread-12|info| receiveObject(S) end   got Packet[LOGIN] #12 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000020.862|INFO|Thread-13|info| receiveObject(S) start got Packet[RUN_SUBMISSION_CONFIRM] #13 SERVER0 @ site 1 -> TEAM9 @ site 1
+200118 000020.863|INFO|Thread-13|dumpPacket|Packet RUN_SUBMISSION_CONFIRM (Seq #13, o#13 ) recieveObject
+200118 000020.863|INFO|Thread-13|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000020.863|INFO|Thread-13|dumpPacket|    To: TEAM9 @ site 1
+200118 000020.863|INFO|Thread-13|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 QUEUED_FOR_COMPUTER_JUDGEMENT 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000020.863|INFO|Thread-13|info|handlePacket start Packet[RUN_SUBMISSION_CONFIRM] #13 SERVER0 @ site 1 -> TEAM9 @ site 1
+200118 000020.863|INFO|Thread-13|dumpPacket|Packet RUN_SUBMISSION_CONFIRM (Seq #13, o#13 ) handlePacket
+200118 000020.863|INFO|Thread-13|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000020.863|INFO|Thread-13|dumpPacket|    To: TEAM9 @ site 1
+200118 000020.863|INFO|Thread-13|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 QUEUED_FOR_COMPUTER_JUDGEMENT 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000020.865|INFO|Thread-13|info| receiveObject(S) end   got Packet[RUN_SUBMISSION_CONFIRM] #13 SERVER0 @ site 1 -> TEAM9 @ site 1
+200118 000030.134|INFO|Thread-14|info| receiveObject(S) start got Packet[LOGOUT] #15 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000030.134|INFO|Thread-14|dumpPacket|Packet LOGOUT (Seq #15, o#15 ) recieveObject
+200118 000030.135|INFO|Thread-14|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000030.135|INFO|Thread-14|dumpPacket|    To: SERVER0 @ site 0
+200118 000030.135|INFO|Thread-14|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000030.135|INFO|Thread-14|info|handlePacket start Packet[LOGOUT] #15 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000030.139|INFO|Thread-14|dumpPacket|Packet LOGOUT (Seq #15, o#15 ) handlePacket
+200118 000030.139|INFO|Thread-14|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000030.139|INFO|Thread-14|dumpPacket|    To: SERVER0 @ site 0
+200118 000030.139|INFO|Thread-14|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000030.140|INFO|Thread-15|info| receiveObject(S) start got Packet[DROPPED_CONNECTION] #16 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000030.140|INFO|Thread-15|dumpPacket|Packet DROPPED_CONNECTION (Seq #16, o#16 ) recieveObject
+200118 000030.140|INFO|Thread-15|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000030.140|INFO|Thread-15|dumpPacket|    To: SERVER0 @ site 0
+200118 000030.140|INFO|Thread-14|info|handlePacket end Packet[LOGOUT] #15 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000030.140|INFO|Thread-15|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=51366,localport=50002]-4277113533511075788
+200118 000030.140|INFO|Thread-14|info| receiveObject(S) end   got Packet[LOGOUT] #15 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000030.140|INFO|Thread-15|info|handlePacket start Packet[DROPPED_CONNECTION] #16 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000030.140|INFO|Thread-15|dumpPacket|Packet DROPPED_CONNECTION (Seq #16, o#16 ) handlePacket
+200118 000030.140|INFO|Thread-15|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000030.140|INFO|Thread-15|dumpPacket|    To: SERVER0 @ site 0
+200118 000030.140|INFO|Thread-15|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=51366,localport=50002]-4277113533511075788
+200118 000030.141|INFO|Thread-15|info| receiveObject(S) end   got Packet[DROPPED_CONNECTION] #16 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000037.241|INFO|Thread-16|info| receiveObject(S) start got Packet[ESTABLISHED_CONNECTION] #17 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000037.241|INFO|Thread-16|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #17, o#17 ) recieveObject
+200118 000037.241|INFO|Thread-16|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000037.241|INFO|Thread-16|dumpPacket|    To: SERVER0 @ site 0
+200118 000037.241|INFO|Thread-16|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=51603,localport=50002]--3722035443797185179
+200118 000037.241|INFO|Thread-16|info|handlePacket start Packet[ESTABLISHED_CONNECTION] #17 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000037.241|INFO|Thread-16|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #17, o#17 ) handlePacket
+200118 000037.241|INFO|Thread-16|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000037.241|INFO|Thread-16|dumpPacket|    To: SERVER0 @ site 0
+200118 000037.241|INFO|Thread-16|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=51603,localport=50002]--3722035443797185179
+200118 000037.241|INFO|Thread-16|info| receiveObject(S) end   got Packet[ESTABLISHED_CONNECTION] #17 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000041.550|INFO|Thread-17|info| receiveObject(S) start got Packet[LOGIN] #19 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000041.550|INFO|Thread-17|dumpPacket|Packet LOGIN (Seq #19, o#19 ) recieveObject
+200118 000041.550|INFO|Thread-17|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000041.550|INFO|Thread-17|dumpPacket|    To: SERVER0 @ site 0
+200118 000041.550|INFO|Thread-17|dumpPacket|   key: CLIENT_SETTINGS is: edu.csus.ecs.pc2.core.model.ClientSettings edu.csus.ecs.pc2.core.model.ClientSettings@2f1928b3
+200118 000041.550|INFO|Thread-17|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=51603,localport=50002]--3722035443797185179
+200118 000041.551|INFO|Thread-17|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000041.551|INFO|Thread-17|info|handlePacket start Packet[LOGIN] #19 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000041.551|INFO|Thread-17|dumpPacket|Packet LOGIN (Seq #19, o#19 ) handlePacket
+200118 000041.551|INFO|Thread-17|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000041.551|INFO|Thread-17|dumpPacket|    To: SERVER0 @ site 0
+200118 000041.551|INFO|Thread-17|dumpPacket|   key: CLIENT_SETTINGS is: edu.csus.ecs.pc2.core.model.ClientSettings edu.csus.ecs.pc2.core.model.ClientSettings@2f1928b3
+200118 000041.551|INFO|Thread-17|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=51603,localport=50002]--3722035443797185179
+200118 000041.551|INFO|Thread-17|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000041.551|INFO|Thread-17|info|handlePacket end Packet[LOGIN] #19 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000041.551|INFO|Thread-17|info| receiveObject(S) end   got Packet[LOGIN] #19 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000141.880|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[UPDATE_SETTING] #3 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200118 000141.880|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[UPDATE_SETTING] #3 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200118 000141.898|INFO|Thread-19|info| receiveObject(S) start got Packet[UPDATE_SETTING] #20 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000141.900|INFO|Thread-19|dumpPacket|Packet UPDATE_SETTING (Seq #20, o#3 ) recieveObject
+200118 000141.900|INFO|Thread-19|dumpPacket|  From: SERVER0 @ site 1, oADMINISTRATOR1 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000141.900|INFO|Thread-19|dumpPacket|    To: SERVER0 @ site 0
+200118 000141.900|INFO|Thread-19|dumpPacket|   key: CLIENT_SETTINGS is: edu.csus.ecs.pc2.core.model.ClientSettings edu.csus.ecs.pc2.core.model.ClientSettings@18bed201
+200118 000141.901|INFO|Thread-19|info|handlePacket start Packet[UPDATE_SETTING] #20 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000141.901|INFO|Thread-19|dumpPacket|Packet UPDATE_SETTING (Seq #20, o#3 ) handlePacket
+200118 000141.901|INFO|Thread-19|dumpPacket|  From: SERVER0 @ site 1, oADMINISTRATOR1 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000141.901|INFO|Thread-19|dumpPacket|    To: SERVER0 @ site 0
+200118 000141.901|INFO|Thread-19|dumpPacket|   key: CLIENT_SETTINGS is: edu.csus.ecs.pc2.core.model.ClientSettings edu.csus.ecs.pc2.core.model.ClientSettings@18bed201
+200118 000141.901|INFO|Thread-19|info|handlePacket end Packet[UPDATE_SETTING] #20 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000141.901|INFO|Thread-19|info| receiveObject(S) end   got Packet[UPDATE_SETTING] #20 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000142.865|INFO|Thread-20|info| receiveObject(S) start got Packet[RUN_CHECKOUT_NOTIFICATION] #22 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000142.865|INFO|Thread-20|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #22, o#22 ) recieveObject
+200118 000142.865|INFO|Thread-20|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000142.865|INFO|Thread-20|dumpPacket|    To: JUDGE1 @ site 1
+200118 000142.865|INFO|Thread-20|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000142.866|INFO|Thread-20|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 BEING_JUDGED 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000142.866|INFO|Thread-20|info|handlePacket start Packet[RUN_CHECKOUT_NOTIFICATION] #22 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000142.866|INFO|Thread-20|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #22, o#22 ) handlePacket
+200118 000142.866|INFO|Thread-20|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000142.866|INFO|Thread-20|dumpPacket|    To: JUDGE1 @ site 1
+200118 000142.866|INFO|Thread-20|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000142.866|INFO|Thread-20|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 BEING_JUDGED 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000142.866|INFO|Thread-20|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=CHECKEDOUT_RUN; msg=null; run=Run 1 BEING_JUDGED 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282; runFiles=null
+200118 000142.866|INFO|Thread-20|runChanged|Event not for me: sent to JUDGE1 @ site 1 but my ID is ADMINISTRATOR1 @ site 1
+200118 000142.879|INFO|Thread-20|info|handlePacket end Packet[RUN_CHECKOUT_NOTIFICATION] #22 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000142.879|INFO|Thread-20|info| receiveObject(S) end   got Packet[RUN_CHECKOUT_NOTIFICATION] #22 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000143.049|INFO|Thread-21|info| receiveObject(S) start got Packet[RUN_AVAILABLE] #23 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000143.049|INFO|Thread-21|dumpPacket|Packet RUN_AVAILABLE (Seq #23, o#23 ) recieveObject
+200118 000143.049|INFO|Thread-21|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000143.049|INFO|Thread-21|dumpPacket|    To: JUDGE1 @ site 1
+200118 000143.049|INFO|Thread-21|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 NEW 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000143.049|INFO|Thread-21|info|handlePacket start Packet[RUN_AVAILABLE] #23 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000143.049|INFO|Thread-21|dumpPacket|Packet RUN_AVAILABLE (Seq #23, o#23 ) handlePacket
+200118 000143.049|INFO|Thread-21|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000143.050|INFO|Thread-21|dumpPacket|    To: JUDGE1 @ site 1
+200118 000143.050|INFO|Thread-21|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 NEW 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000143.050|INFO|Thread-21|runChanged|RunsPane.RunListener: Action=RUN_AVAILABLE; DetailedAction=null; msg=null; run=Run 1 NEW 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282; runFiles=null
+200118 000143.050|INFO|Thread-21|runChanged|Event not for me: sent to null but my ID is ADMINISTRATOR1 @ site 1
+200118 000143.050|INFO|Thread-21|info| receiveObject(S) end   got Packet[RUN_AVAILABLE] #23 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000148.522|INFO|Thread-22|info| receiveObject(S) start got Packet[RUN_CHECKOUT_NOTIFICATION] #25 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000148.523|INFO|Thread-22|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #25, o#25 ) recieveObject
+200118 000148.523|INFO|Thread-22|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000148.523|INFO|Thread-22|dumpPacket|    To: JUDGE1 @ site 1
+200118 000148.523|INFO|Thread-22|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000148.523|INFO|Thread-22|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 BEING_JUDGED 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000148.523|INFO|Thread-22|info|handlePacket start Packet[RUN_CHECKOUT_NOTIFICATION] #25 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000148.523|INFO|Thread-22|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #25, o#25 ) handlePacket
+200118 000148.523|INFO|Thread-22|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000148.523|INFO|Thread-22|dumpPacket|    To: JUDGE1 @ site 1
+200118 000148.523|INFO|Thread-22|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000148.523|INFO|Thread-22|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 BEING_JUDGED 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000148.523|INFO|Thread-22|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=CHECKEDOUT_RUN; msg=null; run=Run 1 BEING_JUDGED 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282; runFiles=null
+200118 000148.524|INFO|Thread-22|runChanged|Event not for me: sent to JUDGE1 @ site 1 but my ID is ADMINISTRATOR1 @ site 1
+200118 000148.529|INFO|Thread-22|info|handlePacket end Packet[RUN_CHECKOUT_NOTIFICATION] #25 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000148.529|INFO|Thread-22|info| receiveObject(S) end   got Packet[RUN_CHECKOUT_NOTIFICATION] #25 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000357.909|INFO|Thread-23|info| receiveObject(S) start got Packet[RUN_AVAILABLE] #26 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000357.909|INFO|Thread-23|dumpPacket|Packet RUN_AVAILABLE (Seq #26, o#26 ) recieveObject
+200118 000357.909|INFO|Thread-23|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000357.909|INFO|Thread-23|dumpPacket|    To: JUDGE1 @ site 1
+200118 000357.909|INFO|Thread-23|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 NEW 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000357.909|INFO|Thread-23|info|handlePacket start Packet[RUN_AVAILABLE] #26 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000357.909|INFO|Thread-23|dumpPacket|Packet RUN_AVAILABLE (Seq #26, o#26 ) handlePacket
+200118 000357.909|INFO|Thread-23|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000357.909|INFO|Thread-23|dumpPacket|    To: JUDGE1 @ site 1
+200118 000357.909|INFO|Thread-23|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 NEW 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000357.910|INFO|Thread-23|runChanged|RunsPane.RunListener: Action=RUN_AVAILABLE; DetailedAction=null; msg=null; run=Run 1 NEW 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282; runFiles=null
+200118 000357.910|INFO|Thread-23|runChanged|Event not for me: sent to null but my ID is ADMINISTRATOR1 @ site 1
+200118 000357.910|INFO|Thread-23|info| receiveObject(S) end   got Packet[RUN_AVAILABLE] #26 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000401.630|INFO|Thread-24|info| receiveObject(S) start got Packet[RUN_CHECKOUT_NOTIFICATION] #28 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000401.631|INFO|Thread-24|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #28, o#28 ) recieveObject
+200118 000401.631|INFO|Thread-24|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000401.631|INFO|Thread-24|dumpPacket|    To: JUDGE1 @ site 1
+200118 000401.631|INFO|Thread-24|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000401.631|INFO|Thread-24|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 BEING_JUDGED 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000401.631|INFO|Thread-24|info|handlePacket start Packet[RUN_CHECKOUT_NOTIFICATION] #28 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000401.631|INFO|Thread-24|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #28, o#28 ) handlePacket
+200118 000401.631|INFO|Thread-24|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000401.631|INFO|Thread-24|dumpPacket|    To: JUDGE1 @ site 1
+200118 000401.631|INFO|Thread-24|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000401.631|INFO|Thread-24|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 BEING_JUDGED 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000401.631|INFO|Thread-24|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=CHECKEDOUT_RUN; msg=null; run=Run 1 BEING_JUDGED 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282; runFiles=null
+200118 000401.631|INFO|Thread-24|runChanged|Event not for me: sent to JUDGE1 @ site 1 but my ID is ADMINISTRATOR1 @ site 1
+200118 000401.638|INFO|Thread-24|info|handlePacket end Packet[RUN_CHECKOUT_NOTIFICATION] #28 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000401.638|INFO|Thread-24|info| receiveObject(S) end   got Packet[RUN_CHECKOUT_NOTIFICATION] #28 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000415.895|INFO|Thread-25|info| receiveObject(S) start got Packet[RUN_AVAILABLE] #29 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000415.895|INFO|Thread-25|dumpPacket|Packet RUN_AVAILABLE (Seq #29, o#29 ) recieveObject
+200118 000415.895|INFO|Thread-25|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000415.895|INFO|Thread-25|dumpPacket|    To: JUDGE1 @ site 1
+200118 000415.895|INFO|Thread-25|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 NEW 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000415.895|INFO|Thread-25|info|handlePacket start Packet[RUN_AVAILABLE] #29 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000415.895|INFO|Thread-25|dumpPacket|Packet RUN_AVAILABLE (Seq #29, o#29 ) handlePacket
+200118 000415.897|INFO|Thread-25|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000415.897|INFO|Thread-25|dumpPacket|    To: JUDGE1 @ site 1
+200118 000415.897|INFO|Thread-25|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 NEW 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000415.897|INFO|Thread-25|runChanged|RunsPane.RunListener: Action=RUN_AVAILABLE; DetailedAction=null; msg=null; run=Run 1 NEW 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282; runFiles=null
+200118 000415.897|INFO|Thread-25|runChanged|Event not for me: sent to null but my ID is ADMINISTRATOR1 @ site 1
+200118 000415.897|INFO|Thread-25|info| receiveObject(S) end   got Packet[RUN_AVAILABLE] #29 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000418.799|INFO|Thread-26|info| receiveObject(S) start got Packet[LOGOUT] #30 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000418.799|INFO|Thread-26|dumpPacket|Packet LOGOUT (Seq #30, o#30 ) recieveObject
+200118 000418.800|INFO|Thread-26|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000418.800|INFO|Thread-26|dumpPacket|    To: SERVER0 @ site 0
+200118 000418.800|INFO|Thread-26|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000418.800|INFO|Thread-26|info|handlePacket start Packet[LOGOUT] #30 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000418.800|INFO|Thread-26|dumpPacket|Packet LOGOUT (Seq #30, o#30 ) handlePacket
+200118 000418.800|INFO|Thread-26|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000418.800|INFO|Thread-26|dumpPacket|    To: SERVER0 @ site 0
+200118 000418.800|INFO|Thread-27|info| receiveObject(S) start got Packet[DROPPED_CONNECTION] #31 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000418.800|INFO|Thread-26|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000418.800|INFO|Thread-27|dumpPacket|Packet DROPPED_CONNECTION (Seq #31, o#31 ) recieveObject
+200118 000418.800|INFO|Thread-27|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000418.800|INFO|Thread-26|info|handlePacket end Packet[LOGOUT] #30 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000418.800|INFO|Thread-27|dumpPacket|    To: SERVER0 @ site 0
+200118 000418.800|INFO|Thread-26|info| receiveObject(S) end   got Packet[LOGOUT] #30 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000418.800|INFO|Thread-27|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=51603,localport=50002]--3722035443797185179
+200118 000418.800|INFO|Thread-27|info|handlePacket start Packet[DROPPED_CONNECTION] #31 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000418.801|INFO|Thread-27|dumpPacket|Packet DROPPED_CONNECTION (Seq #31, o#31 ) handlePacket
+200118 000418.801|INFO|Thread-27|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000418.801|INFO|Thread-27|dumpPacket|    To: SERVER0 @ site 0
+200118 000418.801|INFO|Thread-27|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=51603,localport=50002]--3722035443797185179
+200118 000418.801|INFO|Thread-27|info| receiveObject(S) end   got Packet[DROPPED_CONNECTION] #31 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000426.006|INFO|Thread-28|info| receiveObject(S) start got Packet[ESTABLISHED_CONNECTION] #32 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000426.006|INFO|Thread-28|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #32, o#32 ) recieveObject
+200118 000426.006|INFO|Thread-28|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000426.006|INFO|Thread-28|dumpPacket|    To: SERVER0 @ site 0
+200118 000426.006|INFO|Thread-28|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=51906,localport=50002]-5854511141735937055
+200118 000426.006|INFO|Thread-28|info|handlePacket start Packet[ESTABLISHED_CONNECTION] #32 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000426.006|INFO|Thread-28|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #32, o#32 ) handlePacket
+200118 000426.006|INFO|Thread-28|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000426.006|INFO|Thread-28|dumpPacket|    To: SERVER0 @ site 0
+200118 000426.006|INFO|Thread-28|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=51906,localport=50002]-5854511141735937055
+200118 000426.006|INFO|Thread-28|info| receiveObject(S) end   got Packet[ESTABLISHED_CONNECTION] #32 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000430.313|INFO|Thread-29|info| receiveObject(S) start got Packet[LOGIN] #34 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000430.313|INFO|Thread-29|dumpPacket|Packet LOGIN (Seq #34, o#34 ) recieveObject
+200118 000430.313|INFO|Thread-29|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000430.313|INFO|Thread-29|dumpPacket|    To: SERVER0 @ site 0
+200118 000430.313|INFO|Thread-29|dumpPacket|   key: CLIENT_SETTINGS is: edu.csus.ecs.pc2.core.model.ClientSettings edu.csus.ecs.pc2.core.model.ClientSettings@15e911ad
+200118 000430.313|INFO|Thread-29|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=51906,localport=50002]-5854511141735937055
+200118 000430.313|INFO|Thread-29|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000430.313|INFO|Thread-29|info|handlePacket start Packet[LOGIN] #34 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000430.313|INFO|Thread-29|dumpPacket|Packet LOGIN (Seq #34, o#34 ) handlePacket
+200118 000430.313|INFO|Thread-29|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000430.313|INFO|Thread-29|dumpPacket|    To: SERVER0 @ site 0
+200118 000430.313|INFO|Thread-29|dumpPacket|   key: CLIENT_SETTINGS is: edu.csus.ecs.pc2.core.model.ClientSettings edu.csus.ecs.pc2.core.model.ClientSettings@15e911ad
+200118 000430.313|INFO|Thread-29|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=51906,localport=50002]-5854511141735937055
+200118 000430.313|INFO|Thread-29|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000430.313|INFO|Thread-29|info|handlePacket end Packet[LOGIN] #34 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000430.313|INFO|Thread-29|info| receiveObject(S) end   got Packet[LOGIN] #34 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000432.693|INFO|Thread-30|info| receiveObject(S) start got Packet[RUN_CHECKOUT_NOTIFICATION] #36 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000432.693|INFO|Thread-30|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #36, o#36 ) recieveObject
+200118 000432.693|INFO|Thread-30|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000432.693|INFO|Thread-30|dumpPacket|    To: JUDGE1 @ site 1
+200118 000432.693|INFO|Thread-30|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000432.693|INFO|Thread-30|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 BEING_JUDGED 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000432.694|INFO|Thread-30|info|handlePacket start Packet[RUN_CHECKOUT_NOTIFICATION] #36 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000432.695|INFO|Thread-30|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #36, o#36 ) handlePacket
+200118 000432.695|INFO|Thread-30|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000432.695|INFO|Thread-30|dumpPacket|    To: JUDGE1 @ site 1
+200118 000432.695|INFO|Thread-30|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000432.696|INFO|Thread-30|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 BEING_JUDGED 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000432.696|INFO|Thread-30|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=CHECKEDOUT_RUN; msg=null; run=Run 1 BEING_JUDGED 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282; runFiles=null
+200118 000432.697|INFO|Thread-30|runChanged|Event not for me: sent to JUDGE1 @ site 1 but my ID is ADMINISTRATOR1 @ site 1
+200118 000432.702|INFO|Thread-30|info|handlePacket end Packet[RUN_CHECKOUT_NOTIFICATION] #36 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000432.702|INFO|Thread-30|info| receiveObject(S) end   got Packet[RUN_CHECKOUT_NOTIFICATION] #36 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000510.456|INFO|Thread-31|info| receiveObject(S) start got Packet[RUN_AVAILABLE] #37 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000510.456|INFO|Thread-31|dumpPacket|Packet RUN_AVAILABLE (Seq #37, o#37 ) recieveObject
+200118 000510.456|INFO|Thread-31|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000510.456|INFO|Thread-31|dumpPacket|    To: JUDGE1 @ site 1
+200118 000510.456|INFO|Thread-31|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 NEW 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000510.456|INFO|Thread-31|info|handlePacket start Packet[RUN_AVAILABLE] #37 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000510.456|INFO|Thread-31|dumpPacket|Packet RUN_AVAILABLE (Seq #37, o#37 ) handlePacket
+200118 000510.456|INFO|Thread-31|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000510.456|INFO|Thread-31|dumpPacket|    To: JUDGE1 @ site 1
+200118 000510.456|INFO|Thread-31|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 NEW 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000510.456|INFO|Thread-31|runChanged|RunsPane.RunListener: Action=RUN_AVAILABLE; DetailedAction=null; msg=null; run=Run 1 NEW 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282; runFiles=null
+200118 000510.456|INFO|Thread-31|runChanged|Event not for me: sent to null but my ID is ADMINISTRATOR1 @ site 1
+200118 000510.457|INFO|Thread-31|info| receiveObject(S) end   got Packet[RUN_AVAILABLE] #37 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000512.940|INFO|Thread-32|info| receiveObject(S) start got Packet[RUN_CHECKOUT_NOTIFICATION] #39 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000512.940|INFO|Thread-32|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #39, o#39 ) recieveObject
+200118 000512.940|INFO|Thread-32|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000512.940|INFO|Thread-32|dumpPacket|    To: JUDGE1 @ site 1
+200118 000512.940|INFO|Thread-32|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000512.940|INFO|Thread-32|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 BEING_JUDGED 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000512.940|INFO|Thread-32|info|handlePacket start Packet[RUN_CHECKOUT_NOTIFICATION] #39 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000512.940|INFO|Thread-32|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #39, o#39 ) handlePacket
+200118 000512.940|INFO|Thread-32|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000512.940|INFO|Thread-32|dumpPacket|    To: JUDGE1 @ site 1
+200118 000512.940|INFO|Thread-32|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000512.940|INFO|Thread-32|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 BEING_JUDGED 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000512.940|INFO|Thread-32|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=CHECKEDOUT_RUN; msg=null; run=Run 1 BEING_JUDGED 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282; runFiles=null
+200118 000512.940|INFO|Thread-32|runChanged|Event not for me: sent to JUDGE1 @ site 1 but my ID is ADMINISTRATOR1 @ site 1
+200118 000512.944|INFO|Thread-32|info|handlePacket end Packet[RUN_CHECKOUT_NOTIFICATION] #39 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000512.944|INFO|Thread-32|info| receiveObject(S) end   got Packet[RUN_CHECKOUT_NOTIFICATION] #39 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000732.343|INFO|Thread-33|info| receiveObject(S) start got Packet[RUN_AVAILABLE] #40 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000732.343|INFO|Thread-33|dumpPacket|Packet RUN_AVAILABLE (Seq #40, o#40 ) recieveObject
+200118 000732.343|INFO|Thread-33|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000732.343|INFO|Thread-33|dumpPacket|    To: JUDGE1 @ site 1
+200118 000732.343|INFO|Thread-33|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 NEW 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000732.343|INFO|Thread-33|info|handlePacket start Packet[RUN_AVAILABLE] #40 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000732.343|INFO|Thread-33|dumpPacket|Packet RUN_AVAILABLE (Seq #40, o#40 ) handlePacket
+200118 000732.343|INFO|Thread-33|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000732.343|INFO|Thread-33|dumpPacket|    To: JUDGE1 @ site 1
+200118 000732.343|INFO|Thread-33|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 NEW 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000732.344|INFO|Thread-33|runChanged|RunsPane.RunListener: Action=RUN_AVAILABLE; DetailedAction=null; msg=null; run=Run 1 NEW 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282; runFiles=null
+200118 000732.344|INFO|Thread-33|runChanged|Event not for me: sent to null but my ID is ADMINISTRATOR1 @ site 1
+200118 000732.344|INFO|Thread-33|info| receiveObject(S) end   got Packet[RUN_AVAILABLE] #40 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000734.145|INFO|Thread-34|info| receiveObject(S) start got Packet[RUN_CHECKOUT_NOTIFICATION] #42 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000734.145|INFO|Thread-34|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #42, o#42 ) recieveObject
+200118 000734.145|INFO|Thread-34|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000734.145|INFO|Thread-34|dumpPacket|    To: JUDGE1 @ site 1
+200118 000734.145|INFO|Thread-34|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000734.145|INFO|Thread-34|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 BEING_JUDGED 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000734.145|INFO|Thread-34|info|handlePacket start Packet[RUN_CHECKOUT_NOTIFICATION] #42 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000734.146|INFO|Thread-34|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #42, o#42 ) handlePacket
+200118 000734.146|INFO|Thread-34|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000734.146|INFO|Thread-34|dumpPacket|    To: JUDGE1 @ site 1
+200118 000734.146|INFO|Thread-34|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000734.146|INFO|Thread-34|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 BEING_JUDGED 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000734.146|INFO|Thread-34|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=CHECKEDOUT_RUN; msg=null; run=Run 1 BEING_JUDGED 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282; runFiles=null
+200118 000734.146|INFO|Thread-34|runChanged|Event not for me: sent to JUDGE1 @ site 1 but my ID is ADMINISTRATOR1 @ site 1
+200118 000734.150|INFO|Thread-34|info|handlePacket end Packet[RUN_CHECKOUT_NOTIFICATION] #42 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000734.150|INFO|Thread-34|info| receiveObject(S) end   got Packet[RUN_CHECKOUT_NOTIFICATION] #42 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000738.414|INFO|Thread-35|info| receiveObject(S) start got Packet[RUN_JUDGEMENT_UPDATE] #44 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000738.414|INFO|Thread-35|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #44, o#44 ) recieveObject
+200118 000738.414|INFO|Thread-35|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000738.414|INFO|Thread-35|dumpPacket|    To: SERVER0 @ site 0
+200118 000738.414|INFO|Thread-35|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000738.414|INFO|Thread-35|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 JUDGED 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000738.414|INFO|Thread-35|info|handlePacket start Packet[RUN_JUDGEMENT_UPDATE] #44 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000738.414|INFO|Thread-35|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #44, o#44 ) handlePacket
+200118 000738.414|INFO|Thread-35|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000738.414|INFO|Thread-35|dumpPacket|    To: SERVER0 @ site 0
+200118 000738.415|INFO|Thread-35|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000738.415|INFO|Thread-35|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 JUDGED 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000738.415|INFO|Thread-35|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=null; msg=null; run=Run 1 JUDGED 3 min 208830ms from TEAM9 @ site 1 id Run-7233894321269857746 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282; runFiles=null
+200118 000738.415|INFO|Thread-35|runChanged|Event not for me: sent to null but my ID is ADMINISTRATOR1 @ site 1
+200118 000738.420|INFO|Thread-35|info| receiveObject(S) end   got Packet[RUN_JUDGEMENT_UPDATE] #44 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000755.497|INFO|Thread-36|info| receiveObject(S) start got Packet[RUN_SUBMISSION_CONFIRM] #45 SERVER0 @ site 1 -> TEAM9 @ site 1
+200118 000755.498|INFO|Thread-36|dumpPacket|Packet RUN_SUBMISSION_CONFIRM (Seq #45, o#45 ) recieveObject
+200118 000755.498|INFO|Thread-36|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000755.498|INFO|Thread-36|dumpPacket|    To: TEAM9 @ site 1
+200118 000755.498|INFO|Thread-36|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 2 QUEUED_FOR_COMPUTER_JUDGEMENT 11 min 663481ms from TEAM9 @ site 1 id Run--3771286471058616564 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000755.498|INFO|Thread-36|info|handlePacket start Packet[RUN_SUBMISSION_CONFIRM] #45 SERVER0 @ site 1 -> TEAM9 @ site 1
+200118 000755.498|INFO|Thread-36|dumpPacket|Packet RUN_SUBMISSION_CONFIRM (Seq #45, o#45 ) handlePacket
+200118 000755.498|INFO|Thread-36|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000755.498|INFO|Thread-36|dumpPacket|    To: TEAM9 @ site 1
+200118 000755.498|INFO|Thread-36|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 2 QUEUED_FOR_COMPUTER_JUDGEMENT 11 min 663481ms from TEAM9 @ site 1 id Run--3771286471058616564 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000755.498|INFO|Thread-36|info| receiveObject(S) end   got Packet[RUN_SUBMISSION_CONFIRM] #45 SERVER0 @ site 1 -> TEAM9 @ site 1
+200118 000755.934|INFO|Thread-37|info| receiveObject(S) start got Packet[RUN_CHECKOUT_NOTIFICATION] #48 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000755.934|INFO|Thread-37|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #48, o#48 ) recieveObject
+200118 000755.934|INFO|Thread-37|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000755.934|INFO|Thread-37|dumpPacket|    To: JUDGE1 @ site 1
+200118 000755.934|INFO|Thread-37|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000755.934|INFO|Thread-37|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 2 BEING_JUDGED 11 min 663481ms from TEAM9 @ site 1 id Run--3771286471058616564 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000755.934|INFO|Thread-37|info|handlePacket start Packet[RUN_CHECKOUT_NOTIFICATION] #48 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000755.934|INFO|Thread-37|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #48, o#48 ) handlePacket
+200118 000755.934|INFO|Thread-37|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000755.934|INFO|Thread-37|dumpPacket|    To: JUDGE1 @ site 1
+200118 000755.934|INFO|Thread-37|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000755.934|INFO|Thread-37|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 2 BEING_JUDGED 11 min 663481ms from TEAM9 @ site 1 id Run--3771286471058616564 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000755.934|INFO|Thread-37|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=CHECKEDOUT_RUN; msg=null; run=Run 2 BEING_JUDGED 11 min 663481ms from TEAM9 @ site 1 id Run--3771286471058616564 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282; runFiles=null
+200118 000755.934|INFO|Thread-37|runChanged|Event not for me: sent to JUDGE1 @ site 1 but my ID is ADMINISTRATOR1 @ site 1
+200118 000755.938|INFO|Thread-37|info|handlePacket end Packet[RUN_CHECKOUT_NOTIFICATION] #48 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000755.938|INFO|Thread-37|info| receiveObject(S) end   got Packet[RUN_CHECKOUT_NOTIFICATION] #48 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000756.469|INFO|Thread-38|info| receiveObject(S) start got Packet[RUN_JUDGEMENT_UPDATE] #49 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000756.470|INFO|Thread-38|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #49, o#49 ) recieveObject
+200118 000756.470|INFO|Thread-38|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000756.470|INFO|Thread-38|dumpPacket|    To: SERVER0 @ site 0
+200118 000756.470|INFO|Thread-38|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000756.470|INFO|Thread-38|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 2 MANUAL_REVIEW 11 min 663481ms from TEAM9 @ site 1 id Run--3771286471058616564 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000756.470|INFO|Thread-38|info|handlePacket start Packet[RUN_JUDGEMENT_UPDATE] #49 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000756.470|INFO|Thread-38|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #49, o#49 ) handlePacket
+200118 000756.470|INFO|Thread-38|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000756.470|INFO|Thread-38|dumpPacket|    To: SERVER0 @ site 0
+200118 000756.470|INFO|Thread-38|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000756.470|INFO|Thread-38|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 2 MANUAL_REVIEW 11 min 663481ms from TEAM9 @ site 1 id Run--3771286471058616564 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000756.470|INFO|Thread-38|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=null; msg=null; run=Run 2 MANUAL_REVIEW 11 min 663481ms from TEAM9 @ site 1 id Run--3771286471058616564 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282; runFiles=null
+200118 000756.470|INFO|Thread-38|runChanged|Event not for me: sent to null but my ID is ADMINISTRATOR1 @ site 1
+200118 000756.473|INFO|Thread-38|info| receiveObject(S) end   got Packet[RUN_JUDGEMENT_UPDATE] #49 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000758.387|INFO|Thread-39|info| receiveObject(S) start got Packet[RUN_CHECKOUT_NOTIFICATION] #51 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000758.387|INFO|Thread-39|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #51, o#51 ) recieveObject
+200118 000758.387|INFO|Thread-39|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000758.387|INFO|Thread-39|dumpPacket|    To: JUDGE1 @ site 1
+200118 000758.387|INFO|Thread-39|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000758.387|INFO|Thread-39|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 2 BEING_JUDGED 11 min 663481ms from TEAM9 @ site 1 id Run--3771286471058616564 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000758.387|INFO|Thread-39|info|handlePacket start Packet[RUN_CHECKOUT_NOTIFICATION] #51 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000758.387|INFO|Thread-39|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #51, o#51 ) handlePacket
+200118 000758.387|INFO|Thread-39|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000758.387|INFO|Thread-39|dumpPacket|    To: JUDGE1 @ site 1
+200118 000758.387|INFO|Thread-39|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000758.387|INFO|Thread-39|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 2 BEING_JUDGED 11 min 663481ms from TEAM9 @ site 1 id Run--3771286471058616564 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000758.387|INFO|Thread-39|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=CHECKEDOUT_RUN; msg=null; run=Run 2 BEING_JUDGED 11 min 663481ms from TEAM9 @ site 1 id Run--3771286471058616564 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282; runFiles=null
+200118 000758.387|INFO|Thread-39|runChanged|Event not for me: sent to JUDGE1 @ site 1 but my ID is ADMINISTRATOR1 @ site 1
+200118 000758.390|INFO|Thread-39|info|handlePacket end Packet[RUN_CHECKOUT_NOTIFICATION] #51 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000758.390|INFO|Thread-39|info| receiveObject(S) end   got Packet[RUN_CHECKOUT_NOTIFICATION] #51 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 000921.034|INFO|Thread-40|info| receiveObject(S) start got Packet[RUN_JUDGEMENT_UPDATE] #53 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000921.035|INFO|Thread-40|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #53, o#53 ) recieveObject
+200118 000921.035|INFO|Thread-40|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000921.035|INFO|Thread-40|dumpPacket|    To: SERVER0 @ site 0
+200118 000921.035|INFO|Thread-40|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000921.035|INFO|Thread-40|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 2 JUDGED 11 min 663481ms from TEAM9 @ site 1 id Run--3771286471058616564 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000921.035|INFO|Thread-40|info|handlePacket start Packet[RUN_JUDGEMENT_UPDATE] #53 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 000921.035|INFO|Thread-40|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #53, o#53 ) handlePacket
+200118 000921.035|INFO|Thread-40|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 000921.035|INFO|Thread-40|dumpPacket|    To: SERVER0 @ site 0
+200118 000921.035|INFO|Thread-40|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 000921.035|INFO|Thread-40|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 2 JUDGED 11 min 663481ms from TEAM9 @ site 1 id Run--3771286471058616564 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282
+200118 000921.035|INFO|Thread-40|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=null; msg=null; run=Run 2 JUDGED 11 min 663481ms from TEAM9 @ site 1 id Run--3771286471058616564 problem NEWTEST-1392576944304572800 lang Java--8544374802327027282; runFiles=null
+200118 000921.035|INFO|Thread-40|runChanged|Event not for me: sent to null but my ID is ADMINISTRATOR1 @ site 1
+200118 000921.041|INFO|Thread-40|info| receiveObject(S) end   got Packet[RUN_JUDGEMENT_UPDATE] #53 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001042.719|INFO|Thread-41|info| receiveObject(S) start got Packet[RUN_SUBMISSION_CONFIRM] #54 SERVER0 @ site 1 -> TEAM9 @ site 1
+200118 001042.719|INFO|Thread-41|dumpPacket|Packet RUN_SUBMISSION_CONFIRM (Seq #54, o#54 ) recieveObject
+200118 001042.719|INFO|Thread-41|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001042.719|INFO|Thread-41|dumpPacket|    To: TEAM9 @ site 1
+200118 001042.719|INFO|Thread-41|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 3 QUEUED_FOR_COMPUTER_JUDGEMENT 13 min 830689ms from TEAM9 @ site 1 id Run-7008536506702459095 problem NEWTEST--9004221673204648271 lang Java--8544374802327027282
+200118 001042.719|INFO|Thread-41|info|handlePacket start Packet[RUN_SUBMISSION_CONFIRM] #54 SERVER0 @ site 1 -> TEAM9 @ site 1
+200118 001042.719|INFO|Thread-41|dumpPacket|Packet RUN_SUBMISSION_CONFIRM (Seq #54, o#54 ) handlePacket
+200118 001042.720|INFO|Thread-41|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001042.720|INFO|Thread-41|dumpPacket|    To: TEAM9 @ site 1
+200118 001042.720|INFO|Thread-41|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 3 QUEUED_FOR_COMPUTER_JUDGEMENT 13 min 830689ms from TEAM9 @ site 1 id Run-7008536506702459095 problem NEWTEST--9004221673204648271 lang Java--8544374802327027282
+200118 001042.720|INFO|Thread-41|info| receiveObject(S) end   got Packet[RUN_SUBMISSION_CONFIRM] #54 SERVER0 @ site 1 -> TEAM9 @ site 1
+200118 001042.893|INFO|Thread-42|info| receiveObject(S) start got Packet[RUN_CHECKOUT_NOTIFICATION] #57 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001042.893|INFO|Thread-42|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #57, o#57 ) recieveObject
+200118 001042.893|INFO|Thread-42|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001042.893|INFO|Thread-42|dumpPacket|    To: JUDGE1 @ site 1
+200118 001042.893|INFO|Thread-42|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001042.893|INFO|Thread-42|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 3 BEING_JUDGED 13 min 830689ms from TEAM9 @ site 1 id Run-7008536506702459095 problem NEWTEST--9004221673204648271 lang Java--8544374802327027282
+200118 001042.893|INFO|Thread-42|info|handlePacket start Packet[RUN_CHECKOUT_NOTIFICATION] #57 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001042.893|INFO|Thread-42|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #57, o#57 ) handlePacket
+200118 001042.893|INFO|Thread-42|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001042.893|INFO|Thread-42|dumpPacket|    To: JUDGE1 @ site 1
+200118 001042.893|INFO|Thread-42|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001042.893|INFO|Thread-42|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 3 BEING_JUDGED 13 min 830689ms from TEAM9 @ site 1 id Run-7008536506702459095 problem NEWTEST--9004221673204648271 lang Java--8544374802327027282
+200118 001042.894|INFO|Thread-42|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=CHECKEDOUT_RUN; msg=null; run=Run 3 BEING_JUDGED 13 min 830689ms from TEAM9 @ site 1 id Run-7008536506702459095 problem NEWTEST--9004221673204648271 lang Java--8544374802327027282; runFiles=null
+200118 001042.894|INFO|Thread-42|runChanged|Event not for me: sent to JUDGE1 @ site 1 but my ID is ADMINISTRATOR1 @ site 1
+200118 001042.896|INFO|Thread-42|info|handlePacket end Packet[RUN_CHECKOUT_NOTIFICATION] #57 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001042.896|INFO|Thread-42|info| receiveObject(S) end   got Packet[RUN_CHECKOUT_NOTIFICATION] #57 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001043.415|INFO|Thread-43|info| receiveObject(S) start got Packet[RUN_JUDGEMENT_UPDATE] #58 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001043.415|INFO|Thread-43|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #58, o#58 ) recieveObject
+200118 001043.415|INFO|Thread-43|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001043.415|INFO|Thread-43|dumpPacket|    To: SERVER0 @ site 0
+200118 001043.415|INFO|Thread-43|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001043.415|INFO|Thread-43|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 3 MANUAL_REVIEW 13 min 830689ms from TEAM9 @ site 1 id Run-7008536506702459095 problem NEWTEST--9004221673204648271 lang Java--8544374802327027282
+200118 001043.415|INFO|Thread-43|info|handlePacket start Packet[RUN_JUDGEMENT_UPDATE] #58 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001043.415|INFO|Thread-43|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #58, o#58 ) handlePacket
+200118 001043.415|INFO|Thread-43|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001043.415|INFO|Thread-43|dumpPacket|    To: SERVER0 @ site 0
+200118 001043.415|INFO|Thread-43|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001043.415|INFO|Thread-43|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 3 MANUAL_REVIEW 13 min 830689ms from TEAM9 @ site 1 id Run-7008536506702459095 problem NEWTEST--9004221673204648271 lang Java--8544374802327027282
+200118 001043.415|INFO|Thread-43|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=null; msg=null; run=Run 3 MANUAL_REVIEW 13 min 830689ms from TEAM9 @ site 1 id Run-7008536506702459095 problem NEWTEST--9004221673204648271 lang Java--8544374802327027282; runFiles=null
+200118 001043.415|INFO|Thread-43|runChanged|Event not for me: sent to null but my ID is ADMINISTRATOR1 @ site 1
+200118 001043.418|INFO|Thread-43|info| receiveObject(S) end   got Packet[RUN_JUDGEMENT_UPDATE] #58 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001044.698|INFO|Thread-44|info| receiveObject(S) start got Packet[RUN_CHECKOUT_NOTIFICATION] #60 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001044.698|INFO|Thread-44|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #60, o#60 ) recieveObject
+200118 001044.698|INFO|Thread-44|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001044.698|INFO|Thread-44|dumpPacket|    To: JUDGE1 @ site 1
+200118 001044.698|INFO|Thread-44|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001044.698|INFO|Thread-44|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 3 BEING_JUDGED 13 min 830689ms from TEAM9 @ site 1 id Run-7008536506702459095 problem NEWTEST--9004221673204648271 lang Java--8544374802327027282
+200118 001044.698|INFO|Thread-44|info|handlePacket start Packet[RUN_CHECKOUT_NOTIFICATION] #60 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001044.698|INFO|Thread-44|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #60, o#60 ) handlePacket
+200118 001044.698|INFO|Thread-44|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001044.698|INFO|Thread-44|dumpPacket|    To: JUDGE1 @ site 1
+200118 001044.699|INFO|Thread-44|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001044.699|INFO|Thread-44|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 3 BEING_JUDGED 13 min 830689ms from TEAM9 @ site 1 id Run-7008536506702459095 problem NEWTEST--9004221673204648271 lang Java--8544374802327027282
+200118 001044.699|INFO|Thread-44|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=CHECKEDOUT_RUN; msg=null; run=Run 3 BEING_JUDGED 13 min 830689ms from TEAM9 @ site 1 id Run-7008536506702459095 problem NEWTEST--9004221673204648271 lang Java--8544374802327027282; runFiles=null
+200118 001044.699|INFO|Thread-44|runChanged|Event not for me: sent to JUDGE1 @ site 1 but my ID is ADMINISTRATOR1 @ site 1
+200118 001044.702|INFO|Thread-44|info|handlePacket end Packet[RUN_CHECKOUT_NOTIFICATION] #60 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001044.702|INFO|Thread-44|info| receiveObject(S) end   got Packet[RUN_CHECKOUT_NOTIFICATION] #60 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001102.466|INFO|Thread-45|info| receiveObject(S) start got Packet[RUN_JUDGEMENT_UPDATE] #62 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001102.467|INFO|Thread-45|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #62, o#62 ) recieveObject
+200118 001102.467|INFO|Thread-45|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001102.467|INFO|Thread-45|dumpPacket|    To: SERVER0 @ site 0
+200118 001102.467|INFO|Thread-45|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001102.467|INFO|Thread-45|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 3 JUDGED 13 min 830689ms from TEAM9 @ site 1 id Run-7008536506702459095 problem NEWTEST--9004221673204648271 lang Java--8544374802327027282
+200118 001102.467|INFO|Thread-45|info|handlePacket start Packet[RUN_JUDGEMENT_UPDATE] #62 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001102.467|INFO|Thread-45|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #62, o#62 ) handlePacket
+200118 001102.467|INFO|Thread-45|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001102.467|INFO|Thread-45|dumpPacket|    To: SERVER0 @ site 0
+200118 001102.467|INFO|Thread-45|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001102.467|INFO|Thread-45|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 3 JUDGED 13 min 830689ms from TEAM9 @ site 1 id Run-7008536506702459095 problem NEWTEST--9004221673204648271 lang Java--8544374802327027282
+200118 001102.467|INFO|Thread-45|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=null; msg=null; run=Run 3 JUDGED 13 min 830689ms from TEAM9 @ site 1 id Run-7008536506702459095 problem NEWTEST--9004221673204648271 lang Java--8544374802327027282; runFiles=null
+200118 001102.467|INFO|Thread-45|runChanged|Event not for me: sent to null but my ID is ADMINISTRATOR1 @ site 1
+200118 001102.471|INFO|Thread-45|info| receiveObject(S) end   got Packet[RUN_JUDGEMENT_UPDATE] #62 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001114.266|INFO|Thread-46|info| receiveObject(S) start got Packet[RUN_SUBMISSION_CONFIRM] #63 SERVER0 @ site 1 -> TEAM9 @ site 1
+200118 001114.266|INFO|Thread-46|dumpPacket|Packet RUN_SUBMISSION_CONFIRM (Seq #63, o#63 ) recieveObject
+200118 001114.266|INFO|Thread-46|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001114.266|INFO|Thread-46|dumpPacket|    To: TEAM9 @ site 1
+200118 001114.266|INFO|Thread-46|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 4 QUEUED_FOR_COMPUTER_JUDGEMENT 14 min 862249ms from TEAM9 @ site 1 id Run-7891112300271502936 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001114.267|INFO|Thread-46|info|handlePacket start Packet[RUN_SUBMISSION_CONFIRM] #63 SERVER0 @ site 1 -> TEAM9 @ site 1
+200118 001114.267|INFO|Thread-46|dumpPacket|Packet RUN_SUBMISSION_CONFIRM (Seq #63, o#63 ) handlePacket
+200118 001114.267|INFO|Thread-46|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001114.267|INFO|Thread-46|dumpPacket|    To: TEAM9 @ site 1
+200118 001114.267|INFO|Thread-46|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 4 QUEUED_FOR_COMPUTER_JUDGEMENT 14 min 862249ms from TEAM9 @ site 1 id Run-7891112300271502936 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001114.267|INFO|Thread-46|info| receiveObject(S) end   got Packet[RUN_SUBMISSION_CONFIRM] #63 SERVER0 @ site 1 -> TEAM9 @ site 1
+200118 001114.623|INFO|Thread-47|info| receiveObject(S) start got Packet[RUN_CHECKOUT_NOTIFICATION] #66 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001114.623|INFO|Thread-47|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #66, o#66 ) recieveObject
+200118 001114.623|INFO|Thread-47|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001114.623|INFO|Thread-47|dumpPacket|    To: JUDGE1 @ site 1
+200118 001114.623|INFO|Thread-47|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001114.623|INFO|Thread-47|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 4 BEING_JUDGED 14 min 862249ms from TEAM9 @ site 1 id Run-7891112300271502936 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001114.623|INFO|Thread-47|info|handlePacket start Packet[RUN_CHECKOUT_NOTIFICATION] #66 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001114.623|INFO|Thread-47|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #66, o#66 ) handlePacket
+200118 001114.623|INFO|Thread-47|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001114.623|INFO|Thread-47|dumpPacket|    To: JUDGE1 @ site 1
+200118 001114.623|INFO|Thread-47|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001114.623|INFO|Thread-47|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 4 BEING_JUDGED 14 min 862249ms from TEAM9 @ site 1 id Run-7891112300271502936 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001114.623|INFO|Thread-47|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=CHECKEDOUT_RUN; msg=null; run=Run 4 BEING_JUDGED 14 min 862249ms from TEAM9 @ site 1 id Run-7891112300271502936 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282; runFiles=null
+200118 001114.624|INFO|Thread-47|runChanged|Event not for me: sent to JUDGE1 @ site 1 but my ID is ADMINISTRATOR1 @ site 1
+200118 001114.626|INFO|Thread-47|info|handlePacket end Packet[RUN_CHECKOUT_NOTIFICATION] #66 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001114.626|INFO|Thread-47|info| receiveObject(S) end   got Packet[RUN_CHECKOUT_NOTIFICATION] #66 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001115.139|INFO|Thread-48|info| receiveObject(S) start got Packet[RUN_JUDGEMENT_UPDATE] #67 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001115.140|INFO|Thread-48|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #67, o#67 ) recieveObject
+200118 001115.140|INFO|Thread-48|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001115.140|INFO|Thread-48|dumpPacket|    To: SERVER0 @ site 0
+200118 001115.140|INFO|Thread-48|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001115.140|INFO|Thread-48|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 4 MANUAL_REVIEW 14 min 862249ms from TEAM9 @ site 1 id Run-7891112300271502936 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001115.140|INFO|Thread-48|info|handlePacket start Packet[RUN_JUDGEMENT_UPDATE] #67 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001115.140|INFO|Thread-48|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #67, o#67 ) handlePacket
+200118 001115.140|INFO|Thread-48|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001115.140|INFO|Thread-48|dumpPacket|    To: SERVER0 @ site 0
+200118 001115.140|INFO|Thread-48|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001115.140|INFO|Thread-48|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 4 MANUAL_REVIEW 14 min 862249ms from TEAM9 @ site 1 id Run-7891112300271502936 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001115.140|INFO|Thread-48|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=null; msg=null; run=Run 4 MANUAL_REVIEW 14 min 862249ms from TEAM9 @ site 1 id Run-7891112300271502936 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282; runFiles=null
+200118 001115.140|INFO|Thread-48|runChanged|Event not for me: sent to null but my ID is ADMINISTRATOR1 @ site 1
+200118 001115.142|INFO|Thread-48|info| receiveObject(S) end   got Packet[RUN_JUDGEMENT_UPDATE] #67 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001116.215|INFO|Thread-49|info| receiveObject(S) start got Packet[RUN_CHECKOUT_NOTIFICATION] #69 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001116.215|INFO|Thread-49|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #69, o#69 ) recieveObject
+200118 001116.215|INFO|Thread-49|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001116.215|INFO|Thread-49|dumpPacket|    To: JUDGE1 @ site 1
+200118 001116.215|INFO|Thread-49|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001116.215|INFO|Thread-49|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 4 BEING_JUDGED 14 min 862249ms from TEAM9 @ site 1 id Run-7891112300271502936 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001116.215|INFO|Thread-49|info|handlePacket start Packet[RUN_CHECKOUT_NOTIFICATION] #69 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001116.215|INFO|Thread-49|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #69, o#69 ) handlePacket
+200118 001116.215|INFO|Thread-49|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001116.215|INFO|Thread-49|dumpPacket|    To: JUDGE1 @ site 1
+200118 001116.215|INFO|Thread-49|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001116.216|INFO|Thread-49|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 4 BEING_JUDGED 14 min 862249ms from TEAM9 @ site 1 id Run-7891112300271502936 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001116.216|INFO|Thread-49|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=CHECKEDOUT_RUN; msg=null; run=Run 4 BEING_JUDGED 14 min 862249ms from TEAM9 @ site 1 id Run-7891112300271502936 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282; runFiles=null
+200118 001116.216|INFO|Thread-49|runChanged|Event not for me: sent to JUDGE1 @ site 1 but my ID is ADMINISTRATOR1 @ site 1
+200118 001116.218|INFO|Thread-49|info|handlePacket end Packet[RUN_CHECKOUT_NOTIFICATION] #69 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001116.218|INFO|Thread-49|info| receiveObject(S) end   got Packet[RUN_CHECKOUT_NOTIFICATION] #69 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001136.775|INFO|Thread-50|info| receiveObject(S) start got Packet[RUN_JUDGEMENT_UPDATE] #71 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001136.775|INFO|Thread-50|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #71, o#71 ) recieveObject
+200118 001136.775|INFO|Thread-50|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001136.776|INFO|Thread-50|dumpPacket|    To: SERVER0 @ site 0
+200118 001136.776|INFO|Thread-50|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001136.776|INFO|Thread-50|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 4 JUDGED 14 min 862249ms from TEAM9 @ site 1 id Run-7891112300271502936 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001136.776|INFO|Thread-50|info|handlePacket start Packet[RUN_JUDGEMENT_UPDATE] #71 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001136.776|INFO|Thread-50|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #71, o#71 ) handlePacket
+200118 001136.776|INFO|Thread-50|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001136.776|INFO|Thread-50|dumpPacket|    To: SERVER0 @ site 0
+200118 001136.776|INFO|Thread-50|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001136.776|INFO|Thread-50|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 4 JUDGED 14 min 862249ms from TEAM9 @ site 1 id Run-7891112300271502936 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001136.776|INFO|Thread-50|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=null; msg=null; run=Run 4 JUDGED 14 min 862249ms from TEAM9 @ site 1 id Run-7891112300271502936 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282; runFiles=null
+200118 001136.776|INFO|Thread-50|runChanged|Event not for me: sent to null but my ID is ADMINISTRATOR1 @ site 1
+200118 001136.780|INFO|Thread-50|info| receiveObject(S) end   got Packet[RUN_JUDGEMENT_UPDATE] #71 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001146.169|INFO|Thread-51|info| receiveObject(S) start got Packet[RUN_SUBMISSION_CONFIRM] #72 SERVER0 @ site 1 -> TEAM9 @ site 1
+200118 001146.169|INFO|Thread-51|dumpPacket|Packet RUN_SUBMISSION_CONFIRM (Seq #72, o#72 ) recieveObject
+200118 001146.169|INFO|Thread-51|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001146.169|INFO|Thread-51|dumpPacket|    To: TEAM9 @ site 1
+200118 001146.169|INFO|Thread-51|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 5 QUEUED_FOR_COMPUTER_JUDGEMENT 14 min 894137ms from TEAM9 @ site 1 id Run--5597899458953950543 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001146.169|INFO|Thread-51|info|handlePacket start Packet[RUN_SUBMISSION_CONFIRM] #72 SERVER0 @ site 1 -> TEAM9 @ site 1
+200118 001146.169|INFO|Thread-51|dumpPacket|Packet RUN_SUBMISSION_CONFIRM (Seq #72, o#72 ) handlePacket
+200118 001146.169|INFO|Thread-51|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001146.169|INFO|Thread-51|dumpPacket|    To: TEAM9 @ site 1
+200118 001146.169|INFO|Thread-51|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 5 QUEUED_FOR_COMPUTER_JUDGEMENT 14 min 894137ms from TEAM9 @ site 1 id Run--5597899458953950543 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001146.169|INFO|Thread-51|info| receiveObject(S) end   got Packet[RUN_SUBMISSION_CONFIRM] #72 SERVER0 @ site 1 -> TEAM9 @ site 1
+200118 001146.344|INFO|Thread-52|info| receiveObject(S) start got Packet[RUN_CHECKOUT_NOTIFICATION] #75 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001146.344|INFO|Thread-52|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #75, o#75 ) recieveObject
+200118 001146.344|INFO|Thread-52|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001146.344|INFO|Thread-52|dumpPacket|    To: JUDGE1 @ site 1
+200118 001146.344|INFO|Thread-52|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001146.344|INFO|Thread-52|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 5 BEING_JUDGED 14 min 894137ms from TEAM9 @ site 1 id Run--5597899458953950543 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001146.344|INFO|Thread-52|info|handlePacket start Packet[RUN_CHECKOUT_NOTIFICATION] #75 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001146.344|INFO|Thread-52|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #75, o#75 ) handlePacket
+200118 001146.344|INFO|Thread-52|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001146.344|INFO|Thread-52|dumpPacket|    To: JUDGE1 @ site 1
+200118 001146.344|INFO|Thread-52|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001146.344|INFO|Thread-52|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 5 BEING_JUDGED 14 min 894137ms from TEAM9 @ site 1 id Run--5597899458953950543 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001146.344|INFO|Thread-52|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=CHECKEDOUT_RUN; msg=null; run=Run 5 BEING_JUDGED 14 min 894137ms from TEAM9 @ site 1 id Run--5597899458953950543 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282; runFiles=null
+200118 001146.344|INFO|Thread-52|runChanged|Event not for me: sent to JUDGE1 @ site 1 but my ID is ADMINISTRATOR1 @ site 1
+200118 001146.346|INFO|Thread-52|info|handlePacket end Packet[RUN_CHECKOUT_NOTIFICATION] #75 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001146.346|INFO|Thread-52|info| receiveObject(S) end   got Packet[RUN_CHECKOUT_NOTIFICATION] #75 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001146.841|INFO|Thread-53|info| receiveObject(S) start got Packet[RUN_JUDGEMENT_UPDATE] #76 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001146.841|INFO|Thread-53|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #76, o#76 ) recieveObject
+200118 001146.841|INFO|Thread-53|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001146.841|INFO|Thread-53|dumpPacket|    To: SERVER0 @ site 0
+200118 001146.841|INFO|Thread-53|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001146.841|INFO|Thread-53|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 5 MANUAL_REVIEW 14 min 894137ms from TEAM9 @ site 1 id Run--5597899458953950543 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001146.841|INFO|Thread-53|info|handlePacket start Packet[RUN_JUDGEMENT_UPDATE] #76 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001146.841|INFO|Thread-53|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #76, o#76 ) handlePacket
+200118 001146.841|INFO|Thread-53|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001146.841|INFO|Thread-53|dumpPacket|    To: SERVER0 @ site 0
+200118 001146.841|INFO|Thread-53|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001146.841|INFO|Thread-53|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 5 MANUAL_REVIEW 14 min 894137ms from TEAM9 @ site 1 id Run--5597899458953950543 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001146.842|INFO|Thread-53|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=null; msg=null; run=Run 5 MANUAL_REVIEW 14 min 894137ms from TEAM9 @ site 1 id Run--5597899458953950543 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282; runFiles=null
+200118 001146.842|INFO|Thread-53|runChanged|Event not for me: sent to null but my ID is ADMINISTRATOR1 @ site 1
+200118 001146.844|INFO|Thread-53|info| receiveObject(S) end   got Packet[RUN_JUDGEMENT_UPDATE] #76 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001148.473|INFO|Thread-54|info| receiveObject(S) start got Packet[RUN_CHECKOUT_NOTIFICATION] #78 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001148.473|INFO|Thread-54|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #78, o#78 ) recieveObject
+200118 001148.473|INFO|Thread-54|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001148.473|INFO|Thread-54|dumpPacket|    To: JUDGE1 @ site 1
+200118 001148.473|INFO|Thread-54|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001148.473|INFO|Thread-54|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 5 BEING_JUDGED 14 min 894137ms from TEAM9 @ site 1 id Run--5597899458953950543 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001148.473|INFO|Thread-54|info|handlePacket start Packet[RUN_CHECKOUT_NOTIFICATION] #78 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001148.473|INFO|Thread-54|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #78, o#78 ) handlePacket
+200118 001148.473|INFO|Thread-54|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001148.474|INFO|Thread-54|dumpPacket|    To: JUDGE1 @ site 1
+200118 001148.474|INFO|Thread-54|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001148.474|INFO|Thread-54|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 5 BEING_JUDGED 14 min 894137ms from TEAM9 @ site 1 id Run--5597899458953950543 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001148.474|INFO|Thread-54|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=CHECKEDOUT_RUN; msg=null; run=Run 5 BEING_JUDGED 14 min 894137ms from TEAM9 @ site 1 id Run--5597899458953950543 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282; runFiles=null
+200118 001148.474|INFO|Thread-54|runChanged|Event not for me: sent to JUDGE1 @ site 1 but my ID is ADMINISTRATOR1 @ site 1
+200118 001148.477|INFO|Thread-54|info|handlePacket end Packet[RUN_CHECKOUT_NOTIFICATION] #78 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001148.477|INFO|Thread-54|info| receiveObject(S) end   got Packet[RUN_CHECKOUT_NOTIFICATION] #78 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001550.186|INFO|Thread-55|info| receiveObject(S) start got Packet[RUN_JUDGEMENT_UPDATE] #80 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001550.186|INFO|Thread-55|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #80, o#80 ) recieveObject
+200118 001550.186|INFO|Thread-55|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001550.186|INFO|Thread-55|dumpPacket|    To: SERVER0 @ site 0
+200118 001550.186|INFO|Thread-55|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001550.186|INFO|Thread-55|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 5 JUDGED 14 min 894137ms from TEAM9 @ site 1 id Run--5597899458953950543 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001550.186|INFO|Thread-55|info|handlePacket start Packet[RUN_JUDGEMENT_UPDATE] #80 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001550.186|INFO|Thread-55|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #80, o#80 ) handlePacket
+200118 001550.186|INFO|Thread-55|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001550.186|INFO|Thread-55|dumpPacket|    To: SERVER0 @ site 0
+200118 001550.186|INFO|Thread-55|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001550.186|INFO|Thread-55|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 5 JUDGED 14 min 894137ms from TEAM9 @ site 1 id Run--5597899458953950543 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001550.186|INFO|Thread-55|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=null; msg=null; run=Run 5 JUDGED 14 min 894137ms from TEAM9 @ site 1 id Run--5597899458953950543 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282; runFiles=null
+200118 001550.186|INFO|Thread-55|runChanged|Event not for me: sent to null but my ID is ADMINISTRATOR1 @ site 1
+200118 001550.189|INFO|Thread-55|info| receiveObject(S) end   got Packet[RUN_JUDGEMENT_UPDATE] #80 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001735.233|INFO|Thread-56|info| receiveObject(S) start got Packet[RUN_SUBMISSION_CONFIRM] #81 SERVER0 @ site 1 -> TEAM9 @ site 1
+200118 001735.233|INFO|Thread-56|dumpPacket|Packet RUN_SUBMISSION_CONFIRM (Seq #81, o#81 ) recieveObject
+200118 001735.233|INFO|Thread-56|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001735.233|INFO|Thread-56|dumpPacket|    To: TEAM9 @ site 1
+200118 001735.233|INFO|Thread-56|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 6 QUEUED_FOR_COMPUTER_JUDGEMENT 20 min 1243201ms from TEAM9 @ site 1 id Run--3259087204730893358 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001735.234|INFO|Thread-56|info|handlePacket start Packet[RUN_SUBMISSION_CONFIRM] #81 SERVER0 @ site 1 -> TEAM9 @ site 1
+200118 001735.234|INFO|Thread-56|dumpPacket|Packet RUN_SUBMISSION_CONFIRM (Seq #81, o#81 ) handlePacket
+200118 001735.234|INFO|Thread-56|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001735.234|INFO|Thread-56|dumpPacket|    To: TEAM9 @ site 1
+200118 001735.234|INFO|Thread-56|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 6 QUEUED_FOR_COMPUTER_JUDGEMENT 20 min 1243201ms from TEAM9 @ site 1 id Run--3259087204730893358 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001735.234|INFO|Thread-56|info| receiveObject(S) end   got Packet[RUN_SUBMISSION_CONFIRM] #81 SERVER0 @ site 1 -> TEAM9 @ site 1
+200118 001735.328|INFO|Thread-57|info| receiveObject(S) start got Packet[RUN_CHECKOUT_NOTIFICATION] #84 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001735.328|INFO|Thread-57|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #84, o#84 ) recieveObject
+200118 001735.328|INFO|Thread-57|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001735.328|INFO|Thread-57|dumpPacket|    To: JUDGE1 @ site 1
+200118 001735.328|INFO|Thread-57|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001735.328|INFO|Thread-57|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 6 BEING_JUDGED 20 min 1243201ms from TEAM9 @ site 1 id Run--3259087204730893358 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001735.328|INFO|Thread-57|info|handlePacket start Packet[RUN_CHECKOUT_NOTIFICATION] #84 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001735.328|INFO|Thread-57|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #84, o#84 ) handlePacket
+200118 001735.328|INFO|Thread-57|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001735.328|INFO|Thread-57|dumpPacket|    To: JUDGE1 @ site 1
+200118 001735.328|INFO|Thread-57|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001735.328|INFO|Thread-57|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 6 BEING_JUDGED 20 min 1243201ms from TEAM9 @ site 1 id Run--3259087204730893358 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001735.328|INFO|Thread-57|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=CHECKEDOUT_RUN; msg=null; run=Run 6 BEING_JUDGED 20 min 1243201ms from TEAM9 @ site 1 id Run--3259087204730893358 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282; runFiles=null
+200118 001735.328|INFO|Thread-57|runChanged|Event not for me: sent to JUDGE1 @ site 1 but my ID is ADMINISTRATOR1 @ site 1
+200118 001735.331|INFO|Thread-57|info|handlePacket end Packet[RUN_CHECKOUT_NOTIFICATION] #84 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001735.331|INFO|Thread-57|info| receiveObject(S) end   got Packet[RUN_CHECKOUT_NOTIFICATION] #84 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001735.699|INFO|Thread-58|info| receiveObject(S) start got Packet[RUN_JUDGEMENT_UPDATE] #85 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001735.699|INFO|Thread-58|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #85, o#85 ) recieveObject
+200118 001735.699|INFO|Thread-58|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001735.699|INFO|Thread-58|dumpPacket|    To: SERVER0 @ site 0
+200118 001735.699|INFO|Thread-58|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001735.699|INFO|Thread-58|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 6 MANUAL_REVIEW 20 min 1243201ms from TEAM9 @ site 1 id Run--3259087204730893358 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001735.700|INFO|Thread-58|info|handlePacket start Packet[RUN_JUDGEMENT_UPDATE] #85 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001735.700|INFO|Thread-58|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #85, o#85 ) handlePacket
+200118 001735.700|INFO|Thread-58|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001735.700|INFO|Thread-58|dumpPacket|    To: SERVER0 @ site 0
+200118 001735.700|INFO|Thread-58|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001735.700|INFO|Thread-58|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 6 MANUAL_REVIEW 20 min 1243201ms from TEAM9 @ site 1 id Run--3259087204730893358 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001735.700|INFO|Thread-58|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=null; msg=null; run=Run 6 MANUAL_REVIEW 20 min 1243201ms from TEAM9 @ site 1 id Run--3259087204730893358 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282; runFiles=null
+200118 001735.700|INFO|Thread-58|runChanged|Event not for me: sent to null but my ID is ADMINISTRATOR1 @ site 1
+200118 001735.702|INFO|Thread-58|info| receiveObject(S) end   got Packet[RUN_JUDGEMENT_UPDATE] #85 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001738.717|INFO|Thread-59|info| receiveObject(S) start got Packet[RUN_CHECKOUT_NOTIFICATION] #87 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001738.717|INFO|Thread-59|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #87, o#87 ) recieveObject
+200118 001738.717|INFO|Thread-59|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001738.717|INFO|Thread-59|dumpPacket|    To: JUDGE1 @ site 1
+200118 001738.717|INFO|Thread-59|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001738.718|INFO|Thread-59|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 6 BEING_JUDGED 20 min 1243201ms from TEAM9 @ site 1 id Run--3259087204730893358 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001738.718|INFO|Thread-59|info|handlePacket start Packet[RUN_CHECKOUT_NOTIFICATION] #87 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001738.718|INFO|Thread-59|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #87, o#87 ) handlePacket
+200118 001738.718|INFO|Thread-59|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001738.718|INFO|Thread-59|dumpPacket|    To: JUDGE1 @ site 1
+200118 001738.718|INFO|Thread-59|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001738.718|INFO|Thread-59|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 6 BEING_JUDGED 20 min 1243201ms from TEAM9 @ site 1 id Run--3259087204730893358 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001738.718|INFO|Thread-59|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=CHECKEDOUT_RUN; msg=null; run=Run 6 BEING_JUDGED 20 min 1243201ms from TEAM9 @ site 1 id Run--3259087204730893358 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282; runFiles=null
+200118 001738.718|INFO|Thread-59|runChanged|Event not for me: sent to JUDGE1 @ site 1 but my ID is ADMINISTRATOR1 @ site 1
+200118 001738.721|INFO|Thread-59|info|handlePacket end Packet[RUN_CHECKOUT_NOTIFICATION] #87 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001738.722|INFO|Thread-59|info| receiveObject(S) end   got Packet[RUN_CHECKOUT_NOTIFICATION] #87 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001842.008|INFO|Thread-60|info| receiveObject(S) start got Packet[RUN_JUDGEMENT_UPDATE] #89 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001842.008|INFO|Thread-60|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #89, o#89 ) recieveObject
+200118 001842.008|INFO|Thread-60|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001842.008|INFO|Thread-60|dumpPacket|    To: SERVER0 @ site 0
+200118 001842.008|INFO|Thread-60|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001842.008|INFO|Thread-60|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 6 JUDGED 20 min 1243201ms from TEAM9 @ site 1 id Run--3259087204730893358 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001842.008|INFO|Thread-60|info|handlePacket start Packet[RUN_JUDGEMENT_UPDATE] #89 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001842.008|INFO|Thread-60|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #89, o#89 ) handlePacket
+200118 001842.008|INFO|Thread-60|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001842.008|INFO|Thread-60|dumpPacket|    To: SERVER0 @ site 0
+200118 001842.008|INFO|Thread-60|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001842.008|INFO|Thread-60|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 6 JUDGED 20 min 1243201ms from TEAM9 @ site 1 id Run--3259087204730893358 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001842.009|INFO|Thread-60|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=null; msg=null; run=Run 6 JUDGED 20 min 1243201ms from TEAM9 @ site 1 id Run--3259087204730893358 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282; runFiles=null
+200118 001842.009|INFO|Thread-60|runChanged|Event not for me: sent to null but my ID is ADMINISTRATOR1 @ site 1
+200118 001842.021|INFO|Thread-60|info| receiveObject(S) end   got Packet[RUN_JUDGEMENT_UPDATE] #89 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001856.424|INFO|Thread-61|info| receiveObject(S) start got Packet[RUN_SUBMISSION_CONFIRM] #90 SERVER0 @ site 1 -> TEAM9 @ site 1
+200118 001856.424|INFO|Thread-61|dumpPacket|Packet RUN_SUBMISSION_CONFIRM (Seq #90, o#90 ) recieveObject
+200118 001856.424|INFO|Thread-61|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001856.424|INFO|Thread-61|dumpPacket|    To: TEAM9 @ site 1
+200118 001856.424|INFO|Thread-61|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 7 QUEUED_FOR_COMPUTER_JUDGEMENT 22 min 1324392ms from TEAM9 @ site 1 id Run--6342157212446751021 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001856.424|INFO|Thread-61|info|handlePacket start Packet[RUN_SUBMISSION_CONFIRM] #90 SERVER0 @ site 1 -> TEAM9 @ site 1
+200118 001856.424|INFO|Thread-61|dumpPacket|Packet RUN_SUBMISSION_CONFIRM (Seq #90, o#90 ) handlePacket
+200118 001856.424|INFO|Thread-61|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001856.424|INFO|Thread-61|dumpPacket|    To: TEAM9 @ site 1
+200118 001856.424|INFO|Thread-61|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 7 QUEUED_FOR_COMPUTER_JUDGEMENT 22 min 1324392ms from TEAM9 @ site 1 id Run--6342157212446751021 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001856.424|INFO|Thread-61|info| receiveObject(S) end   got Packet[RUN_SUBMISSION_CONFIRM] #90 SERVER0 @ site 1 -> TEAM9 @ site 1
+200118 001857.624|INFO|Thread-62|info| receiveObject(S) start got Packet[RUN_CHECKOUT_NOTIFICATION] #93 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001857.624|INFO|Thread-62|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #93, o#93 ) recieveObject
+200118 001857.624|INFO|Thread-62|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001857.624|INFO|Thread-62|dumpPacket|    To: JUDGE1 @ site 1
+200118 001857.624|INFO|Thread-62|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001857.624|INFO|Thread-62|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 7 BEING_JUDGED 22 min 1324392ms from TEAM9 @ site 1 id Run--6342157212446751021 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001857.624|INFO|Thread-62|info|handlePacket start Packet[RUN_CHECKOUT_NOTIFICATION] #93 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001857.624|INFO|Thread-62|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #93, o#93 ) handlePacket
+200118 001857.624|INFO|Thread-62|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001857.624|INFO|Thread-62|dumpPacket|    To: JUDGE1 @ site 1
+200118 001857.624|INFO|Thread-62|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001857.624|INFO|Thread-62|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 7 BEING_JUDGED 22 min 1324392ms from TEAM9 @ site 1 id Run--6342157212446751021 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001857.625|INFO|Thread-62|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=CHECKEDOUT_RUN; msg=null; run=Run 7 BEING_JUDGED 22 min 1324392ms from TEAM9 @ site 1 id Run--6342157212446751021 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282; runFiles=null
+200118 001857.625|INFO|Thread-62|runChanged|Event not for me: sent to JUDGE1 @ site 1 but my ID is ADMINISTRATOR1 @ site 1
+200118 001857.627|INFO|Thread-62|info|handlePacket end Packet[RUN_CHECKOUT_NOTIFICATION] #93 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001857.627|INFO|Thread-62|info| receiveObject(S) end   got Packet[RUN_CHECKOUT_NOTIFICATION] #93 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001858.175|INFO|Thread-63|info| receiveObject(S) start got Packet[RUN_JUDGEMENT_UPDATE] #94 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001858.175|INFO|Thread-63|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #94, o#94 ) recieveObject
+200118 001858.175|INFO|Thread-63|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001858.175|INFO|Thread-63|dumpPacket|    To: SERVER0 @ site 0
+200118 001858.175|INFO|Thread-63|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001858.175|INFO|Thread-63|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 7 MANUAL_REVIEW 22 min 1324392ms from TEAM9 @ site 1 id Run--6342157212446751021 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001858.175|INFO|Thread-63|info|handlePacket start Packet[RUN_JUDGEMENT_UPDATE] #94 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001858.176|INFO|Thread-63|dumpPacket|Packet RUN_JUDGEMENT_UPDATE (Seq #94, o#94 ) handlePacket
+200118 001858.176|INFO|Thread-63|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001858.176|INFO|Thread-63|dumpPacket|    To: SERVER0 @ site 0
+200118 001858.176|INFO|Thread-63|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001858.176|INFO|Thread-63|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 7 MANUAL_REVIEW 22 min 1324392ms from TEAM9 @ site 1 id Run--6342157212446751021 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001858.176|INFO|Thread-63|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=null; msg=null; run=Run 7 MANUAL_REVIEW 22 min 1324392ms from TEAM9 @ site 1 id Run--6342157212446751021 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282; runFiles=null
+200118 001858.176|INFO|Thread-63|runChanged|Event not for me: sent to null but my ID is ADMINISTRATOR1 @ site 1
+200118 001858.177|INFO|Thread-63|info| receiveObject(S) end   got Packet[RUN_JUDGEMENT_UPDATE] #94 SERVER0 @ site 1 -> SERVER0 @ site 0
+200118 001859.545|INFO|Thread-64|info| receiveObject(S) start got Packet[RUN_CHECKOUT_NOTIFICATION] #96 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001859.546|INFO|Thread-64|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #96, o#96 ) recieveObject
+200118 001859.546|INFO|Thread-64|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001859.546|INFO|Thread-64|dumpPacket|    To: JUDGE1 @ site 1
+200118 001859.546|INFO|Thread-64|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001859.546|INFO|Thread-64|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 7 BEING_JUDGED 22 min 1324392ms from TEAM9 @ site 1 id Run--6342157212446751021 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001859.546|INFO|Thread-64|info|handlePacket start Packet[RUN_CHECKOUT_NOTIFICATION] #96 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001859.546|INFO|Thread-64|dumpPacket|Packet RUN_CHECKOUT_NOTIFICATION (Seq #96, o#96 ) handlePacket
+200118 001859.546|INFO|Thread-64|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200118 001859.546|INFO|Thread-64|dumpPacket|    To: JUDGE1 @ site 1
+200118 001859.546|INFO|Thread-64|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+200118 001859.546|INFO|Thread-64|dumpPacket|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 7 BEING_JUDGED 22 min 1324392ms from TEAM9 @ site 1 id Run--6342157212446751021 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282
+200118 001859.546|INFO|Thread-64|runChanged|RunsPane.RunListener: Action=CHANGED; DetailedAction=CHECKEDOUT_RUN; msg=null; run=Run 7 BEING_JUDGED 22 min 1324392ms from TEAM9 @ site 1 id Run--6342157212446751021 problem Word_Mix-5366080239438405028 lang Java--8544374802327027282; runFiles=null
+200118 001859.546|INFO|Thread-64|runChanged|Event not for me: sent to JUDGE1 @ site 1 but my ID is ADMINISTRATOR1 @ site 1
+200118 001859.548|INFO|Thread-64|info|handlePacket end Packet[RUN_CHECKOUT_NOTIFICATION] #96 SERVER0 @ site 1 -> JUDGE1 @ site 1
+200118 001859.549|INFO|Thread-64|info| receiveObject(S) end   got Packet[RUN_CHECKOUT_NOTIFICATION] #96 SERVER0 @ site 1 -> JUDGE1 @ site 1

@@ -22,3 +22,27 @@
 200110 150231.871|INFO|Thread-5|dumpPacket|    To: JUDGE1 @ site 0
 200110 150231.872|INFO|Thread-5|dumpPacket|   key: MESSAGE_STRING is: java.lang.String No such account
 200110 150232.378|INFO|Thread-5|info| receiveObject(S) end   got Packet[LOGIN_FAILED] #8 SERVER0 @ site 1 -> JUDGE1 @ site 0
+200117 235724.860|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
+200117 235724.860|INFO|AWT-EventQueue-0|info|
+200117 235724.860|INFO|AWT-EventQueue-0|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 235724.860|INFO|AWT-EventQueue-0|info|Login: judge1 (aka judge1)
+200117 235724.860|INFO|AWT-EventQueue-0|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 235724.860|INFO|AWT-EventQueue-0|startLog|Process id is 98456@DESKTOP-K31L36J
+200117 235724.861|INFO|AWT-EventQueue-0|info|Contacting server at localhost:50002 as JUDGE1 @ site 0
+200117 235724.861|INFO|AWT-EventQueue-0|info|sendLoginRequest start - sending from JUDGE1 @ site 0
+200117 235724.861|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[LOGIN_REQUEST] #2 JUDGE1 @ site 0 -> SERVER0 @ site 0
+200117 235724.861|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[LOGIN_REQUEST] #2 JUDGE1 @ site 0 -> SERVER0 @ site 0
+200117 235724.861|INFO|AWT-EventQueue-0|info|sendLoginRequest end - packet sent.
+200117 235724.861|INFO|Thread-6|run|send(Serializable)
+200117 235724.866|INFO|Thread-1|receive|public void receive(SealedObject TransportPacket, ConnectionHandlerID connectionHandlerID)
+200117 235724.867|INFO|Thread-7|info| receiveObject(S) start got Packet[LOGIN_FAILED] #8 SERVER0 @ site 1 -> JUDGE1 @ site 0
+200117 235724.867|INFO|Thread-7|dumpPacket|Packet LOGIN_FAILED (Seq #8, o#8 ) recieveObject
+200117 235724.867|INFO|Thread-7|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200117 235724.867|INFO|Thread-7|dumpPacket|    To: JUDGE1 @ site 0
+200117 235724.867|INFO|Thread-7|dumpPacket|   key: MESSAGE_STRING is: java.lang.String Invalid password
+200117 235724.867|INFO|Thread-7|info|handlePacket start Packet[LOGIN_FAILED] #8 SERVER0 @ site 1 -> JUDGE1 @ site 0
+200117 235724.867|INFO|Thread-7|dumpPacket|Packet LOGIN_FAILED (Seq #8, o#8 ) handlePacket
+200117 235724.867|INFO|Thread-7|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200117 235724.867|INFO|Thread-7|dumpPacket|    To: JUDGE1 @ site 0
+200117 235724.867|INFO|Thread-7|dumpPacket|   key: MESSAGE_STRING is: java.lang.String Invalid password
+200117 235725.763|INFO|Thread-7|info| receiveObject(S) end   got Packet[LOGIN_FAILED] #8 SERVER0 @ site 1 -> JUDGE1 @ site 0

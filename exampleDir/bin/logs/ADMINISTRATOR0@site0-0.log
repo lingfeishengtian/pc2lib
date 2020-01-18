@@ -22,3 +22,27 @@
 200110 145740.586|INFO|Thread-3|dumpPacket|    To: ADMINISTRATOR0 @ site 0
 200110 145740.587|INFO|Thread-3|dumpPacket|   key: MESSAGE_STRING is: java.lang.String No such account
 200110 145741.347|INFO|Thread-3|info| receiveObject(S) end   got Packet[LOGIN_FAILED] #2 SERVER0 @ site 1 -> ADMINISTRATOR0 @ site 0
+200117 230959.930|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
+200117 230959.931|INFO|AWT-EventQueue-0|info|
+200117 230959.931|INFO|AWT-EventQueue-0|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 230959.931|INFO|AWT-EventQueue-0|info|Login: adminsitrator1 (aka root)
+200117 230959.931|INFO|AWT-EventQueue-0|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 230959.931|INFO|AWT-EventQueue-0|startLog|Process id is 91004@DESKTOP-K31L36J
+200117 230959.931|INFO|AWT-EventQueue-0|info|Contacting server at localhost:50002 as ADMINISTRATOR0 @ site 0
+200117 230959.931|INFO|AWT-EventQueue-0|info|sendLoginRequest start - sending from ADMINISTRATOR0 @ site 0
+200117 230959.934|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[LOGIN_REQUEST] #1 ADMINISTRATOR0 @ site 0 -> SERVER0 @ site 0
+200117 230959.935|INFO|Thread-4|run|send(Serializable)
+200117 230959.935|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[LOGIN_REQUEST] #1 ADMINISTRATOR0 @ site 0 -> SERVER0 @ site 0
+200117 230959.936|INFO|AWT-EventQueue-0|info|sendLoginRequest end - packet sent.
+200117 230959.946|INFO|Thread-1|receive|public void receive(SealedObject TransportPacket, ConnectionHandlerID connectionHandlerID)
+200117 230959.948|INFO|Thread-5|info| receiveObject(S) start got Packet[LOGIN_FAILED] #7 SERVER0 @ site 1 -> ADMINISTRATOR0 @ site 0
+200117 230959.948|INFO|Thread-5|dumpPacket|Packet LOGIN_FAILED (Seq #7, o#7 ) recieveObject
+200117 230959.948|INFO|Thread-5|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200117 230959.948|INFO|Thread-5|dumpPacket|    To: ADMINISTRATOR0 @ site 0
+200117 230959.948|INFO|Thread-5|dumpPacket|   key: MESSAGE_STRING is: java.lang.String No such account
+200117 230959.948|INFO|Thread-5|info|handlePacket start Packet[LOGIN_FAILED] #7 SERVER0 @ site 1 -> ADMINISTRATOR0 @ site 0
+200117 230959.948|INFO|Thread-5|dumpPacket|Packet LOGIN_FAILED (Seq #7, o#7 ) handlePacket
+200117 230959.948|INFO|Thread-5|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-K31L36J @ 192.168.127.1) (Contest Id: Default-5053916771268647617)
+200117 230959.948|INFO|Thread-5|dumpPacket|    To: ADMINISTRATOR0 @ site 0
+200117 230959.948|INFO|Thread-5|dumpPacket|   key: MESSAGE_STRING is: java.lang.String No such account
+200117 231000.982|INFO|Thread-5|info| receiveObject(S) end   got Packet[LOGIN_FAILED] #7 SERVER0 @ site 1 -> ADMINISTRATOR0 @ site 0

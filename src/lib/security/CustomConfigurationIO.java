@@ -1,3 +1,5 @@
+package lib.security;
+
 import edu.csus.ecs.pc2.core.IStorage;
 import edu.csus.ecs.pc2.core.Utilities;
 import edu.csus.ecs.pc2.core.log.Log;
@@ -427,7 +429,6 @@ public class CustomConfigurationIO {
 
         public synchronized boolean loadFromDisk(String filename) throws IOException, ClassNotFoundException, FileSecurityException {
             Object readObject = this.storage.load(filename);
-            System.out.println(readObject);
             if (readObject instanceof Hashtable) {
                 this.configItemHash = (Hashtable<String, Object>)readObject;
                 return true;

@@ -246,3 +246,59 @@
 200117 144410.877|INFO|main|start|Starting ConnectionManager...
 200117 144410.985|INFO|main|start|Started ConnectionManager
 200117 144410.987|INFO|main|info|Starting Server Transport...
+200117 222252.153|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
+200117 222252.154|INFO|main|info|
+200117 222252.159|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 222252.159|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 222252.168|INFO|main|startLog|Process id is 85516@DESKTOP-K31L36J
+200117 222252.169|INFO|main|start|Starting ConnectionManager...
+200117 222252.393|INFO|main|start|Started ConnectionManager
+200117 222252.395|INFO|main|info|Starting Server Transport...
+200117 225518.351|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
+200117 225518.352|INFO|main|info|
+200117 225518.356|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 225518.356|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 225518.364|INFO|main|startLog|Process id is 86916@DESKTOP-K31L36J
+200117 225518.364|INFO|main|start|Starting ConnectionManager...
+200117 225518.563|INFO|main|start|Started ConnectionManager
+200117 225518.563|INFO|main|info|Starting Server Transport...
+200117 225541.529|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
+200117 225541.529|INFO|main|info|
+200117 225541.534|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 225541.534|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 225541.541|INFO|main|startLog|Process id is 79708@DESKTOP-K31L36J
+200117 225541.542|INFO|main|start|Starting ConnectionManager...
+200117 225541.742|INFO|main|start|Started ConnectionManager
+200117 225541.742|INFO|main|info|Starting Server Transport...
+200117 225747.424|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
+200117 225747.425|INFO|main|info|
+200117 225747.430|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 225747.430|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 225747.437|INFO|main|startLog|Process id is 88092@DESKTOP-K31L36J
+200117 225747.437|INFO|main|start|Starting ConnectionManager...
+200117 225747.635|INFO|main|start|Started ConnectionManager
+200117 225747.636|INFO|main|info|Starting Server Transport...
+200117 225916.175|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
+200117 225916.176|INFO|main|info|
+200117 225916.180|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 225916.180|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 225916.189|INFO|main|startLog|Process id is 88340@DESKTOP-K31L36J
+200117 225916.190|INFO|main|start|Starting ConnectionManager...
+200117 225916.389|INFO|main|start|Started ConnectionManager
+200117 225916.389|INFO|main|info|Starting Server Transport...
+200117 230842.974|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
+200117 230842.975|INFO|main|info|
+200117 230842.979|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 230842.980|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 230842.987|INFO|main|startLog|Process id is 88988@DESKTOP-K31L36J
+200117 230842.987|INFO|main|start|Starting ConnectionManager...
+200117 230843.191|INFO|main|start|Started ConnectionManager
+200117 230843.192|INFO|main|info|Starting Server Transport...
+200117 235426.744|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
+200117 235426.745|INFO|main|info|
+200117 235426.749|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 235426.749|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 235426.756|INFO|main|startLog|Process id is 98016@DESKTOP-K31L36J
+200117 235426.756|INFO|main|start|Starting ConnectionManager...
+200117 235426.960|INFO|main|start|Started ConnectionManager
+200117 235426.960|INFO|main|info|Starting Server Transport...
