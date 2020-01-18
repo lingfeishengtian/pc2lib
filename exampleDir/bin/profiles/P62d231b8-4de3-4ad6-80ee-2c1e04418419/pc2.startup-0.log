@@ -128,3 +128,13 @@
 200117 235426.965|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
 200117 235426.965|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
 200117 235426.965|INFO|main|startLog|Process id is 98016@DESKTOP-K31L36J
+200118 143203.144|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419 directory.
+200118 143203.144|INFO|main|info|
+200118 143203.144|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200118 143203.144|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200118 143203.145|INFO|main|startLog|Process id is 67244@DESKTOP-K31L36J
+200118 150413.079|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419 directory.
+200118 150413.079|INFO|main|info|
+200118 150413.079|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200118 150413.079|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200118 150413.079|INFO|main|startLog|Process id is 65136@DESKTOP-K31L36J

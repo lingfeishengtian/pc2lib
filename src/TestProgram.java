@@ -3,8 +3,9 @@ import edu.csus.ecs.pc2.core.model.ProblemDataFiles;
 import edu.csus.ecs.pc2.core.model.SerializedFile;
 import edu.csus.ecs.pc2.core.security.FileSecurity;
 import edu.csus.ecs.pc2.core.security.FileSecurityException;
+import edu.csus.ecs.pc2.validator.pc2Validator.PC2Validator;
 import lib.security.Extractor;
-import lib.utils.PC2AutoRun;
+import lib.utils.ProblemModifier;
 
 import java.io.File;
 import java.io.IOException;
@@ -17,6 +18,16 @@ public class TestProgram {
     -Djdk.crypto.KeyAgreement.legacyKDF=true
      */
     public static void main(String[] args) throws FileSecurityException, IOException, ClassNotFoundException {
+        ProblemModifier.addProblemWithDefaultSettings("TEST", new File("TestData/playtime1.in"),  new File("TestData/playtime1.out"), null);
+        //SettingsModifier();
+        //ValidatorTester();
+    }
+
+    private static void ValidatorTester() {
+        PC2Validator val = new PC2Validator();
+    }
+
+    private static void SettingsModifier() {
         Extractor extractor = new Extractor("exampleDir/bin/profiles/P62d231b8-4de3-4ad6-80ee-2c1e04418419/db.1");
         FileSecurity secure = extractor.getFileSecurity("NONO");
         Hashtable config = extractor.getConfigHashTable(secure);
@@ -27,6 +38,7 @@ public class TestProgram {
         Problem[] aea = new Problem[((Problem[]) config.get("PROBLEMS")).length + 1];
         for (int i = 0; i < ((Problem[]) config.get("PROBLEMS")).length; i++){
             aea[i] = ((Problem[]) config.get("PROBLEMS"))[i];
+            aea[i].setActive(false);
         }
 
         Problem testProblem = new Problem("NEWTEST");
@@ -46,8 +58,8 @@ public class TestProgram {
         }
         ProblemDataFiles bb = new ProblemDataFiles(testProblem);
         aa[aa.length - 1] = bb;
-        bb.setJudgesAnswerFile(new SerializedFile("TestData/playtime1.out", Integer.MAX_VALUE));
-        bb.setJudgesDataFile(new SerializedFile("TestData/playtime1.in", Integer.MAX_VALUE));
+        bb.setJudgesAnswerFile(new SerializedFile((new File("TestData/playtime1.out")).getAbsolutePath(), Integer.MAX_VALUE));
+        bb.setJudgesDataFile(new SerializedFile((new File("TestData/playtime1.in")).getAbsolutePath(), Integer.MAX_VALUE));
 
         for (ProblemDataFiles a :
                 aa){
