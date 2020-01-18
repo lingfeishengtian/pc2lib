@@ -1,0 +1,11 @@
+CSUS Programming Contest System
+Date: Friday, January 10, 2020 2:53:43 PM CST
+Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+
+Solutions By Problem Report
+
+There are 0 runs.
+
+No problems defined, no summary
+
+end report

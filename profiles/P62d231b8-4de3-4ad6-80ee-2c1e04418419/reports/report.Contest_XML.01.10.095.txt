@@ -1,0 +1,29 @@
+CSUS Programming Contest System
+Date: Friday, January 10, 2020 3:30:52 PM CST
+Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+
+Contest XML Report
+-- Start XML --
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<contest>
+  <version builddate="Wednesday, January 2nd 2019 01:20 UTC" fullversion="9.6.0 20190102" major="9" minor="6" pc2build="5102" subminor="0" system="CSUS Programming Contest System" url="http://pc2.ecs.csus.edu/" version="9.6.0"/>
+  <fileinfo date="2020-01-10 15:30.52.128" fulldate="Fri January 10, 2020 15:30:52.129 CST" version="Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) "/>
+  <settings>
+    <properties_information maxFileSize="512000" teamDisplayMode="LOGIN_NAME_ONLY">
+      <scoring_properties/>
+    </properties_information>
+  </settings>
+  <contest_information title="Programming Contest"/>
+  <site IP_KEY="localhost" PORT_KEY="50002" name="Site 1" number="1" password="site1" pc2id="Site_1--4438277046615007298"/>
+  <contest_time conestLengthMins="300" contestLengthStr="5:00:00" contestRunning="false" elapsedTimeStr="0:00:00" haltContestAtTimeZero="false" remainingSecs="18000" remainingTimeStr="5:00:00" siteNumber="1"/>
+  <problem active="true" computerJudged="false" manualReview="false" name="General" pc2id="General--1365662222391717361" timeoutSecond="30"/>
+  <account allowlogin="true" name="administrator1" number="1" password="administrator1" pc2triplet="1ADMINISTRATOR1" showonscoreboard="false" site="1" type="ADMINISTRATOR"/>
+  <account allowlogin="true" name="judge1" number="1" password="judge1" pc2triplet="1JUDGE1" showonscoreboard="false" site="1" type="JUDGE"/>
+  <ballonlist/>
+  <profiles contestid="Default-3586998405885201546" currentprofile="true" description="Default Contest" name="Default" path="profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419" pc2id="Default-6487112501776802790"/>
+</contest>
+
+
+-- End XML --
+
+end report

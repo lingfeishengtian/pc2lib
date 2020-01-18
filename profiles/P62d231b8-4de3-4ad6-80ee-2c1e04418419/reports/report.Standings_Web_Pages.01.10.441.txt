@@ -1,0 +1,33 @@
+CSUS Programming Contest System
+Date: Friday, January 10, 2020 3:03:32 PM CST
+Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+
+Standings Web Pages Report
+
+Contest date/time: never started
+Wrote file profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419/reports/report.Standings_Web_Pages.pc2export.01.10.540.html
+  based on pc2export.xsl
+
+Wrote file profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419/reports/report.Standings_Web_Pages.full.01.10.568.html
+  based on full.xsl
+
+Wrote file profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419/reports/report.Standings_Web_Pages.summary.01.10.607.html
+  based on summary.xsl
+
+Wrote file profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419/reports/report.Standings_Web_Pages.index.01.10.650.html
+  based on index.xsl
+
+Wrote file profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419/reports/report.Standings_Web_Pages.fullnums.01.10.666.html
+  based on fullnums.xsl
+
+Wrote file profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419/reports/report.Standings_Web_Pages.sumtime.01.10.690.html
+  based on sumtime.xsl
+
+Wrote file profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419/reports/report.Standings_Web_Pages.iScoreBoard.php.01.10.707.html
+  based on iScoreBoard.php.xsl
+
+Wrote file profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419/reports/report.Standings_Web_Pages.sumatt.01.10.728.html
+  based on sumatt.xsl
+
+
+end report

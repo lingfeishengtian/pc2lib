@@ -1,0 +1,23 @@
+CSUS Programming Contest System
+Date: Friday, January 10, 2020 2:53:43 PM CST
+Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+
+Contest Analysis Report
+
+Contest Title: Programming Contest
+
+1 sites.
+ 1 Site 1             0 runs ( 0 unjudged,  0 deleted)   0 clars, 0 to All ( 0 unanswered,  0 deleted)
+   Total              0 runs ( 0 unjudged,  0 deleted)   0 clars, 0 to All ( 0 unanswered,  0 deleted)
+
+There are NO unanswered clars
+There are NO unjudged runs
+
+Runs after first Yes 
+There are NO 'Yes' judgements after earlier Yes judgements
+There are NO 'No' judgements after earlier Yes judgements
+
+Runs submitted by Teams not shown on scoreboard/standings
+
+
+end report

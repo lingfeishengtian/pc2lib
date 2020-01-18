@@ -1,0 +1,25 @@
+<html>
+<script src="JQuery/jquery-1.9.1.js"></script><script src="JQuery/jquery-ui.js"></script>
+<link href="table_sorter/css/theme.default.css" rel="stylesheet">
+<script type="text/javascript" src="table_sorter/js/jquery.tablesorter.min.js"></script><script type="text/javascript" src="table_sorter/js/jquery.tablesorter.widgets.min.js"></script><script type="text/javascript">
+$(function() {
+	$( "#tabs" ).tabs();
+	$('table').tablesorter({
+			sortList: [[0,0]],
+			widgets        : ['zebra', 'columns'],
+			usNumberFormat : true,
+			sortRestart    : true
+	});
+});
+</script>
+<body>
+<table style="empty-cells:show;" id="veiwStandingTable" class="tablesorter" border="1px">
+<thead>
+<tr>
+<th>Rank</th><th>Team Name</th><th>Solved</th><th>Time</th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
+</body>
+</html>
