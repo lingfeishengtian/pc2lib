@@ -1,4 +1,4 @@
-package lib.utils;
+package com.lingfeishengtian.utils;
 
 import edu.csus.ecs.pc2.core.model.Problem;
 import edu.csus.ecs.pc2.core.model.ProblemDataFiles;

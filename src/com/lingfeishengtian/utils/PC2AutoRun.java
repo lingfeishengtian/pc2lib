@@ -1,4 +1,4 @@
-package lib.utils;
+package com.lingfeishengtian.utils;
 
 import java.io.BufferedReader;
 import java.io.File;

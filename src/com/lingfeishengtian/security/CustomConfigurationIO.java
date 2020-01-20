@@ -1,12 +1,11 @@
-package lib.security;
+package com.lingfeishengtian.security;
 
 import edu.csus.ecs.pc2.core.IStorage;
 import edu.csus.ecs.pc2.core.Utilities;
 import edu.csus.ecs.pc2.core.log.Log;
 import edu.csus.ecs.pc2.core.model.*;
 import edu.csus.ecs.pc2.core.security.FileSecurityException;
-import edu.csus.ecs.pc2.profile.ProfileCloneSettings;
-import edu.csus.ecs.pc2.profile.ProfileManager;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -14,7 +13,6 @@ import java.io.Serializable;
 import java.util.Hashtable;
 import java.util.LinkedList;
 import java.util.Vector;
-import java.util.logging.Logger;
 
 /**
  * A bunch of junk and modified PC2 API to retrieve configuration data.

@@ -4,8 +4,8 @@ import edu.csus.ecs.pc2.core.model.SerializedFile;
 import edu.csus.ecs.pc2.core.security.FileSecurity;
 import edu.csus.ecs.pc2.core.security.FileSecurityException;
 import edu.csus.ecs.pc2.validator.pc2Validator.PC2Validator;
-import lib.security.Extractor;
-import lib.utils.ProblemModifier;
+import com.lingfeishengtian.security.Extractor;
+import com.lingfeishengtian.utils.ProblemModifier;
 
 import java.io.File;
 import java.io.IOException;

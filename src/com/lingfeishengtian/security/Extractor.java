@@ -1,4 +1,4 @@
-package lib.security;
+package com.lingfeishengtian.security;
 
 import edu.csus.ecs.pc2.core.security.FileSecurity;
 
