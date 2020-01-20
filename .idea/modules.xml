@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PC2Crack.iml" filepath="$PROJECT_DIR$/PC2Crack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pc2lib.iml" filepath="$PROJECT_DIR$/pc2lib.iml" />
     </modules>
   </component>
 </project>
