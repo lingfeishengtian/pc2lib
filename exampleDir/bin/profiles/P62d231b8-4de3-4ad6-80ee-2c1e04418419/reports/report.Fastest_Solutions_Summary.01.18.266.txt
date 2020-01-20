@@ -1,0 +1,59 @@
+CSUS Programming Contest System
+Date: Saturday, January 18, 2020 3:02:22 PM CST
+Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+
+Fastest Solutions Summary Report
+
+There are 7 runs.
+
+
+ ** Summarized by team
+
+   At Team                                Problem
+  --- ----------------------------------- ------------------
+   11 team9                               NEWTEST
+   13 team9                               NEWTEST
+   14 team9                               Word Mix
+  --- ----------------------------------- ------------------
+
+
+ ** Summarized by problem
+
+   At Problem                             Team
+  --- ----------------------------------- ---------------------------------
+      PEEPOO                              (Not Solved)
+      Playtime                            (Not Solved)
+      Floor Cleaner                       (Not Solved)
+      neue                                (Not Solved)
+      Reverse                             (Not Solved)
+      Spiral                              (Not Solved)
+      Demo Clean Up                       (Not Solved)
+      Rook                                (Not Solved)
+   14 Word Mix                            team9
+      Rain Boots                          (Not Solved)
+      Triangle Height                     (Not Solved)
+      Best Seller                         (Not Solved)
+      NEWTEST                             (Not Solved)
+      NEWTEST                             (Not Solved)
+   11 NEWTEST                             team9
+   13 NEWTEST                             team9
+  --- ----------------------------------- ---------------------------------
+
+  ** 13 problems were not solved
+     PEEPOO
+     Playtime
+     Floor Cleaner
+     neue
+     Reverse
+     Spiral
+     Demo Clean Up
+     Rook
+     Rain Boots
+     Triangle Height
+     Best Seller
+     NEWTEST
+     NEWTEST
+
+There were 3 of 16 problems solved.
+
+end report

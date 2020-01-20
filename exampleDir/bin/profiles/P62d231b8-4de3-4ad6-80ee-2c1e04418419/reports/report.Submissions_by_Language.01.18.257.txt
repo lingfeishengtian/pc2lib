@@ -1,0 +1,16 @@
+CSUS Programming Contest System
+Date: Saturday, January 18, 2020 12:24:50 AM CST
+Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+
+Submissions by Language Report
+
+There are 7 runs.
+
+Language Java
+      1 teams: Site 1 team 9
+      3 submissions solved problems
+      4 submissions did not solved problems
+      7 total 
+
+
+end report

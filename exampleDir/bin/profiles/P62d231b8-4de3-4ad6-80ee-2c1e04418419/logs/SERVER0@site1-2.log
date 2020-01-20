@@ -1,0 +1,616 @@
+200117 230951.372|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419\logs directory.
+200117 230951.372|INFO|main|info|
+200117 230951.372|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 230951.372|INFO|main|info|Login: site1 (aka server0)
+200117 230951.372|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 230951.372|INFO|main|startLog|Process id is 85016@DESKTOP-K31L36J
+200117 230951.372|DEBUG|main|login|Site Number is set as 1 (0 means unset)
+200117 230951.373|INFO|main|info|initializeServer STARTED this site as Site 1
+200117 230951.654|INFO|main|loadFromDisk|Loading site number 1
+200117 230951.655|INFO|main|loadFromDisk|Loaded 1 languages
+200117 230951.655|INFO|main|loadFromDisk|Loaded 12 problems
+200117 230951.656|INFO|main|loadFromDisk|Loaded 1 contest_time_list
+200117 230951.656|INFO|main|loadFromDisk|Loaded 50 accounts
+200117 230951.657|INFO|main|loadFromDisk|Loaded 8 judgements
+200117 230951.657|INFO|main|loadProblemDataFilesInfo|Loaded 1 of 12 problem_data_files
+200117 230951.657|INFO|main|loadProblemDataFilesInfo|Loaded 2 of 12 problem_data_files
+200117 230951.657|INFO|main|loadProblemDataFilesInfo|Loaded 3 of 12 problem_data_files
+200117 230951.657|INFO|main|loadProblemDataFilesInfo|Loaded 4 of 12 problem_data_files
+200117 230951.657|INFO|main|loadProblemDataFilesInfo|Loaded 5 of 12 problem_data_files
+200117 230951.657|INFO|main|loadProblemDataFilesInfo|Loaded 6 of 12 problem_data_files
+200117 230951.657|INFO|main|loadProblemDataFilesInfo|Loaded 7 of 12 problem_data_files
+200117 230951.657|INFO|main|loadProblemDataFilesInfo|Loaded 8 of 12 problem_data_files
+200117 230951.657|INFO|main|loadProblemDataFilesInfo|Loaded 9 of 12 problem_data_files
+200117 230951.657|INFO|main|loadProblemDataFilesInfo|Loaded 10 of 12 problem_data_files
+200117 230951.658|INFO|main|loadProblemDataFilesInfo|Loaded 11 of 12 problem_data_files
+200117 230951.658|INFO|main|loadProblemDataFilesInfo|Loaded 12 of 12 problem_data_files
+200117 230951.658|INFO|main|loadSomeSettings|Loaded 0 balloon_settings_list
+200117 230951.658|INFO|main|loadSomeSettings|Loaded contest_time
+200117 230951.658|INFO|main|loadSomeSettings|Loaded general_problem
+200117 230951.658|INFO|main|loadSomeSettings|Loaded 2 profiles
+200117 230951.659|INFO|main|loadSomeSettings|Loaded 1 categories
+200117 230951.659|INFO|main|loadSomeSettings|Loaded profile
+200117 230951.659|INFO|main|loadSomeSettings|Loaded 1 sites
+200117 230951.660|INFO|main|loadSomeSettings|Loaded Contest Information UIL practice or something
+200117 230951.660|INFO|main|loadSomeSettings|Loaded 4 client_settings_list
+200117 230951.660|INFO|main|loadSomeSettings|Loaded 0 groups
+200117 230951.660|INFO|main|info|Loaded configuration from disk
+200117 230951.679|INFO|main|info|evals.log is opened at profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419\logs
+200117 230951.679|INFO|main|updateAutoStartInformation|Created AutoStarter...
+200117 230951.679|INFO|main|updateAutoStartInformation|updated AutoStarter with date null (note: null means no scheduled start is set)
+200117 230951.680|INFO|main|updateAutoStopClockThread|Started auto stop clock thread, remaining time is 2:00:00
+200117 230951.680|INFO|main|accecptConnections|accecptConnections on port:50002
+200117 230951.682|INFO|main|<init>|Could not listen on port:50002
+200117 230951.682|INFO|main|accecptConnections|Could not Accept connections on Port:50002
+200117 230951.682|SEVERE|main|fatalError|Port 50002 in use, server already running?
+|edu.csus.ecs.pc2.core.transport.TransportException: Address already in use: JVM_Bind
+|    at edu.csus.ecs.pc2.core.transport.TransportManager.accecptConnections (TransportManager.java:238)
+|    at edu.csus.ecs.pc2.core.transport.connection.ConnectionManager.accecptConnections (ConnectionManager.java:124)
+|    at edu.csus.ecs.pc2.core.InternalController.login (InternalController.java:733)
+|    at edu.csus.ecs.pc2.core.InternalController.start (InternalController.java:2892)
+|    at edu.csus.ecs.pc2.Starter.main (Starter.java:49)
+200117 230951.683|INFO|main|fatalError|PC^2 halted
+200117 232058.751|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419\logs directory.
+200117 232058.751|INFO|main|info|
+200117 232058.751|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 232058.752|INFO|main|info|Login: site1 (aka server0)
+200117 232058.752|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 232058.752|INFO|main|startLog|Process id is 86184@DESKTOP-K31L36J
+200117 232058.752|DEBUG|main|login|Site Number is set as 1 (0 means unset)
+200117 232058.752|INFO|main|info|initializeServer STARTED this site as Site 1
+200117 232059.027|INFO|main|loadFromDisk|Loading site number 1
+200117 232059.028|INFO|main|loadFromDisk|Loaded 1 languages
+200117 232059.028|INFO|main|loadFromDisk|Loaded 12 problems
+200117 232059.029|INFO|main|loadFromDisk|Loaded 1 contest_time_list
+200117 232059.029|INFO|main|loadFromDisk|Loaded 50 accounts
+200117 232059.030|INFO|main|loadFromDisk|Loaded 8 judgements
+200117 232059.030|INFO|main|loadProblemDataFilesInfo|Loaded 1 of 12 problem_data_files
+200117 232059.030|INFO|main|loadProblemDataFilesInfo|Loaded 2 of 12 problem_data_files
+200117 232059.030|INFO|main|loadProblemDataFilesInfo|Loaded 3 of 12 problem_data_files
+200117 232059.030|INFO|main|loadProblemDataFilesInfo|Loaded 4 of 12 problem_data_files
+200117 232059.030|INFO|main|loadProblemDataFilesInfo|Loaded 5 of 12 problem_data_files
+200117 232059.030|INFO|main|loadProblemDataFilesInfo|Loaded 6 of 12 problem_data_files
+200117 232059.030|INFO|main|loadProblemDataFilesInfo|Loaded 7 of 12 problem_data_files
+200117 232059.030|INFO|main|loadProblemDataFilesInfo|Loaded 8 of 12 problem_data_files
+200117 232059.031|INFO|main|loadProblemDataFilesInfo|Loaded 9 of 12 problem_data_files
+200117 232059.031|INFO|main|loadProblemDataFilesInfo|Loaded 10 of 12 problem_data_files
+200117 232059.031|INFO|main|loadProblemDataFilesInfo|Loaded 11 of 12 problem_data_files
+200117 232059.031|INFO|main|loadProblemDataFilesInfo|Loaded 12 of 12 problem_data_files
+200117 232059.031|INFO|main|loadSomeSettings|Loaded 0 balloon_settings_list
+200117 232059.031|INFO|main|loadSomeSettings|Loaded contest_time
+200117 232059.031|INFO|main|loadSomeSettings|Loaded general_problem
+200117 232059.031|INFO|main|loadSomeSettings|Loaded 2 profiles
+200117 232059.032|INFO|main|loadSomeSettings|Loaded 1 categories
+200117 232059.032|INFO|main|loadSomeSettings|Loaded profile
+200117 232059.032|INFO|main|loadSomeSettings|Loaded 1 sites
+200117 232059.033|INFO|main|loadSomeSettings|Loaded Contest Information UIL practice or something
+200117 232059.033|INFO|main|loadSomeSettings|Loaded 4 client_settings_list
+200117 232059.033|INFO|main|loadSomeSettings|Loaded 0 groups
+200117 232059.034|INFO|main|info|Loaded configuration from disk
+200117 232059.052|INFO|main|info|evals.log is opened at profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419\logs
+200117 232059.052|INFO|main|updateAutoStartInformation|Created AutoStarter...
+200117 232059.052|INFO|main|updateAutoStartInformation|updated AutoStarter with date null (note: null means no scheduled start is set)
+200117 232059.054|INFO|main|updateAutoStopClockThread|Started auto stop clock thread, remaining time is 2:00:00
+200117 232059.054|INFO|main|accecptConnections|accecptConnections on port:50002
+200117 232059.056|INFO|main|<init>|Could not listen on port:50002
+200117 232059.056|INFO|main|accecptConnections|Could not Accept connections on Port:50002
+200117 232059.056|SEVERE|main|fatalError|Port 50002 in use, server already running?
+|edu.csus.ecs.pc2.core.transport.TransportException: Address already in use: JVM_Bind
+|    at edu.csus.ecs.pc2.core.transport.TransportManager.accecptConnections (TransportManager.java:238)
+|    at edu.csus.ecs.pc2.core.transport.connection.ConnectionManager.accecptConnections (ConnectionManager.java:124)
+|    at edu.csus.ecs.pc2.core.InternalController.login (InternalController.java:733)
+|    at edu.csus.ecs.pc2.core.InternalController.start (InternalController.java:2892)
+|    at edu.csus.ecs.pc2.Starter.main (Starter.java:49)
+200117 232059.056|INFO|main|fatalError|PC^2 halted
+200117 232214.195|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419\logs directory.
+200117 232214.195|INFO|main|info|
+200117 232214.195|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 232214.195|INFO|main|info|Login: site1 (aka server0)
+200117 232214.195|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 232214.195|INFO|main|startLog|Process id is 92284@DESKTOP-K31L36J
+200117 232214.196|DEBUG|main|login|Site Number is set as 1 (0 means unset)
+200117 232214.196|INFO|main|info|initializeServer STARTED this site as Site 1
+200117 232214.482|INFO|main|loadFromDisk|Loading site number 1
+200117 232214.482|INFO|main|loadFromDisk|Loaded 1 languages
+200117 232214.483|INFO|main|loadFromDisk|Loaded 12 problems
+200117 232214.483|INFO|main|loadFromDisk|Loaded 1 contest_time_list
+200117 232214.484|INFO|main|loadFromDisk|Loaded 50 accounts
+200117 232214.484|INFO|main|loadFromDisk|Loaded 8 judgements
+200117 232214.484|INFO|main|loadProblemDataFilesInfo|Loaded 1 of 12 problem_data_files
+200117 232214.484|INFO|main|loadProblemDataFilesInfo|Loaded 2 of 12 problem_data_files
+200117 232214.484|INFO|main|loadProblemDataFilesInfo|Loaded 3 of 12 problem_data_files
+200117 232214.484|INFO|main|loadProblemDataFilesInfo|Loaded 4 of 12 problem_data_files
+200117 232214.484|INFO|main|loadProblemDataFilesInfo|Loaded 5 of 12 problem_data_files
+200117 232214.485|INFO|main|loadProblemDataFilesInfo|Loaded 6 of 12 problem_data_files
+200117 232214.485|INFO|main|loadProblemDataFilesInfo|Loaded 7 of 12 problem_data_files
+200117 232214.485|INFO|main|loadProblemDataFilesInfo|Loaded 8 of 12 problem_data_files
+200117 232214.485|INFO|main|loadProblemDataFilesInfo|Loaded 9 of 12 problem_data_files
+200117 232214.485|INFO|main|loadProblemDataFilesInfo|Loaded 10 of 12 problem_data_files
+200117 232214.485|INFO|main|loadProblemDataFilesInfo|Loaded 11 of 12 problem_data_files
+200117 232214.485|INFO|main|loadProblemDataFilesInfo|Loaded 12 of 12 problem_data_files
+200117 232214.485|INFO|main|loadSomeSettings|Loaded 0 balloon_settings_list
+200117 232214.485|INFO|main|loadSomeSettings|Loaded contest_time
+200117 232214.485|INFO|main|loadSomeSettings|Loaded general_problem
+200117 232214.486|INFO|main|loadSomeSettings|Loaded 2 profiles
+200117 232214.486|INFO|main|loadSomeSettings|Loaded 1 categories
+200117 232214.486|INFO|main|loadSomeSettings|Loaded profile
+200117 232214.487|INFO|main|loadSomeSettings|Loaded 1 sites
+200117 232214.487|INFO|main|loadSomeSettings|Loaded Contest Information UIL practice or something
+200117 232214.487|INFO|main|loadSomeSettings|Loaded 4 client_settings_list
+200117 232214.487|INFO|main|loadSomeSettings|Loaded 0 groups
+200117 232214.488|INFO|main|info|Loaded configuration from disk
+200117 232214.509|INFO|main|info|evals.log is opened at profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419\logs
+200117 232214.510|INFO|main|updateAutoStartInformation|Created AutoStarter...
+200117 232214.510|INFO|main|updateAutoStartInformation|updated AutoStarter with date null (note: null means no scheduled start is set)
+200117 232214.511|INFO|main|updateAutoStopClockThread|Started auto stop clock thread, remaining time is 2:00:00
+200117 232214.511|INFO|main|accecptConnections|accecptConnections on port:50002
+200117 232214.513|INFO|main|<init>|Could not listen on port:50002
+200117 232214.513|INFO|main|accecptConnections|Could not Accept connections on Port:50002
+200117 232214.513|SEVERE|main|fatalError|Port 50002 in use, server already running?
+|edu.csus.ecs.pc2.core.transport.TransportException: Address already in use: JVM_Bind
+|    at edu.csus.ecs.pc2.core.transport.TransportManager.accecptConnections (TransportManager.java:238)
+|    at edu.csus.ecs.pc2.core.transport.connection.ConnectionManager.accecptConnections (ConnectionManager.java:124)
+|    at edu.csus.ecs.pc2.core.InternalController.login (InternalController.java:733)
+|    at edu.csus.ecs.pc2.core.InternalController.start (InternalController.java:2892)
+|    at edu.csus.ecs.pc2.Starter.main (Starter.java:49)
+200117 232214.513|INFO|main|fatalError|PC^2 halted
+200117 232257.162|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419\logs directory.
+200117 232257.162|INFO|main|info|
+200117 232257.162|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 232257.162|INFO|main|info|Login: site1 (aka server0)
+200117 232257.162|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 232257.162|INFO|main|startLog|Process id is 89728@DESKTOP-K31L36J
+200117 232257.162|DEBUG|main|login|Site Number is set as 1 (0 means unset)
+200117 232257.163|INFO|main|info|initializeServer STARTED this site as Site 1
+200117 232257.446|INFO|main|loadFromDisk|Loading site number 1
+200117 232257.446|INFO|main|loadFromDisk|Loaded 1 languages
+200117 232257.447|INFO|main|loadFromDisk|Loaded 12 problems
+200117 232257.447|INFO|main|loadFromDisk|Loaded 1 contest_time_list
+200117 232257.448|INFO|main|loadFromDisk|Loaded 50 accounts
+200117 232257.448|INFO|main|loadFromDisk|Loaded 8 judgements
+200117 232257.448|INFO|main|loadProblemDataFilesInfo|Loaded 1 of 12 problem_data_files
+200117 232257.448|INFO|main|loadProblemDataFilesInfo|Loaded 2 of 12 problem_data_files
+200117 232257.448|INFO|main|loadProblemDataFilesInfo|Loaded 3 of 12 problem_data_files
+200117 232257.449|INFO|main|loadProblemDataFilesInfo|Loaded 4 of 12 problem_data_files
+200117 232257.449|INFO|main|loadProblemDataFilesInfo|Loaded 5 of 12 problem_data_files
+200117 232257.449|INFO|main|loadProblemDataFilesInfo|Loaded 6 of 12 problem_data_files
+200117 232257.449|INFO|main|loadProblemDataFilesInfo|Loaded 7 of 12 problem_data_files
+200117 232257.449|INFO|main|loadProblemDataFilesInfo|Loaded 8 of 12 problem_data_files
+200117 232257.449|INFO|main|loadProblemDataFilesInfo|Loaded 9 of 12 problem_data_files
+200117 232257.449|INFO|main|loadProblemDataFilesInfo|Loaded 10 of 12 problem_data_files
+200117 232257.449|INFO|main|loadProblemDataFilesInfo|Loaded 11 of 12 problem_data_files
+200117 232257.449|INFO|main|loadProblemDataFilesInfo|Loaded 12 of 12 problem_data_files
+200117 232257.449|INFO|main|loadSomeSettings|Loaded 0 balloon_settings_list
+200117 232257.449|INFO|main|loadSomeSettings|Loaded contest_time
+200117 232257.449|INFO|main|loadSomeSettings|Loaded general_problem
+200117 232257.450|INFO|main|loadSomeSettings|Loaded 2 profiles
+200117 232257.450|INFO|main|loadSomeSettings|Loaded 1 categories
+200117 232257.450|INFO|main|loadSomeSettings|Loaded profile
+200117 232257.451|INFO|main|loadSomeSettings|Loaded 1 sites
+200117 232257.451|INFO|main|loadSomeSettings|Loaded Contest Information UIL practice or something
+200117 232257.452|INFO|main|loadSomeSettings|Loaded 4 client_settings_list
+200117 232257.452|INFO|main|loadSomeSettings|Loaded 0 groups
+200117 232257.452|INFO|main|info|Loaded configuration from disk
+200117 232257.471|INFO|main|info|evals.log is opened at profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419\logs
+200117 232257.472|INFO|main|updateAutoStartInformation|Created AutoStarter...
+200117 232257.472|INFO|main|updateAutoStartInformation|updated AutoStarter with date null (note: null means no scheduled start is set)
+200117 232257.473|INFO|main|updateAutoStopClockThread|Started auto stop clock thread, remaining time is 2:00:00
+200117 232257.473|INFO|main|accecptConnections|accecptConnections on port:50002
+200117 232257.475|INFO|main|<init>|Could not listen on port:50002
+200117 232257.475|INFO|main|accecptConnections|Could not Accept connections on Port:50002
+200117 232257.475|SEVERE|main|fatalError|Port 50002 in use, server already running?
+|edu.csus.ecs.pc2.core.transport.TransportException: Address already in use: JVM_Bind
+|    at edu.csus.ecs.pc2.core.transport.TransportManager.accecptConnections (TransportManager.java:238)
+|    at edu.csus.ecs.pc2.core.transport.connection.ConnectionManager.accecptConnections (ConnectionManager.java:124)
+|    at edu.csus.ecs.pc2.core.InternalController.login (InternalController.java:733)
+|    at edu.csus.ecs.pc2.core.InternalController.start (InternalController.java:2892)
+|    at edu.csus.ecs.pc2.Starter.main (Starter.java:49)
+200117 232257.475|INFO|main|fatalError|PC^2 halted
+200117 232813.875|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419\logs directory.
+200117 232813.876|INFO|main|info|
+200117 232813.876|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 232813.876|INFO|main|info|Login: site1 (aka server0)
+200117 232813.876|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 232813.876|INFO|main|startLog|Process id is 93432@DESKTOP-K31L36J
+200117 232813.877|DEBUG|main|login|Site Number is set as 1 (0 means unset)
+200117 232813.877|INFO|main|info|initializeServer STARTED this site as Site 1
+200117 232814.159|INFO|main|loadFromDisk|Loading site number 1
+200117 232814.159|INFO|main|loadFromDisk|Loaded 1 languages
+200117 232814.160|INFO|main|loadFromDisk|Loaded 12 problems
+200117 232814.160|INFO|main|loadFromDisk|Loaded 1 contest_time_list
+200117 232814.161|INFO|main|loadFromDisk|Loaded 50 accounts
+200117 232814.161|INFO|main|loadFromDisk|Loaded 8 judgements
+200117 232814.161|INFO|main|loadProblemDataFilesInfo|Loaded 1 of 12 problem_data_files
+200117 232814.161|INFO|main|loadProblemDataFilesInfo|Loaded 2 of 12 problem_data_files
+200117 232814.161|INFO|main|loadProblemDataFilesInfo|Loaded 3 of 12 problem_data_files
+200117 232814.161|INFO|main|loadProblemDataFilesInfo|Loaded 4 of 12 problem_data_files
+200117 232814.162|INFO|main|loadProblemDataFilesInfo|Loaded 5 of 12 problem_data_files
+200117 232814.162|INFO|main|loadProblemDataFilesInfo|Loaded 6 of 12 problem_data_files
+200117 232814.162|INFO|main|loadProblemDataFilesInfo|Loaded 7 of 12 problem_data_files
+200117 232814.162|INFO|main|loadProblemDataFilesInfo|Loaded 8 of 12 problem_data_files
+200117 232814.162|INFO|main|loadProblemDataFilesInfo|Loaded 9 of 12 problem_data_files
+200117 232814.162|INFO|main|loadProblemDataFilesInfo|Loaded 10 of 12 problem_data_files
+200117 232814.162|INFO|main|loadProblemDataFilesInfo|Loaded 11 of 12 problem_data_files
+200117 232814.162|INFO|main|loadProblemDataFilesInfo|Loaded 12 of 12 problem_data_files
+200117 232814.162|INFO|main|loadSomeSettings|Loaded 0 balloon_settings_list
+200117 232814.162|INFO|main|loadSomeSettings|Loaded contest_time
+200117 232814.162|INFO|main|loadSomeSettings|Loaded general_problem
+200117 232814.163|INFO|main|loadSomeSettings|Loaded 2 profiles
+200117 232814.163|INFO|main|loadSomeSettings|Loaded 1 categories
+200117 232814.163|INFO|main|loadSomeSettings|Loaded profile
+200117 232814.164|INFO|main|loadSomeSettings|Loaded 1 sites
+200117 232814.164|INFO|main|loadSomeSettings|Loaded Contest Information UIL practice or something
+200117 232814.164|INFO|main|loadSomeSettings|Loaded 4 client_settings_list
+200117 232814.164|INFO|main|loadSomeSettings|Loaded 0 groups
+200117 232814.165|INFO|main|info|Loaded configuration from disk
+200117 232814.183|INFO|main|info|evals.log is opened at profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419\logs
+200117 232814.183|INFO|main|updateAutoStartInformation|Created AutoStarter...
+200117 232814.183|INFO|main|updateAutoStartInformation|updated AutoStarter with date null (note: null means no scheduled start is set)
+200117 232814.184|INFO|main|updateAutoStopClockThread|Started auto stop clock thread, remaining time is 2:00:00
+200117 232814.184|INFO|main|accecptConnections|accecptConnections on port:50002
+200117 232814.186|INFO|main|<init>|Could not listen on port:50002
+200117 232814.186|INFO|main|accecptConnections|Could not Accept connections on Port:50002
+200117 232814.186|SEVERE|main|fatalError|Port 50002 in use, server already running?
+|edu.csus.ecs.pc2.core.transport.TransportException: Address already in use: JVM_Bind
+|    at edu.csus.ecs.pc2.core.transport.TransportManager.accecptConnections (TransportManager.java:238)
+|    at edu.csus.ecs.pc2.core.transport.connection.ConnectionManager.accecptConnections (ConnectionManager.java:124)
+|    at edu.csus.ecs.pc2.core.InternalController.login (InternalController.java:733)
+|    at edu.csus.ecs.pc2.core.InternalController.start (InternalController.java:2892)
+|    at edu.csus.ecs.pc2.Starter.main (Starter.java:49)
+200117 232814.187|INFO|main|fatalError|PC^2 halted
+200117 233302.869|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419\logs directory.
+200117 233302.869|INFO|main|info|
+200117 233302.869|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 233302.869|INFO|main|info|Login: site1 (aka server0)
+200117 233302.869|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 233302.869|INFO|main|startLog|Process id is 93344@DESKTOP-K31L36J
+200117 233302.869|DEBUG|main|login|Site Number is set as 1 (0 means unset)
+200117 233302.870|INFO|main|info|initializeServer STARTED this site as Site 1
+200117 233303.141|INFO|main|loadFromDisk|Loading site number 1
+200117 233303.141|INFO|main|loadFromDisk|Loaded 1 languages
+200117 233303.142|INFO|main|loadFromDisk|Loaded 12 problems
+200117 233303.142|INFO|main|loadFromDisk|Loaded 1 contest_time_list
+200117 233303.143|INFO|main|loadFromDisk|Loaded 50 accounts
+200117 233303.143|INFO|main|loadFromDisk|Loaded 8 judgements
+200117 233303.143|INFO|main|loadProblemDataFilesInfo|Loaded 1 of 12 problem_data_files
+200117 233303.143|INFO|main|loadProblemDataFilesInfo|Loaded 2 of 12 problem_data_files
+200117 233303.143|INFO|main|loadProblemDataFilesInfo|Loaded 3 of 12 problem_data_files
+200117 233303.143|INFO|main|loadProblemDataFilesInfo|Loaded 4 of 12 problem_data_files
+200117 233303.143|INFO|main|loadProblemDataFilesInfo|Loaded 5 of 12 problem_data_files
+200117 233303.143|INFO|main|loadProblemDataFilesInfo|Loaded 6 of 12 problem_data_files
+200117 233303.144|INFO|main|loadProblemDataFilesInfo|Loaded 7 of 12 problem_data_files
+200117 233303.144|INFO|main|loadProblemDataFilesInfo|Loaded 8 of 12 problem_data_files
+200117 233303.144|INFO|main|loadProblemDataFilesInfo|Loaded 9 of 12 problem_data_files
+200117 233303.144|INFO|main|loadProblemDataFilesInfo|Loaded 10 of 12 problem_data_files
+200117 233303.144|INFO|main|loadProblemDataFilesInfo|Loaded 11 of 12 problem_data_files
+200117 233303.144|INFO|main|loadProblemDataFilesInfo|Loaded 12 of 12 problem_data_files
+200117 233303.144|INFO|main|loadSomeSettings|Loaded 0 balloon_settings_list
+200117 233303.144|INFO|main|loadSomeSettings|Loaded contest_time
+200117 233303.144|INFO|main|loadSomeSettings|Loaded general_problem
+200117 233303.145|INFO|main|loadSomeSettings|Loaded 2 profiles
+200117 233303.145|INFO|main|loadSomeSettings|Loaded 1 categories
+200117 233303.145|INFO|main|loadSomeSettings|Loaded profile
+200117 233303.146|INFO|main|loadSomeSettings|Loaded 1 sites
+200117 233303.146|INFO|main|loadSomeSettings|Loaded Contest Information UIL practice or something
+200117 233303.146|INFO|main|loadSomeSettings|Loaded 4 client_settings_list
+200117 233303.146|INFO|main|loadSomeSettings|Loaded 0 groups
+200117 233303.147|INFO|main|info|Loaded configuration from disk
+200117 233303.165|INFO|main|info|evals.log is opened at profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419\logs
+200117 233303.166|INFO|main|updateAutoStartInformation|Created AutoStarter...
+200117 233303.166|INFO|main|updateAutoStartInformation|updated AutoStarter with date null (note: null means no scheduled start is set)
+200117 233303.166|INFO|main|updateAutoStopClockThread|Started auto stop clock thread, remaining time is 2:00:00
+200117 233303.167|INFO|main|accecptConnections|accecptConnections on port:50002
+200117 233303.169|INFO|main|<init>|Could not listen on port:50002
+200117 233303.169|INFO|main|accecptConnections|Could not Accept connections on Port:50002
+200117 233303.169|SEVERE|main|fatalError|Port 50002 in use, server already running?
+|edu.csus.ecs.pc2.core.transport.TransportException: Address already in use: JVM_Bind
+|    at edu.csus.ecs.pc2.core.transport.TransportManager.accecptConnections (TransportManager.java:238)
+|    at edu.csus.ecs.pc2.core.transport.connection.ConnectionManager.accecptConnections (ConnectionManager.java:124)
+|    at edu.csus.ecs.pc2.core.InternalController.login (InternalController.java:733)
+|    at edu.csus.ecs.pc2.core.InternalController.start (InternalController.java:2892)
+|    at edu.csus.ecs.pc2.Starter.main (Starter.java:49)
+200117 233303.169|INFO|main|fatalError|PC^2 halted
+200117 233752.010|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419\logs directory.
+200117 233752.010|INFO|main|info|
+200117 233752.010|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 233752.010|INFO|main|info|Login: site1 (aka server0)
+200117 233752.010|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 233752.010|INFO|main|startLog|Process id is 93208@DESKTOP-K31L36J
+200117 233752.010|DEBUG|main|login|Site Number is set as 1 (0 means unset)
+200117 233752.011|INFO|main|info|initializeServer STARTED this site as Site 1
+200117 233752.288|INFO|main|loadFromDisk|Loading site number 1
+200117 233752.288|INFO|main|loadFromDisk|Loaded 1 languages
+200117 233752.289|INFO|main|loadFromDisk|Loaded 12 problems
+200117 233752.289|INFO|main|loadFromDisk|Loaded 1 contest_time_list
+200117 233752.290|INFO|main|loadFromDisk|Loaded 50 accounts
+200117 233752.290|INFO|main|loadFromDisk|Loaded 8 judgements
+200117 233752.290|INFO|main|loadProblemDataFilesInfo|Loaded 1 of 12 problem_data_files
+200117 233752.290|INFO|main|loadProblemDataFilesInfo|Loaded 2 of 12 problem_data_files
+200117 233752.290|INFO|main|loadProblemDataFilesInfo|Loaded 3 of 12 problem_data_files
+200117 233752.290|INFO|main|loadProblemDataFilesInfo|Loaded 4 of 12 problem_data_files
+200117 233752.290|INFO|main|loadProblemDataFilesInfo|Loaded 5 of 12 problem_data_files
+200117 233752.291|INFO|main|loadProblemDataFilesInfo|Loaded 6 of 12 problem_data_files
+200117 233752.291|INFO|main|loadProblemDataFilesInfo|Loaded 7 of 12 problem_data_files
+200117 233752.291|INFO|main|loadProblemDataFilesInfo|Loaded 8 of 12 problem_data_files
+200117 233752.291|INFO|main|loadProblemDataFilesInfo|Loaded 9 of 12 problem_data_files
+200117 233752.291|INFO|main|loadProblemDataFilesInfo|Loaded 10 of 12 problem_data_files
+200117 233752.291|INFO|main|loadProblemDataFilesInfo|Loaded 11 of 12 problem_data_files
+200117 233752.291|INFO|main|loadProblemDataFilesInfo|Loaded 12 of 12 problem_data_files
+200117 233752.291|INFO|main|loadSomeSettings|Loaded 0 balloon_settings_list
+200117 233752.291|INFO|main|loadSomeSettings|Loaded contest_time
+200117 233752.291|INFO|main|loadSomeSettings|Loaded general_problem
+200117 233752.292|INFO|main|loadSomeSettings|Loaded 2 profiles
+200117 233752.292|INFO|main|loadSomeSettings|Loaded 1 categories
+200117 233752.292|INFO|main|loadSomeSettings|Loaded profile
+200117 233752.293|INFO|main|loadSomeSettings|Loaded 1 sites
+200117 233752.293|INFO|main|loadSomeSettings|Loaded Contest Information UIL practice or something
+200117 233752.293|INFO|main|loadSomeSettings|Loaded 4 client_settings_list
+200117 233752.293|INFO|main|loadSomeSettings|Loaded 0 groups
+200117 233752.294|INFO|main|info|Loaded configuration from disk
+200117 233752.312|INFO|main|info|evals.log is opened at profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419\logs
+200117 233752.314|INFO|main|updateAutoStartInformation|Created AutoStarter...
+200117 233752.314|INFO|main|updateAutoStartInformation|updated AutoStarter with date null (note: null means no scheduled start is set)
+200117 233752.314|INFO|main|updateAutoStopClockThread|Started auto stop clock thread, remaining time is 2:00:00
+200117 233752.315|INFO|main|accecptConnections|accecptConnections on port:50002
+200117 233752.317|INFO|main|<init>|Could not listen on port:50002
+200117 233752.317|INFO|main|accecptConnections|Could not Accept connections on Port:50002
+200117 233752.317|SEVERE|main|fatalError|Port 50002 in use, server already running?
+|edu.csus.ecs.pc2.core.transport.TransportException: Address already in use: JVM_Bind
+|    at edu.csus.ecs.pc2.core.transport.TransportManager.accecptConnections (TransportManager.java:238)
+|    at edu.csus.ecs.pc2.core.transport.connection.ConnectionManager.accecptConnections (ConnectionManager.java:124)
+|    at edu.csus.ecs.pc2.core.InternalController.login (InternalController.java:733)
+|    at edu.csus.ecs.pc2.core.InternalController.start (InternalController.java:2892)
+|    at edu.csus.ecs.pc2.Starter.main (Starter.java:49)
+200117 233752.317|INFO|main|fatalError|PC^2 halted
+200117 234819.770|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419\logs directory.
+200117 234819.771|INFO|main|info|
+200117 234819.771|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 234819.771|INFO|main|info|Login: site1 (aka server0)
+200117 234819.771|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 234819.771|INFO|main|startLog|Process id is 95376@DESKTOP-K31L36J
+200117 234819.771|DEBUG|main|login|Site Number is set as 1 (0 means unset)
+200117 234819.772|INFO|main|info|initializeServer STARTED this site as Site 1
+200117 234820.051|INFO|main|loadFromDisk|Loading site number 1
+200117 234820.051|INFO|main|loadFromDisk|Loaded 1 languages
+200117 234820.051|INFO|main|loadFromDisk|Loaded 13 problems
+200117 234820.052|INFO|main|loadFromDisk|Loaded 1 contest_time_list
+200117 234820.052|INFO|main|loadFromDisk|Loaded 50 accounts
+200117 234820.053|INFO|main|loadFromDisk|Loaded 8 judgements
+200117 234820.053|INFO|main|loadProblemDataFilesInfo|Loaded 1 of 13 problem_data_files
+200117 234820.053|INFO|main|loadProblemDataFilesInfo|Loaded 2 of 13 problem_data_files
+200117 234820.053|INFO|main|loadProblemDataFilesInfo|Loaded 3 of 13 problem_data_files
+200117 234820.053|INFO|main|loadProblemDataFilesInfo|Loaded 4 of 13 problem_data_files
+200117 234820.053|INFO|main|loadProblemDataFilesInfo|Loaded 5 of 13 problem_data_files
+200117 234820.053|INFO|main|loadProblemDataFilesInfo|Loaded 6 of 13 problem_data_files
+200117 234820.053|INFO|main|loadProblemDataFilesInfo|Loaded 7 of 13 problem_data_files
+200117 234820.053|INFO|main|loadProblemDataFilesInfo|Loaded 8 of 13 problem_data_files
+200117 234820.054|INFO|main|loadProblemDataFilesInfo|Loaded 9 of 13 problem_data_files
+200117 234820.054|INFO|main|loadProblemDataFilesInfo|Loaded 10 of 13 problem_data_files
+200117 234820.054|INFO|main|loadProblemDataFilesInfo|Loaded 11 of 13 problem_data_files
+200117 234820.054|INFO|main|loadProblemDataFilesInfo|Loaded 12 of 13 problem_data_files
+200117 234820.054|INFO|main|loadProblemDataFilesInfo|Loaded 13 of 13 problem_data_files
+200117 234820.054|INFO|main|loadSomeSettings|Loaded 0 balloon_settings_list
+200117 234820.054|INFO|main|loadSomeSettings|Loaded contest_time
+200117 234820.054|INFO|main|loadSomeSettings|Loaded general_problem
+200117 234820.054|INFO|main|loadSomeSettings|Loaded 2 profiles
+200117 234820.055|INFO|main|loadSomeSettings|Loaded 1 categories
+200117 234820.055|INFO|main|loadSomeSettings|Loaded profile
+200117 234820.055|INFO|main|loadSomeSettings|Loaded 1 sites
+200117 234820.056|INFO|main|loadSomeSettings|Loaded Contest Information UIL practice or something
+200117 234820.056|INFO|main|loadSomeSettings|Loaded 4 client_settings_list
+200117 234820.056|INFO|main|loadSomeSettings|Loaded 0 groups
+200117 234820.057|INFO|main|info|Loaded configuration from disk
+200117 234820.075|INFO|main|info|evals.log is opened at profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419\logs
+200117 234820.076|INFO|main|updateAutoStartInformation|Created AutoStarter...
+200117 234820.076|INFO|main|updateAutoStartInformation|updated AutoStarter with date null (note: null means no scheduled start is set)
+200117 234820.077|INFO|main|updateAutoStopClockThread|Started auto stop clock thread, remaining time is 2:00:00
+200117 234820.077|INFO|main|accecptConnections|accecptConnections on port:50002
+200117 234820.079|INFO|main|<init>|Could not listen on port:50002
+200117 234820.079|INFO|main|accecptConnections|Could not Accept connections on Port:50002
+200117 234820.079|SEVERE|main|fatalError|Port 50002 in use, server already running?
+|edu.csus.ecs.pc2.core.transport.TransportException: Address already in use: JVM_Bind
+|    at edu.csus.ecs.pc2.core.transport.TransportManager.accecptConnections (TransportManager.java:238)
+|    at edu.csus.ecs.pc2.core.transport.connection.ConnectionManager.accecptConnections (ConnectionManager.java:124)
+|    at edu.csus.ecs.pc2.core.InternalController.login (InternalController.java:733)
+|    at edu.csus.ecs.pc2.core.InternalController.start (InternalController.java:2892)
+|    at edu.csus.ecs.pc2.Starter.main (Starter.java:49)
+200117 234820.079|INFO|main|fatalError|PC^2 halted
+200117 235015.929|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419\logs directory.
+200117 235015.929|INFO|main|info|
+200117 235015.929|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 235015.929|INFO|main|info|Login: site1 (aka server0)
+200117 235015.929|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 235015.929|INFO|main|startLog|Process id is 95616@DESKTOP-K31L36J
+200117 235015.930|DEBUG|main|login|Site Number is set as 1 (0 means unset)
+200117 235015.930|INFO|main|info|initializeServer STARTED this site as Site 1
+200117 235016.207|INFO|main|loadFromDisk|Loading site number 1
+200117 235016.208|INFO|main|loadFromDisk|Loaded 1 languages
+200117 235016.208|INFO|main|loadFromDisk|Loaded 14 problems
+200117 235016.208|INFO|main|loadFromDisk|Loaded 1 contest_time_list
+200117 235016.209|INFO|main|loadFromDisk|Loaded 50 accounts
+200117 235016.209|INFO|main|loadFromDisk|Loaded 8 judgements
+200117 235016.209|INFO|main|loadProblemDataFilesInfo|Loaded 1 of 14 problem_data_files
+200117 235016.210|INFO|main|loadProblemDataFilesInfo|Loaded 2 of 14 problem_data_files
+200117 235016.210|INFO|main|loadProblemDataFilesInfo|Loaded 3 of 14 problem_data_files
+200117 235016.210|INFO|main|loadProblemDataFilesInfo|Loaded 4 of 14 problem_data_files
+200117 235016.210|INFO|main|loadProblemDataFilesInfo|Loaded 5 of 14 problem_data_files
+200117 235016.210|INFO|main|loadProblemDataFilesInfo|Loaded 6 of 14 problem_data_files
+200117 235016.210|INFO|main|loadProblemDataFilesInfo|Loaded 7 of 14 problem_data_files
+200117 235016.210|INFO|main|loadProblemDataFilesInfo|Loaded 8 of 14 problem_data_files
+200117 235016.210|INFO|main|loadProblemDataFilesInfo|Loaded 9 of 14 problem_data_files
+200117 235016.210|INFO|main|loadProblemDataFilesInfo|Loaded 10 of 14 problem_data_files
+200117 235016.210|INFO|main|loadProblemDataFilesInfo|Loaded 11 of 14 problem_data_files
+200117 235016.210|INFO|main|loadProblemDataFilesInfo|Loaded 12 of 14 problem_data_files
+200117 235016.210|INFO|main|loadProblemDataFilesInfo|Loaded 13 of 14 problem_data_files
+200117 235016.210|INFO|main|loadProblemDataFilesInfo|Loaded 14 of 14 problem_data_files
+200117 235016.211|INFO|main|loadSomeSettings|Loaded 0 balloon_settings_list
+200117 235016.211|INFO|main|loadSomeSettings|Loaded contest_time
+200117 235016.211|INFO|main|loadSomeSettings|Loaded general_problem
+200117 235016.211|INFO|main|loadSomeSettings|Loaded 2 profiles
+200117 235016.211|INFO|main|loadSomeSettings|Loaded 1 categories
+200117 235016.211|INFO|main|loadSomeSettings|Loaded profile
+200117 235016.212|INFO|main|loadSomeSettings|Loaded 1 sites
+200117 235016.212|INFO|main|loadSomeSettings|Loaded Contest Information UIL practice or something
+200117 235016.213|INFO|main|loadSomeSettings|Loaded 4 client_settings_list
+200117 235016.213|INFO|main|loadSomeSettings|Loaded 0 groups
+200117 235016.213|INFO|main|info|Loaded configuration from disk
+200117 235016.230|INFO|main|info|evals.log is opened at profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419\logs
+200117 235016.231|INFO|main|updateAutoStartInformation|Created AutoStarter...
+200117 235016.231|INFO|main|updateAutoStartInformation|updated AutoStarter with date null (note: null means no scheduled start is set)
+200117 235016.232|INFO|main|updateAutoStopClockThread|Started auto stop clock thread, remaining time is 2:00:00
+200117 235016.232|INFO|main|accecptConnections|accecptConnections on port:50002
+200117 235016.234|INFO|main|<init>|Could not listen on port:50002
+200117 235016.234|INFO|main|accecptConnections|Could not Accept connections on Port:50002
+200117 235016.235|SEVERE|main|fatalError|Port 50002 in use, server already running?
+|edu.csus.ecs.pc2.core.transport.TransportException: Address already in use: JVM_Bind
+|    at edu.csus.ecs.pc2.core.transport.TransportManager.accecptConnections (TransportManager.java:238)
+|    at edu.csus.ecs.pc2.core.transport.connection.ConnectionManager.accecptConnections (ConnectionManager.java:124)
+|    at edu.csus.ecs.pc2.core.InternalController.login (InternalController.java:733)
+|    at edu.csus.ecs.pc2.core.InternalController.start (InternalController.java:2892)
+|    at edu.csus.ecs.pc2.Starter.main (Starter.java:49)
+200117 235016.235|INFO|main|fatalError|PC^2 halted
+200117 235128.168|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419\logs directory.
+200117 235128.168|INFO|main|info|
+200117 235128.168|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 235128.168|INFO|main|info|Login: site1 (aka server0)
+200117 235128.168|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 235128.168|INFO|main|startLog|Process id is 93720@DESKTOP-K31L36J
+200117 235128.168|DEBUG|main|login|Site Number is set as 1 (0 means unset)
+200117 235128.169|INFO|main|info|initializeServer STARTED this site as Site 1
+200117 235128.451|INFO|main|loadFromDisk|Loading site number 1
+200117 235128.451|INFO|main|loadFromDisk|Loaded 1 languages
+200117 235128.452|INFO|main|loadFromDisk|Loaded 15 problems
+200117 235128.452|INFO|main|loadFromDisk|Loaded 1 contest_time_list
+200117 235128.453|INFO|main|loadFromDisk|Loaded 50 accounts
+200117 235128.453|INFO|main|loadFromDisk|Loaded 8 judgements
+200117 235128.453|INFO|main|loadProblemDataFilesInfo|Loaded 1 of 15 problem_data_files
+200117 235128.453|INFO|main|loadProblemDataFilesInfo|Loaded 2 of 15 problem_data_files
+200117 235128.453|INFO|main|loadProblemDataFilesInfo|Loaded 3 of 15 problem_data_files
+200117 235128.453|INFO|main|loadProblemDataFilesInfo|Loaded 4 of 15 problem_data_files
+200117 235128.454|INFO|main|loadProblemDataFilesInfo|Loaded 5 of 15 problem_data_files
+200117 235128.454|INFO|main|loadProblemDataFilesInfo|Loaded 6 of 15 problem_data_files
+200117 235128.454|INFO|main|loadProblemDataFilesInfo|Loaded 7 of 15 problem_data_files
+200117 235128.454|INFO|main|loadProblemDataFilesInfo|Loaded 8 of 15 problem_data_files
+200117 235128.454|INFO|main|loadProblemDataFilesInfo|Loaded 9 of 15 problem_data_files
+200117 235128.454|INFO|main|loadProblemDataFilesInfo|Loaded 10 of 15 problem_data_files
+200117 235128.454|INFO|main|loadProblemDataFilesInfo|Loaded 11 of 15 problem_data_files
+200117 235128.454|INFO|main|loadProblemDataFilesInfo|Loaded 12 of 15 problem_data_files
+200117 235128.454|INFO|main|loadProblemDataFilesInfo|Loaded 13 of 15 problem_data_files
+200117 235128.454|INFO|main|loadProblemDataFilesInfo|Loaded 14 of 15 problem_data_files
+200117 235128.455|INFO|main|loadProblemDataFilesInfo|Loaded 15 of 15 problem_data_files
+200117 235128.455|INFO|main|loadSomeSettings|Loaded 0 balloon_settings_list
+200117 235128.455|INFO|main|loadSomeSettings|Loaded contest_time
+200117 235128.455|INFO|main|loadSomeSettings|Loaded general_problem
+200117 235128.455|INFO|main|loadSomeSettings|Loaded 2 profiles
+200117 235128.456|INFO|main|loadSomeSettings|Loaded 1 categories
+200117 235128.456|INFO|main|loadSomeSettings|Loaded profile
+200117 235128.457|INFO|main|loadSomeSettings|Loaded 1 sites
+200117 235128.458|INFO|main|loadSomeSettings|Loaded Contest Information UIL practice or something
+200117 235128.458|INFO|main|loadSomeSettings|Loaded 4 client_settings_list
+200117 235128.458|INFO|main|loadSomeSettings|Loaded 0 groups
+200117 235128.458|INFO|main|info|Loaded configuration from disk
+200117 235128.476|INFO|main|info|evals.log is opened at profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419\logs
+200117 235128.477|INFO|main|updateAutoStartInformation|Created AutoStarter...
+200117 235128.477|INFO|main|updateAutoStartInformation|updated AutoStarter with date null (note: null means no scheduled start is set)
+200117 235128.478|INFO|main|updateAutoStopClockThread|Started auto stop clock thread, remaining time is 2:00:00
+200117 235128.478|INFO|main|accecptConnections|accecptConnections on port:50002
+200117 235128.480|INFO|main|<init>|Could not listen on port:50002
+200117 235128.480|INFO|main|accecptConnections|Could not Accept connections on Port:50002
+200117 235128.480|SEVERE|main|fatalError|Port 50002 in use, server already running?
+|edu.csus.ecs.pc2.core.transport.TransportException: Address already in use: JVM_Bind
+|    at edu.csus.ecs.pc2.core.transport.TransportManager.accecptConnections (TransportManager.java:238)
+|    at edu.csus.ecs.pc2.core.transport.connection.ConnectionManager.accecptConnections (ConnectionManager.java:124)
+|    at edu.csus.ecs.pc2.core.InternalController.login (InternalController.java:733)
+|    at edu.csus.ecs.pc2.core.InternalController.start (InternalController.java:2892)
+|    at edu.csus.ecs.pc2.Starter.main (Starter.java:49)
+200117 235128.480|INFO|main|fatalError|PC^2 halted
+200117 235354.880|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419\logs directory.
+200117 235354.880|INFO|AWT-EventQueue-0|info|
+200117 235354.880|INFO|AWT-EventQueue-0|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200117 235354.880|INFO|AWT-EventQueue-0|info|Login: site1 (aka server0)
+200117 235354.880|INFO|AWT-EventQueue-0|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
+200117 235354.881|INFO|AWT-EventQueue-0|startLog|Process id is 96400@DESKTOP-K31L36J
+200117 235354.881|DEBUG|AWT-EventQueue-0|login|Site Number is set as 1 (0 means unset)
+200117 235354.881|INFO|AWT-EventQueue-0|info|initializeServer STARTED this site as Site 1
+200117 235357.057|INFO|AWT-EventQueue-0|loadFromDisk|Loading site number 1
+200117 235357.057|INFO|AWT-EventQueue-0|loadFromDisk|Loaded 1 languages
+200117 235357.057|INFO|AWT-EventQueue-0|loadFromDisk|Loaded 16 problems
+200117 235357.058|INFO|AWT-EventQueue-0|loadFromDisk|Loaded 1 contest_time_list
+200117 235357.058|INFO|AWT-EventQueue-0|loadFromDisk|Loaded 50 accounts
+200117 235357.061|INFO|AWT-EventQueue-0|loadFromDisk|Loaded 8 judgements
+200117 235357.061|INFO|AWT-EventQueue-0|loadProblemDataFilesInfo|Loaded 1 of 16 problem_data_files
+200117 235357.061|INFO|AWT-EventQueue-0|loadProblemDataFilesInfo|Loaded 2 of 16 problem_data_files
+200117 235357.061|INFO|AWT-EventQueue-0|loadProblemDataFilesInfo|Loaded 3 of 16 problem_data_files
+200117 235357.062|INFO|AWT-EventQueue-0|loadProblemDataFilesInfo|Loaded 4 of 16 problem_data_files
+200117 235357.062|INFO|AWT-EventQueue-0|loadProblemDataFilesInfo|Loaded 5 of 16 problem_data_files
+200117 235357.062|INFO|AWT-EventQueue-0|loadProblemDataFilesInfo|Loaded 6 of 16 problem_data_files
+200117 235357.062|INFO|AWT-EventQueue-0|loadProblemDataFilesInfo|Loaded 7 of 16 problem_data_files
+200117 235357.062|INFO|AWT-EventQueue-0|loadProblemDataFilesInfo|Loaded 8 of 16 problem_data_files
+200117 235357.062|INFO|AWT-EventQueue-0|loadProblemDataFilesInfo|Loaded 9 of 16 problem_data_files
+200117 235357.062|INFO|AWT-EventQueue-0|loadProblemDataFilesInfo|Loaded 10 of 16 problem_data_files
+200117 235357.062|INFO|AWT-EventQueue-0|loadProblemDataFilesInfo|Loaded 11 of 16 problem_data_files
+200117 235357.062|INFO|AWT-EventQueue-0|loadProblemDataFilesInfo|Loaded 12 of 16 problem_data_files
+200117 235357.062|INFO|AWT-EventQueue-0|loadProblemDataFilesInfo|Loaded 13 of 16 problem_data_files
+200117 235357.062|INFO|AWT-EventQueue-0|loadProblemDataFilesInfo|Loaded 14 of 16 problem_data_files
+200117 235357.062|INFO|AWT-EventQueue-0|loadProblemDataFilesInfo|Loaded 15 of 16 problem_data_files
+200117 235357.062|INFO|AWT-EventQueue-0|loadProblemDataFilesInfo|Loaded 16 of 16 problem_data_files
+200117 235357.062|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded 0 balloon_settings_list
+200117 235357.063|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded contest_time
+200117 235357.063|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded general_problem
+200117 235357.063|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded 2 profiles
+200117 235357.064|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded 1 categories
+200117 235357.064|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded profile
+200117 235357.064|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded 1 sites
+200117 235357.065|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded Contest Information UIL practice or something
+200117 235357.065|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded 4 client_settings_list
+200117 235357.065|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded 0 groups
+200117 235357.066|INFO|AWT-EventQueue-0|info|Loaded configuration from disk
+200117 235357.086|INFO|AWT-EventQueue-0|info|evals.log is opened at profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419\logs
+200117 235357.086|INFO|AWT-EventQueue-0|updateAutoStartInformation|Created AutoStarter...
+200117 235357.086|INFO|AWT-EventQueue-0|updateAutoStartInformation|updated AutoStarter with date null (note: null means no scheduled start is set)
+200117 235357.087|INFO|AWT-EventQueue-0|updateAutoStopClockThread|Started auto stop clock thread, remaining time is 2:00:00
+200117 235357.087|INFO|AWT-EventQueue-0|accecptConnections|accecptConnections on port:50002
+200117 235357.089|INFO|AWT-EventQueue-0|<init>|Could not listen on port:50002
+200117 235357.089|INFO|AWT-EventQueue-0|accecptConnections|Could not Accept connections on Port:50002
+200117 235357.090|SEVERE|AWT-EventQueue-0|fatalError|Port 50002 in use, server already running?
+|edu.csus.ecs.pc2.core.transport.TransportException: Address already in use: JVM_Bind
+|    at edu.csus.ecs.pc2.core.transport.TransportManager.accecptConnections (TransportManager.java:238)
+|    at edu.csus.ecs.pc2.core.transport.connection.ConnectionManager.accecptConnections (ConnectionManager.java:124)
+|    at edu.csus.ecs.pc2.core.InternalController.login (InternalController.java:733)
+|    at edu.csus.ecs.pc2.ui.LoginFrame.attemptToLogin (LoginFrame.java:377)
+|    at edu.csus.ecs.pc2.ui.LoginFrame$3.keyPressed (LoginFrame.java:280)
+|    at java.awt.Component.processKeyEvent (Unknown Source)
+|    at javax.swing.JComponent.processKeyEvent (Unknown Source)
+|    at java.awt.Component.processEvent (Unknown Source)
+|    at java.awt.Container.processEvent (Unknown Source)
+|    at java.awt.Component.dispatchEventImpl (Unknown Source)
+|    at java.awt.Container.dispatchEventImpl (Unknown Source)
+|    at java.awt.Component.dispatchEvent (Unknown Source)
+|    at java.awt.KeyboardFocusManager.redispatchEvent (Unknown Source)
+|    at java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent (Unknown Source)
+|    at java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent (Unknown Source)
+|    at java.awt.DefaultKeyboardFocusManager.typeAheadAssertions (Unknown Source)
+|    at java.awt.DefaultKeyboardFocusManager.dispatchEvent (Unknown Source)
+|    at java.awt.Component.dispatchEventImpl (Unknown Source)
+|    at java.awt.Container.dispatchEventImpl (Unknown Source)
+|    at java.awt.Window.dispatchEventImpl (Unknown Source)
+|    at java.awt.Component.dispatchEvent (Unknown Source)
+|    at java.awt.EventQueue.dispatchEventImpl (Unknown Source)
+|    at java.awt.EventQueue.access$500 (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.awt.EventQueue$3.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue$4.run (Unknown Source)
+|    at java.awt.EventQueue$4.run (Unknown Source)
+|    at java.security.AccessController.doPrivileged (Unknown Source)
+|    at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege (Unknown Source)
+|    at java.awt.EventQueue.dispatchEvent (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpOneEventForFilters (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForFilter (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEventsForHierarchy (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.pumpEvents (Unknown Source)
+|    at java.awt.EventDispatchThread.run (Unknown Source)
+200117 235357.090|INFO|AWT-EventQueue-0|fatalError|PC^2 halted

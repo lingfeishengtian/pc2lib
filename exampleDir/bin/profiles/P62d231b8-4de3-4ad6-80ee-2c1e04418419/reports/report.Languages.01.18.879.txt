@@ -1,0 +1,21 @@
+CSUS Programming Contest System
+Date: Saturday, January 18, 2020 3:24:20 PM CST
+Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+
+Languages Report
+
+Contest date/time: Sat Jan 18 15:16:57 CST 2020
+
+
+-- 1 languages --
+
+  Language  'Java' v1 id=Java--8544374802327027282
+    site number         : 0
+    compiler command    : javac {:mainfile}
+    is interpreter      : No
+    executable mask     : {:basename}.class
+    program execute cmd : java {:package}{:basename}
+   using judges exe cmd : No
+     judges execute cmd : java {:package}{:basename}
+
+end report

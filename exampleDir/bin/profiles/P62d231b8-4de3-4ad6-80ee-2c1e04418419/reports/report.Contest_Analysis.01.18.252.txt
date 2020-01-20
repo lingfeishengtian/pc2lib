@@ -1,0 +1,26 @@
+CSUS Programming Contest System
+Date: Saturday, January 18, 2020 12:24:50 AM CST
+Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+
+Contest Analysis Report
+
+Contest Title: UIL practice or something
+
+1 sites.
+ 1 Site 1             7 runs ( 0 unjudged,  0 deleted)   0 clars, 0 to All ( 0 unanswered,  0 deleted)
+   Total              7 runs ( 0 unjudged,  0 deleted)   0 clars, 0 to All ( 0 unanswered,  0 deleted)
+
+There are NO unanswered clars
+There are NO unjudged runs
+
+Runs after first Yes 
+Found   #  6  20 No - Compi TEAM9 @ site 1 'team9'
+  After #  5  14 Yes        Word Mix
+
+There are NO 'Yes' judgements after earlier Yes judgements
+Total No judgements after earlier Yes judgement: 1
+
+Runs submitted by Teams not shown on scoreboard/standings
+
+
+end report

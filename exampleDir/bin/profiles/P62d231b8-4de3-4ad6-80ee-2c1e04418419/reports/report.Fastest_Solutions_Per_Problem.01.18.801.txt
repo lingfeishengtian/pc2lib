@@ -1,0 +1,117 @@
+CSUS Programming Contest System
+Date: Saturday, January 18, 2020 3:24:20 PM CST
+Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+
+Fastest Solutions Per Problem Report
+
+There are 13 runs.
+
+Problem PEEPOO
+
+Rank Elap Run# Team
+
+No solutions for problem PEEPOO
+
+Problem Playtime
+
+Rank Elap Run# Team
+
+No solutions for problem Playtime
+
+Problem Floor Cleaner
+
+Rank Elap Run# Team
+
+No solutions for problem Floor Cleaner
+
+Problem neue
+
+Rank Elap Run# Team
+
+No solutions for problem neue
+
+Problem Reverse
+
+Rank Elap Run# Team
+
+No solutions for problem Reverse
+
+Problem Spiral
+
+Rank Elap Run# Team
+
+No solutions for problem Spiral
+
+Problem Demo Clean Up
+
+Rank Elap Run# Team
+
+No solutions for problem Demo Clean Up
+
+Problem Rook
+
+Rank Elap Run# Team
+
+No solutions for problem Rook
+
+Problem Word Mix
+
+Rank Elap Run# Team
+   1   14    5 team9 (Site 1)
+
+There are 1 runs solving Word Mix
+
+Problem Rain Boots
+
+Rank Elap Run# Team
+
+No solutions for problem Rain Boots
+
+Problem Triangle Height
+
+Rank Elap Run# Team
+
+No solutions for problem Triangle Height
+
+Problem Best Seller
+
+Rank Elap Run# Team
+
+No solutions for problem Best Seller
+
+Problem NEWTEST
+
+Rank Elap Run# Team
+
+No solutions for problem NEWTEST
+
+Problem NEWTEST
+
+Rank Elap Run# Team
+
+No solutions for problem NEWTEST
+
+Problem NEWTEST
+
+Rank Elap Run# Team
+   1   11    2 team9 (Site 1)
+
+There are 1 runs solving NEWTEST
+
+Problem NEWTEST
+
+Rank Elap Run# Team
+   1   13    3 team9 (Site 1)
+
+There are 1 runs solving NEWTEST
+
+Problem NEWTEST
+
+Rank Elap Run# Team
+   1    0    9 team1 (Site 1)
+
+There are 1 runs solving NEWTEST
+
+There are 1 runs marked deleted
+
+end report

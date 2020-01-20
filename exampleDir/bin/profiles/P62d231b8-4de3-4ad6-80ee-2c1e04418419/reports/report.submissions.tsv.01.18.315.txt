@@ -1,0 +1,14 @@
+CSUS Programming Contest System
+Date: Saturday, January 18, 2020 12:24:50 AM CST
+Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+
+submissions.tsv Report
+1	9		208830	CE
+2	9		663481	AC
+3	9		830689	AC
+4	9		862249	CE
+5	9		894137	AC
+6	9		1243201	CE
+7	9		1324392	RTE
+
+end report

@@ -1,0 +1,194 @@
+CSUS Programming Contest System
+Date: Saturday, January 18, 2020 3:24:20 PM CST
+Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+
+Standings XML  Report
+
+-- Start XML --
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<contestStandings>
+  <standingsHeader currentDate="Sat Jan 18 15:24:20 CST 2020" generatorId="$Id$" groupCount="1" medianProblemsSolved="0" problemCount="1" problemsAttempted="1" siteCount="1" systemName="CSUS Programming Contest System" systemURL="http://pc2.ecs.csus.edu/" systemVersion="9.6.0 build 5102" title="UIL practice or something" totalAttempts="1" totalSolved="1">
+    <groupList/>
+    <colorList/>
+    <problem attempts="1" bestSolutionTime="0" id="1" lastSolutionTime="0" numberSolved="1" title="NEWTEST"/>
+  </standingsHeader>
+  <teamStanding firstSolved="0" index="0" lastSolved="0" points="0" problemsAttempted="1" rank="1" solved="1" teamAlias="team1 (not aliasesd)" teamExternalId="1001" teamId="1" teamKey="1TEAM1" teamName="team1" teamSiteId="1" totalAttempts="1">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="0" problemId="NEWTEST-2323207713857520700" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="1" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team2 (not aliasesd)" teamExternalId="1002" teamId="2" teamKey="1TEAM2" teamName="team2" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="NEWTEST-2323207713857520700" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="2" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team3 (not aliasesd)" teamExternalId="1003" teamId="3" teamKey="1TEAM3" teamName="team3" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="NEWTEST-2323207713857520700" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="3" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team4 (not aliasesd)" teamExternalId="1004" teamId="4" teamKey="1TEAM4" teamName="team4" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="NEWTEST-2323207713857520700" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="4" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team5 (not aliasesd)" teamExternalId="1005" teamId="5" teamKey="1TEAM5" teamName="team5" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="NEWTEST-2323207713857520700" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="5" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team6 (not aliasesd)" teamExternalId="1006" teamId="6" teamKey="1TEAM6" teamName="team6" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="NEWTEST-2323207713857520700" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="6" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team7 (not aliasesd)" teamExternalId="1007" teamId="7" teamKey="1TEAM7" teamName="team7" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="NEWTEST-2323207713857520700" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="7" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team8 (not aliasesd)" teamExternalId="1008" teamId="8" teamKey="1TEAM8" teamName="team8" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="NEWTEST-2323207713857520700" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="8" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team9 (not aliasesd)" teamExternalId="1009" teamId="9" teamKey="1TEAM9" teamName="team9" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="NEWTEST-2323207713857520700" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="9" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team10 (not aliasesd)" teamExternalId="1010" teamId="10" teamKey="1TEAM10" teamName="team10" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="NEWTEST-2323207713857520700" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="10" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team11 (not aliasesd)" teamExternalId="1011" teamId="11" teamKey="1TEAM11" teamName="team11" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="NEWTEST-2323207713857520700" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="11" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team12 (not aliasesd)" teamExternalId="1012" teamId="12" teamKey="1TEAM12" teamName="team12" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="NEWTEST-2323207713857520700" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="12" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team13 (not aliasesd)" teamExternalId="1013" teamId="13" teamKey="1TEAM13" teamName="team13" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="NEWTEST-2323207713857520700" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="13" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team14 (not aliasesd)" teamExternalId="1014" teamId="14" teamKey="1TEAM14" teamName="team14" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="NEWTEST-2323207713857520700" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="14" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team15 (not aliasesd)" teamExternalId="1015" teamId="15" teamKey="1TEAM15" teamName="team15" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="NEWTEST-2323207713857520700" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="15" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team16 (not aliasesd)" teamExternalId="1016" teamId="16" teamKey="1TEAM16" teamName="team16" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="NEWTEST-2323207713857520700" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="16" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team17 (not aliasesd)" teamExternalId="1017" teamId="17" teamKey="1TEAM17" teamName="team17" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="NEWTEST-2323207713857520700" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="17" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team18 (not aliasesd)" teamExternalId="1018" teamId="18" teamKey="1TEAM18" teamName="team18" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="NEWTEST-2323207713857520700" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="18" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team19 (not aliasesd)" teamExternalId="1019" teamId="19" teamKey="1TEAM19" teamName="team19" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="NEWTEST-2323207713857520700" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="19" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team20 (not aliasesd)" teamExternalId="1020" teamId="20" teamKey="1TEAM20" teamName="team20" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="NEWTEST-2323207713857520700" solutionTime="0"/>
+  </teamStanding>
+</contestStandings>
+
+
+-- End XML --
+
+ #document DOCUMENT_NODE
+    contestStandings ELEMENT_NODE
+       #text TEXT_NODE
+       standingsHeader ELEMENT_NODE
+          #text TEXT_NODE
+          groupList ELEMENT_NODE
+          #text TEXT_NODE
+          colorList ELEMENT_NODE
+          #text TEXT_NODE
+          problem ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+
+
+end report

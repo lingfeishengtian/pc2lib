@@ -1,0 +1,31 @@
+CSUS Programming Contest System
+Date: Saturday, January 18, 2020 3:02:22 PM CST
+Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+
+Solutions By Problem Report
+
+There are 7 runs.
+
+Incorrect  Correct  Total     %   Problem Description
+--------- --------- ----- ------  -------------------
+     0         0       0    0.00  PEEPOO
+     0         0       0    0.00  Playtime
+     0         0       0    0.00  Floor Cleaner
+     0         0       0    0.00  neue
+     0         0       0    0.00  Reverse
+     0         0       0    0.00  Spiral
+     0         0       0    0.00  Demo Clean Up
+     0         0       0    0.00  Rook
+     3         1       4   25.00  Word Mix
+     0         0       0    0.00  Rain Boots
+     0         0       0    0.00  Triangle Height
+     0         0       0    0.00  Best Seller
+     0         0       0    0.00  NEWTEST
+     0         0       0    0.00  NEWTEST
+     1         1       2   50.00  NEWTEST
+     0         1       1  100.00  NEWTEST
+--------- --------- ----- ------  -------------------
+     4         3       7   42.85  Totals
+--------- --------- ----- ------  -------------------
+
+end report

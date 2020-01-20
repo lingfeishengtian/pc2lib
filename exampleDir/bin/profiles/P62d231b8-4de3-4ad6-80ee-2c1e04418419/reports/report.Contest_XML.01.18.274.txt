@@ -1,0 +1,96 @@
+CSUS Programming Contest System
+Date: Saturday, January 18, 2020 3:02:22 PM CST
+Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+
+Contest XML Report
+-- Start XML --
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<contest>
+  <version builddate="" fullversion="9.6.0" major="9" minor="6" pc2build="5102" subminor="0" system="CSUS Programming Contest System" url="http://pc2.ecs.csus.edu/" version="9.6.0"/>
+  <fileinfo date="2020-01-18 15:02.22.288" fulldate="Sat January 18, 2020 15:02:22.288 CST" version="Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) "/>
+  <settings>
+    <properties_information maxFileSize="512000" teamDisplayMode="LOGIN_NAME_ONLY">
+      <scoring_properties/>
+    </properties_information>
+  </settings>
+  <contest_information title="UIL practice or something"/>
+  <site IP_KEY="localhost" PORT_KEY="50002" name="Site 1" number="1" password="site1" pc2id="Site_1-7012278345677288838"/>
+  <contest_time conestLengthMins="120" contestLengthStr="2:00:00" contestRunning="true" elapsedTimeStr="15:05:30" haltContestAtTimeZero="true" remainingSecs="-47130" remainingTimeStr="-13:05:30" resumeTime="1579327012012" siteNumber="1"/>
+  <language ExecutableFilename="{:basename}.class" ProgramExecutionCommandLine="javac {:mainfile}" compileCommandLine="javac {:mainfile}" name="Java" pc2id="Java--8544374802327027282"/>
+  <problem active="true" answerfilename="scale.out" computerJudged="true" datafilename="scale.dat" ignoreCase="false" internalValidatorOption="1" manualReview="true" name="PEEPOO" pc2id="Scale-7240596095855506735" timeoutSecond="30" useInternalValidator="true" validatorCommand="{:validator} {:infile} {:outfile} {:ansfile} {:resfile} " validatorProgram="edu.csus.ecs.pc2.validator.pc2Validator.PC2Validator"/>
+  <problem active="true" answerfilename="playtime.out" computerJudged="true" datafilename="playtime.dat" ignoreCase="false" internalValidatorOption="1" manualReview="true" name="Playtime" pc2id="Playtime--6880609553831630343" timeoutSecond="30" useInternalValidator="true" validatorCommand="{:validator} {:infile} {:outfile} {:ansfile} {:resfile} " validatorProgram="edu.csus.ecs.pc2.validator.pc2Validator.PC2Validator"/>
+  <problem active="true" answerfilename="floor_cleaner.out" computerJudged="true" datafilename="floor_cleaner.dat" ignoreCase="false" internalValidatorOption="1" manualReview="true" name="Floor Cleaner" pc2id="Floor_Cleaner-8187387806821416961" timeoutSecond="30" useInternalValidator="true" validatorCommand="{:validator} {:infile} {:outfile} {:ansfile} {:resfile} " validatorProgram="edu.csus.ecs.pc2.validator.pc2Validator.PC2Validator"/>
+  <problem active="true" answerfilename="feed_store.out" computerJudged="true" datafilename="feed_store.dat" ignoreCase="false" internalValidatorOption="1" manualReview="true" name="neue" pc2id="Feed_Store-3055666975435761890" timeoutSecond="30" useInternalValidator="true" validatorCommand="{:validator} {:infile} {:outfile} {:ansfile} {:resfile} " validatorProgram="edu.csus.ecs.pc2.validator.pc2Validator.PC2Validator"/>
+  <problem active="true" answerfilename="reverse.out" computerJudged="true" datafilename="reverse.dat" ignoreCase="false" internalValidatorOption="1" manualReview="true" name="Reverse" pc2id="Reverse--2982540782513586259" timeoutSecond="30" useInternalValidator="true" validatorCommand="{:validator} {:infile} {:outfile} {:ansfile} {:resfile} " validatorProgram="edu.csus.ecs.pc2.validator.pc2Validator.PC2Validator"/>
+  <problem active="true" answerfilename="spiral.out" computerJudged="true" datafilename="spiral.dat" ignoreCase="false" internalValidatorOption="1" manualReview="true" name="Spiral" pc2id="Spiral--7372903428126228707" timeoutSecond="30" useInternalValidator="true" validatorCommand="{:validator} {:infile} {:outfile} {:ansfile} {:resfile} " validatorProgram="edu.csus.ecs.pc2.validator.pc2Validator.PC2Validator"/>
+  <problem active="true" answerfilename="demo_clean_up.out" computerJudged="true" datafilename="demo_clean_up.dat" ignoreCase="false" internalValidatorOption="1" manualReview="true" name="Demo Clean Up" pc2id="Demo_Clean_Up--7697438239547019681" timeoutSecond="30" useInternalValidator="true" validatorCommand="{:validator} {:infile} {:outfile} {:ansfile} {:resfile} " validatorProgram="edu.csus.ecs.pc2.validator.pc2Validator.PC2Validator"/>
+  <problem active="true" answerfilename="rook.out" computerJudged="true" ignoreCase="false" internalValidatorOption="1" manualReview="true" name="Rook" pc2id="Rook--1447082115065482455" timeoutSecond="30" useInternalValidator="true" validatorCommand="{:validator} {:infile} {:outfile} {:ansfile} {:resfile} " validatorProgram="edu.csus.ecs.pc2.validator.pc2Validator.PC2Validator"/>
+  <problem active="true" answerfilename="word_mix.out" computerJudged="true" datafilename="word_mix.dat" ignoreCase="false" internalValidatorOption="1" manualReview="true" name="Word Mix" pc2id="Word_Mix-5366080239438405028" timeoutSecond="30" useInternalValidator="true" validatorCommand="{:validator} {:infile} {:outfile} {:ansfile} {:resfile} " validatorProgram="edu.csus.ecs.pc2.validator.pc2Validator.PC2Validator"/>
+  <problem active="true" answerfilename="rain_boots.out" computerJudged="true" datafilename="rain_boots.dat" ignoreCase="false" internalValidatorOption="1" manualReview="true" name="Rain Boots" pc2id="Rain_Boots--2606853793672691817" timeoutSecond="30" useInternalValidator="true" validatorCommand="{:validator} {:infile} {:outfile} {:ansfile} {:resfile} " validatorProgram="edu.csus.ecs.pc2.validator.pc2Validator.PC2Validator"/>
+  <problem active="true" answerfilename="triangle_height.out" computerJudged="true" datafilename="triangle_height.dat" ignoreCase="false" internalValidatorOption="1" manualReview="true" name="Triangle Height" pc2id="Triangle_Height--2002149900713166121" timeoutSecond="30" useInternalValidator="true" validatorCommand="{:validator} {:infile} {:outfile} {:ansfile} {:resfile} " validatorProgram="edu.csus.ecs.pc2.validator.pc2Validator.PC2Validator"/>
+  <problem active="true" answerfilename="best_seller.out" computerJudged="true" datafilename="best_seller.dat" ignoreCase="false" internalValidatorOption="1" manualReview="true" name="Best Seller" pc2id="Best_Seller--1221713392265743635" timeoutSecond="30" useInternalValidator="true" validatorCommand="{:validator} {:infile} {:outfile} {:ansfile} {:resfile} " validatorProgram="edu.csus.ecs.pc2.validator.pc2Validator.PC2Validator"/>
+  <problem active="true" answerfilename="playtime1.out" computerJudged="true" datafilename="playtime1.in" ignoreCase="false" internalValidatorOption="0" manualReview="true" name="NEWTEST" pc2id="NEWTEST-596273864573110856" timeoutSecond="30" useInternalValidator="true" validatorCommand="{:validator} {:infile} {:outfile} {:ansfile} {:resfile} " validatorProgram="edu.csus.ecs.pc2.validator.pc2Validator.PC2Validator"/>
+  <problem active="true" answerfilename="playtime1.out" computerJudged="true" datafilename="playtime1.in" ignoreCase="false" internalValidatorOption="0" manualReview="true" name="NEWTEST" pc2id="NEWTEST-8575427072942469460" timeoutSecond="30" useInternalValidator="true" validatorCommand="{:validator} {:infile} {:outfile} {:ansfile} {:resfile} " validatorProgram="edu.csus.ecs.pc2.validator.pc2Validator.PC2Validator"/>
+  <problem active="true" answerfilename="playtime1.out" computerJudged="true" datafilename="playtime1.in" ignoreCase="false" internalValidatorOption="0" manualReview="true" name="NEWTEST" pc2id="NEWTEST-1392576944304572800" timeoutSecond="30" useInternalValidator="true" validatorCommand="{:validator} {:infile} {:outfile} {:ansfile} {:resfile} " validatorProgram="edu.csus.ecs.pc2.validator.pc2Validator.PC2Validator"/>
+  <problem active="true" answerfilename="playtime1.out" computerJudged="true" datafilename="playtime1.in" ignoreCase="false" internalValidatorOption="0" manualReview="true" name="NEWTEST" pc2id="NEWTEST--9004221673204648271" timeoutSecond="30" useInternalValidator="true" validatorCommand="{:validator} {:infile} {:outfile} {:ansfile} {:resfile} " validatorProgram="edu.csus.ecs.pc2.validator.pc2Validator.PC2Validator"/>
+  <problem active="true" computerJudged="false" manualReview="false" name="General" pc2id="General-8056461056418658880" timeoutSecond="30"/>
+  <account allowlogin="true" name="administrator1" number="1" password="administrator1" pc2triplet="1ADMINISTRATOR1" showonscoreboard="false" site="1" type="ADMINISTRATOR"/>
+  <account allowlogin="true" name="team1" number="1" password="team1" pc2triplet="1TEAM1" showonscoreboard="true" site="1" type="TEAM"/>
+  <account allowlogin="true" name="team2" number="2" password="team2" pc2triplet="1TEAM2" showonscoreboard="true" site="1" type="TEAM"/>
+  <account allowlogin="true" name="team3" number="3" password="team3" pc2triplet="1TEAM3" showonscoreboard="true" site="1" type="TEAM"/>
+  <account allowlogin="true" name="team4" number="4" password="team4" pc2triplet="1TEAM4" showonscoreboard="true" site="1" type="TEAM"/>
+  <account allowlogin="true" name="team5" number="5" password="team5" pc2triplet="1TEAM5" showonscoreboard="true" site="1" type="TEAM"/>
+  <account allowlogin="true" name="team6" number="6" password="team6" pc2triplet="1TEAM6" showonscoreboard="true" site="1" type="TEAM"/>
+  <account allowlogin="true" name="team7" number="7" password="team7" pc2triplet="1TEAM7" showonscoreboard="true" site="1" type="TEAM"/>
+  <account allowlogin="true" name="team8" number="8" password="team8" pc2triplet="1TEAM8" showonscoreboard="true" site="1" type="TEAM"/>
+  <account allowlogin="true" name="team9" number="9" password="team9" pc2triplet="1TEAM9" showonscoreboard="true" site="1" type="TEAM"/>
+  <account allowlogin="true" name="team10" number="10" password="team10" pc2triplet="1TEAM10" showonscoreboard="true" site="1" type="TEAM"/>
+  <account allowlogin="true" name="team11" number="11" password="team11" pc2triplet="1TEAM11" showonscoreboard="true" site="1" type="TEAM"/>
+  <account allowlogin="true" name="team12" number="12" password="team12" pc2triplet="1TEAM12" showonscoreboard="true" site="1" type="TEAM"/>
+  <account allowlogin="true" name="team13" number="13" password="team13" pc2triplet="1TEAM13" showonscoreboard="true" site="1" type="TEAM"/>
+  <account allowlogin="true" name="team14" number="14" password="team14" pc2triplet="1TEAM14" showonscoreboard="true" site="1" type="TEAM"/>
+  <account allowlogin="true" name="team15" number="15" password="team15" pc2triplet="1TEAM15" showonscoreboard="true" site="1" type="TEAM"/>
+  <account allowlogin="true" name="team16" number="16" password="team16" pc2triplet="1TEAM16" showonscoreboard="true" site="1" type="TEAM"/>
+  <account allowlogin="true" name="team17" number="17" password="team17" pc2triplet="1TEAM17" showonscoreboard="true" site="1" type="TEAM"/>
+  <account allowlogin="true" name="team18" number="18" password="team18" pc2triplet="1TEAM18" showonscoreboard="true" site="1" type="TEAM"/>
+  <account allowlogin="true" name="team19" number="19" password="team19" pc2triplet="1TEAM19" showonscoreboard="true" site="1" type="TEAM"/>
+  <account allowlogin="true" name="team20" number="20" password="team20" pc2triplet="1TEAM20" showonscoreboard="true" site="1" type="TEAM"/>
+  <account allowlogin="true" name="judge1" number="1" password="judge1" pc2triplet="1JUDGE1" showonscoreboard="false" site="1" type="JUDGE"/>
+  <account allowlogin="true" name="judge2" number="2" password="judge2" pc2triplet="1JUDGE2" showonscoreboard="false" site="1" type="JUDGE"/>
+  <account allowlogin="true" name="judge3" number="3" password="judge3" pc2triplet="1JUDGE3" showonscoreboard="false" site="1" type="JUDGE"/>
+  <account allowlogin="true" name="scoreboard1" number="1" password="scoreboard1" pc2triplet="1SCOREBOARD1" showonscoreboard="false" site="1" type="SCOREBOARD"/>
+  <run elapsed="3" filename="solution.java" languageName="Java" number="1" pc2id="Run-7233894321269857746" problemName="NEWTEST" site="1" solved="false">
+    <judgement active="true" id="0" judgement="No - Compilation Error" pc2id="No_-_Compilation_Error-4451318115751433921" solved="false"/>
+  </run>
+  <run elapsed="11" filename="solution.java" languageName="Java" number="2" pc2id="Run--3771286471058616564" problemName="NEWTEST" site="1" solved="true">
+    <judgement active="true" id="1" judgement="Yes" pc2id="Yes--4357454964518528495" solved="true"/>
+    <judgement active="false" id="0" judgement="No - Run-time Error" pc2id="No_-_Run-time_Error--628361778834185523" solved="false"/>
+  </run>
+  <run elapsed="13" filename="solution.java" languageName="Java" number="3" pc2id="Run-7008536506702459095" problemName="NEWTEST" site="1" solved="true">
+    <judgement active="true" id="1" judgement="Yes" pc2id="Yes--4357454964518528495" solved="true"/>
+    <judgement active="false" id="0" judgement="No - Run-time Error" pc2id="No_-_Run-time_Error--628361778834185523" solved="false"/>
+  </run>
+  <run elapsed="14" filename="solution.java" languageName="Java" number="4" pc2id="Run-7891112300271502936" problemName="Word Mix" site="1" solved="false">
+    <judgement active="true" id="1" judgement="No - Compilation Error" pc2id="No_-_Compilation_Error-4451318115751433921" solved="false"/>
+    <judgement active="false" id="0" judgement="No - Run-time Error" pc2id="No_-_Run-time_Error--628361778834185523" solved="false"/>
+  </run>
+  <run elapsed="14" filename="solution.java" languageName="Java" number="5" pc2id="Run--5597899458953950543" problemName="Word Mix" site="1" solved="true">
+    <judgement active="true" id="1" judgement="Yes" pc2id="Yes--4357454964518528495" solved="true"/>
+    <judgement active="false" id="0" judgement="No - Run-time Error" pc2id="No_-_Run-time_Error--628361778834185523" solved="false"/>
+  </run>
+  <run elapsed="20" filename="word_mix.java" languageName="Java" number="6" pc2id="Run--3259087204730893358" problemName="Word Mix" site="1" solved="false">
+    <judgement active="true" id="1" judgement="No - Compilation Error" pc2id="No_-_Compilation_Error-4451318115751433921" solved="false"/>
+    <judgement active="false" id="0" judgement="No - Compilation Error" pc2id="No_-_Compilation_Error-4451318115751433921" solved="false"/>
+  </run>
+  <run elapsed="22" filename="word_mix.java" languageName="Java" number="7" pc2id="Run--6342157212446751021" problemName="Word Mix" site="1">
+    <judgement active="true" id="0" judgement="No - Run-time Error" pc2id="No_-_Run-time_Error--628361778834185523" solved="false"/>
+  </run>
+  <ballonlist/>
+  <profiles contestid="Default-5053916771268647617" currentprofile="true" description="Default Contest" name="Default" path="profiles\P62d231b8-4de3-4ad6-80ee-2c1e04418419" pc2id="Default-3586998405885201546"/>
+  <profiles contestid="Default-2751587205105928519" currentprofile="false" description="Default Contest" name="Default" path="profiles/P62d231b8-4de3-4ad6-80ee-2c1e04418419" pc2id="Default-6340773944721079562"/>
+</contest>
+
+
+-- End XML --
+
+end report

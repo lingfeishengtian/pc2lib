@@ -1,0 +1,1139 @@
+CSUS Programming Contest System
+Date: Saturday, January 18, 2020 3:02:22 PM CST
+Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+
+Standings XML  Report
+
+-- Start XML --
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<contestStandings>
+  <standingsHeader currentDate="Sat Jan 18 15:02:22 CST 2020" generatorId="$Id$" groupCount="1" medianProblemsSolved="0" problemCount="16" problemsAttempted="3" siteCount="1" systemName="CSUS Programming Contest System" systemURL="http://pc2.ecs.csus.edu/" systemVersion="9.6.0 build 5102" title="UIL practice or something" totalAttempts="5" totalSolved="3">
+    <groupList/>
+    <colorList/>
+    <problem attempts="0" id="1" numberSolved="0" title="PEEPOO"/>
+    <problem attempts="0" id="2" numberSolved="0" title="Playtime"/>
+    <problem attempts="0" id="3" numberSolved="0" title="Floor Cleaner"/>
+    <problem attempts="0" id="4" numberSolved="0" title="neue"/>
+    <problem attempts="0" id="5" numberSolved="0" title="Reverse"/>
+    <problem attempts="0" id="6" numberSolved="0" title="Spiral"/>
+    <problem attempts="0" id="7" numberSolved="0" title="Demo Clean Up"/>
+    <problem attempts="0" id="8" numberSolved="0" title="Rook"/>
+    <problem attempts="2" bestSolutionTime="14" id="9" lastSolutionTime="14" numberSolved="1" title="Word Mix"/>
+    <problem attempts="0" id="10" numberSolved="0" title="Rain Boots"/>
+    <problem attempts="0" id="11" numberSolved="0" title="Triangle Height"/>
+    <problem attempts="0" id="12" numberSolved="0" title="Best Seller"/>
+    <problem attempts="0" id="13" numberSolved="0" title="NEWTEST"/>
+    <problem attempts="0" id="14" numberSolved="0" title="NEWTEST"/>
+    <problem attempts="2" bestSolutionTime="11" id="15" lastSolutionTime="11" numberSolved="1" title="NEWTEST"/>
+    <problem attempts="1" bestSolutionTime="13" id="16" lastSolutionTime="13" numberSolved="1" title="NEWTEST"/>
+  </standingsHeader>
+  <teamStanding firstSolved="11" index="0" lastSolved="14" points="38" problemsAttempted="3" rank="1" solved="3" teamAlias="team9 (not aliasesd)" teamExternalId="1009" teamId="9" teamKey="1TEAM9" teamName="team9" teamSiteId="1" totalAttempts="5">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="Scale-7240596095855506735" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="Playtime--6880609553831630343" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="Floor_Cleaner-8187387806821416961" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="Feed_Store-3055666975435761890" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="Reverse--2982540782513586259" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="Spiral--7372903428126228707" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="Demo_Clean_Up--7697438239547019681" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="Rook--1447082115065482455" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="9" isPending="false" isSolved="true" points="14" problemId="Word_Mix-5366080239438405028" solutionTime="14"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="Rain_Boots--2606853793672691817" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="11" isPending="false" isSolved="false" points="0" problemId="Triangle_Height--2002149900713166121" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="12" isPending="false" isSolved="false" points="0" problemId="Best_Seller--1221713392265743635" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="13" isPending="false" isSolved="false" points="0" problemId="NEWTEST-596273864573110856" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="14" isPending="false" isSolved="false" points="0" problemId="NEWTEST-8575427072942469460" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="15" isPending="false" isSolved="true" points="11" problemId="NEWTEST-1392576944304572800" solutionTime="11"/>
+    <problemSummaryInfo attempts="1" index="16" isPending="false" isSolved="true" points="13" problemId="NEWTEST--9004221673204648271" solutionTime="13"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="1" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team1 (not aliasesd)" teamExternalId="1001" teamId="1" teamKey="1TEAM1" teamName="team1" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="Scale-7240596095855506735" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="Playtime--6880609553831630343" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="Floor_Cleaner-8187387806821416961" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="Feed_Store-3055666975435761890" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="Reverse--2982540782513586259" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="Spiral--7372903428126228707" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="Demo_Clean_Up--7697438239547019681" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="Rook--1447082115065482455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Word_Mix-5366080239438405028" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="Rain_Boots--2606853793672691817" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="11" isPending="false" isSolved="false" points="0" problemId="Triangle_Height--2002149900713166121" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="12" isPending="false" isSolved="false" points="0" problemId="Best_Seller--1221713392265743635" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="13" isPending="false" isSolved="false" points="0" problemId="NEWTEST-596273864573110856" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="14" isPending="false" isSolved="false" points="0" problemId="NEWTEST-8575427072942469460" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="15" isPending="false" isSolved="false" points="0" problemId="NEWTEST-1392576944304572800" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="16" isPending="false" isSolved="false" points="0" problemId="NEWTEST--9004221673204648271" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="2" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team2 (not aliasesd)" teamExternalId="1002" teamId="2" teamKey="1TEAM2" teamName="team2" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="Scale-7240596095855506735" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="Playtime--6880609553831630343" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="Floor_Cleaner-8187387806821416961" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="Feed_Store-3055666975435761890" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="Reverse--2982540782513586259" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="Spiral--7372903428126228707" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="Demo_Clean_Up--7697438239547019681" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="Rook--1447082115065482455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Word_Mix-5366080239438405028" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="Rain_Boots--2606853793672691817" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="11" isPending="false" isSolved="false" points="0" problemId="Triangle_Height--2002149900713166121" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="12" isPending="false" isSolved="false" points="0" problemId="Best_Seller--1221713392265743635" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="13" isPending="false" isSolved="false" points="0" problemId="NEWTEST-596273864573110856" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="14" isPending="false" isSolved="false" points="0" problemId="NEWTEST-8575427072942469460" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="15" isPending="false" isSolved="false" points="0" problemId="NEWTEST-1392576944304572800" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="16" isPending="false" isSolved="false" points="0" problemId="NEWTEST--9004221673204648271" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="3" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team3 (not aliasesd)" teamExternalId="1003" teamId="3" teamKey="1TEAM3" teamName="team3" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="Scale-7240596095855506735" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="Playtime--6880609553831630343" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="Floor_Cleaner-8187387806821416961" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="Feed_Store-3055666975435761890" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="Reverse--2982540782513586259" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="Spiral--7372903428126228707" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="Demo_Clean_Up--7697438239547019681" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="Rook--1447082115065482455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Word_Mix-5366080239438405028" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="Rain_Boots--2606853793672691817" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="11" isPending="false" isSolved="false" points="0" problemId="Triangle_Height--2002149900713166121" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="12" isPending="false" isSolved="false" points="0" problemId="Best_Seller--1221713392265743635" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="13" isPending="false" isSolved="false" points="0" problemId="NEWTEST-596273864573110856" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="14" isPending="false" isSolved="false" points="0" problemId="NEWTEST-8575427072942469460" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="15" isPending="false" isSolved="false" points="0" problemId="NEWTEST-1392576944304572800" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="16" isPending="false" isSolved="false" points="0" problemId="NEWTEST--9004221673204648271" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="4" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team4 (not aliasesd)" teamExternalId="1004" teamId="4" teamKey="1TEAM4" teamName="team4" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="Scale-7240596095855506735" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="Playtime--6880609553831630343" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="Floor_Cleaner-8187387806821416961" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="Feed_Store-3055666975435761890" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="Reverse--2982540782513586259" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="Spiral--7372903428126228707" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="Demo_Clean_Up--7697438239547019681" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="Rook--1447082115065482455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Word_Mix-5366080239438405028" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="Rain_Boots--2606853793672691817" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="11" isPending="false" isSolved="false" points="0" problemId="Triangle_Height--2002149900713166121" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="12" isPending="false" isSolved="false" points="0" problemId="Best_Seller--1221713392265743635" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="13" isPending="false" isSolved="false" points="0" problemId="NEWTEST-596273864573110856" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="14" isPending="false" isSolved="false" points="0" problemId="NEWTEST-8575427072942469460" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="15" isPending="false" isSolved="false" points="0" problemId="NEWTEST-1392576944304572800" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="16" isPending="false" isSolved="false" points="0" problemId="NEWTEST--9004221673204648271" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="5" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team5 (not aliasesd)" teamExternalId="1005" teamId="5" teamKey="1TEAM5" teamName="team5" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="Scale-7240596095855506735" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="Playtime--6880609553831630343" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="Floor_Cleaner-8187387806821416961" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="Feed_Store-3055666975435761890" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="Reverse--2982540782513586259" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="Spiral--7372903428126228707" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="Demo_Clean_Up--7697438239547019681" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="Rook--1447082115065482455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Word_Mix-5366080239438405028" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="Rain_Boots--2606853793672691817" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="11" isPending="false" isSolved="false" points="0" problemId="Triangle_Height--2002149900713166121" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="12" isPending="false" isSolved="false" points="0" problemId="Best_Seller--1221713392265743635" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="13" isPending="false" isSolved="false" points="0" problemId="NEWTEST-596273864573110856" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="14" isPending="false" isSolved="false" points="0" problemId="NEWTEST-8575427072942469460" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="15" isPending="false" isSolved="false" points="0" problemId="NEWTEST-1392576944304572800" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="16" isPending="false" isSolved="false" points="0" problemId="NEWTEST--9004221673204648271" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="6" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team6 (not aliasesd)" teamExternalId="1006" teamId="6" teamKey="1TEAM6" teamName="team6" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="Scale-7240596095855506735" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="Playtime--6880609553831630343" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="Floor_Cleaner-8187387806821416961" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="Feed_Store-3055666975435761890" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="Reverse--2982540782513586259" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="Spiral--7372903428126228707" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="Demo_Clean_Up--7697438239547019681" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="Rook--1447082115065482455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Word_Mix-5366080239438405028" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="Rain_Boots--2606853793672691817" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="11" isPending="false" isSolved="false" points="0" problemId="Triangle_Height--2002149900713166121" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="12" isPending="false" isSolved="false" points="0" problemId="Best_Seller--1221713392265743635" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="13" isPending="false" isSolved="false" points="0" problemId="NEWTEST-596273864573110856" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="14" isPending="false" isSolved="false" points="0" problemId="NEWTEST-8575427072942469460" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="15" isPending="false" isSolved="false" points="0" problemId="NEWTEST-1392576944304572800" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="16" isPending="false" isSolved="false" points="0" problemId="NEWTEST--9004221673204648271" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="7" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team7 (not aliasesd)" teamExternalId="1007" teamId="7" teamKey="1TEAM7" teamName="team7" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="Scale-7240596095855506735" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="Playtime--6880609553831630343" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="Floor_Cleaner-8187387806821416961" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="Feed_Store-3055666975435761890" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="Reverse--2982540782513586259" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="Spiral--7372903428126228707" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="Demo_Clean_Up--7697438239547019681" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="Rook--1447082115065482455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Word_Mix-5366080239438405028" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="Rain_Boots--2606853793672691817" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="11" isPending="false" isSolved="false" points="0" problemId="Triangle_Height--2002149900713166121" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="12" isPending="false" isSolved="false" points="0" problemId="Best_Seller--1221713392265743635" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="13" isPending="false" isSolved="false" points="0" problemId="NEWTEST-596273864573110856" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="14" isPending="false" isSolved="false" points="0" problemId="NEWTEST-8575427072942469460" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="15" isPending="false" isSolved="false" points="0" problemId="NEWTEST-1392576944304572800" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="16" isPending="false" isSolved="false" points="0" problemId="NEWTEST--9004221673204648271" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="8" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team8 (not aliasesd)" teamExternalId="1008" teamId="8" teamKey="1TEAM8" teamName="team8" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="Scale-7240596095855506735" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="Playtime--6880609553831630343" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="Floor_Cleaner-8187387806821416961" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="Feed_Store-3055666975435761890" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="Reverse--2982540782513586259" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="Spiral--7372903428126228707" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="Demo_Clean_Up--7697438239547019681" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="Rook--1447082115065482455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Word_Mix-5366080239438405028" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="Rain_Boots--2606853793672691817" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="11" isPending="false" isSolved="false" points="0" problemId="Triangle_Height--2002149900713166121" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="12" isPending="false" isSolved="false" points="0" problemId="Best_Seller--1221713392265743635" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="13" isPending="false" isSolved="false" points="0" problemId="NEWTEST-596273864573110856" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="14" isPending="false" isSolved="false" points="0" problemId="NEWTEST-8575427072942469460" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="15" isPending="false" isSolved="false" points="0" problemId="NEWTEST-1392576944304572800" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="16" isPending="false" isSolved="false" points="0" problemId="NEWTEST--9004221673204648271" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="9" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team10 (not aliasesd)" teamExternalId="1010" teamId="10" teamKey="1TEAM10" teamName="team10" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="Scale-7240596095855506735" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="Playtime--6880609553831630343" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="Floor_Cleaner-8187387806821416961" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="Feed_Store-3055666975435761890" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="Reverse--2982540782513586259" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="Spiral--7372903428126228707" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="Demo_Clean_Up--7697438239547019681" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="Rook--1447082115065482455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Word_Mix-5366080239438405028" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="Rain_Boots--2606853793672691817" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="11" isPending="false" isSolved="false" points="0" problemId="Triangle_Height--2002149900713166121" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="12" isPending="false" isSolved="false" points="0" problemId="Best_Seller--1221713392265743635" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="13" isPending="false" isSolved="false" points="0" problemId="NEWTEST-596273864573110856" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="14" isPending="false" isSolved="false" points="0" problemId="NEWTEST-8575427072942469460" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="15" isPending="false" isSolved="false" points="0" problemId="NEWTEST-1392576944304572800" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="16" isPending="false" isSolved="false" points="0" problemId="NEWTEST--9004221673204648271" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="10" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team11 (not aliasesd)" teamExternalId="1011" teamId="11" teamKey="1TEAM11" teamName="team11" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="Scale-7240596095855506735" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="Playtime--6880609553831630343" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="Floor_Cleaner-8187387806821416961" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="Feed_Store-3055666975435761890" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="Reverse--2982540782513586259" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="Spiral--7372903428126228707" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="Demo_Clean_Up--7697438239547019681" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="Rook--1447082115065482455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Word_Mix-5366080239438405028" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="Rain_Boots--2606853793672691817" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="11" isPending="false" isSolved="false" points="0" problemId="Triangle_Height--2002149900713166121" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="12" isPending="false" isSolved="false" points="0" problemId="Best_Seller--1221713392265743635" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="13" isPending="false" isSolved="false" points="0" problemId="NEWTEST-596273864573110856" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="14" isPending="false" isSolved="false" points="0" problemId="NEWTEST-8575427072942469460" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="15" isPending="false" isSolved="false" points="0" problemId="NEWTEST-1392576944304572800" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="16" isPending="false" isSolved="false" points="0" problemId="NEWTEST--9004221673204648271" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="11" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team12 (not aliasesd)" teamExternalId="1012" teamId="12" teamKey="1TEAM12" teamName="team12" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="Scale-7240596095855506735" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="Playtime--6880609553831630343" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="Floor_Cleaner-8187387806821416961" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="Feed_Store-3055666975435761890" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="Reverse--2982540782513586259" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="Spiral--7372903428126228707" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="Demo_Clean_Up--7697438239547019681" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="Rook--1447082115065482455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Word_Mix-5366080239438405028" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="Rain_Boots--2606853793672691817" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="11" isPending="false" isSolved="false" points="0" problemId="Triangle_Height--2002149900713166121" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="12" isPending="false" isSolved="false" points="0" problemId="Best_Seller--1221713392265743635" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="13" isPending="false" isSolved="false" points="0" problemId="NEWTEST-596273864573110856" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="14" isPending="false" isSolved="false" points="0" problemId="NEWTEST-8575427072942469460" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="15" isPending="false" isSolved="false" points="0" problemId="NEWTEST-1392576944304572800" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="16" isPending="false" isSolved="false" points="0" problemId="NEWTEST--9004221673204648271" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="12" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team13 (not aliasesd)" teamExternalId="1013" teamId="13" teamKey="1TEAM13" teamName="team13" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="Scale-7240596095855506735" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="Playtime--6880609553831630343" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="Floor_Cleaner-8187387806821416961" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="Feed_Store-3055666975435761890" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="Reverse--2982540782513586259" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="Spiral--7372903428126228707" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="Demo_Clean_Up--7697438239547019681" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="Rook--1447082115065482455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Word_Mix-5366080239438405028" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="Rain_Boots--2606853793672691817" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="11" isPending="false" isSolved="false" points="0" problemId="Triangle_Height--2002149900713166121" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="12" isPending="false" isSolved="false" points="0" problemId="Best_Seller--1221713392265743635" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="13" isPending="false" isSolved="false" points="0" problemId="NEWTEST-596273864573110856" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="14" isPending="false" isSolved="false" points="0" problemId="NEWTEST-8575427072942469460" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="15" isPending="false" isSolved="false" points="0" problemId="NEWTEST-1392576944304572800" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="16" isPending="false" isSolved="false" points="0" problemId="NEWTEST--9004221673204648271" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="13" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team14 (not aliasesd)" teamExternalId="1014" teamId="14" teamKey="1TEAM14" teamName="team14" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="Scale-7240596095855506735" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="Playtime--6880609553831630343" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="Floor_Cleaner-8187387806821416961" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="Feed_Store-3055666975435761890" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="Reverse--2982540782513586259" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="Spiral--7372903428126228707" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="Demo_Clean_Up--7697438239547019681" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="Rook--1447082115065482455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Word_Mix-5366080239438405028" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="Rain_Boots--2606853793672691817" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="11" isPending="false" isSolved="false" points="0" problemId="Triangle_Height--2002149900713166121" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="12" isPending="false" isSolved="false" points="0" problemId="Best_Seller--1221713392265743635" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="13" isPending="false" isSolved="false" points="0" problemId="NEWTEST-596273864573110856" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="14" isPending="false" isSolved="false" points="0" problemId="NEWTEST-8575427072942469460" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="15" isPending="false" isSolved="false" points="0" problemId="NEWTEST-1392576944304572800" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="16" isPending="false" isSolved="false" points="0" problemId="NEWTEST--9004221673204648271" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="14" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team15 (not aliasesd)" teamExternalId="1015" teamId="15" teamKey="1TEAM15" teamName="team15" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="Scale-7240596095855506735" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="Playtime--6880609553831630343" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="Floor_Cleaner-8187387806821416961" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="Feed_Store-3055666975435761890" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="Reverse--2982540782513586259" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="Spiral--7372903428126228707" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="Demo_Clean_Up--7697438239547019681" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="Rook--1447082115065482455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Word_Mix-5366080239438405028" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="Rain_Boots--2606853793672691817" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="11" isPending="false" isSolved="false" points="0" problemId="Triangle_Height--2002149900713166121" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="12" isPending="false" isSolved="false" points="0" problemId="Best_Seller--1221713392265743635" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="13" isPending="false" isSolved="false" points="0" problemId="NEWTEST-596273864573110856" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="14" isPending="false" isSolved="false" points="0" problemId="NEWTEST-8575427072942469460" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="15" isPending="false" isSolved="false" points="0" problemId="NEWTEST-1392576944304572800" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="16" isPending="false" isSolved="false" points="0" problemId="NEWTEST--9004221673204648271" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="15" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team16 (not aliasesd)" teamExternalId="1016" teamId="16" teamKey="1TEAM16" teamName="team16" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="Scale-7240596095855506735" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="Playtime--6880609553831630343" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="Floor_Cleaner-8187387806821416961" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="Feed_Store-3055666975435761890" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="Reverse--2982540782513586259" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="Spiral--7372903428126228707" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="Demo_Clean_Up--7697438239547019681" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="Rook--1447082115065482455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Word_Mix-5366080239438405028" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="Rain_Boots--2606853793672691817" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="11" isPending="false" isSolved="false" points="0" problemId="Triangle_Height--2002149900713166121" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="12" isPending="false" isSolved="false" points="0" problemId="Best_Seller--1221713392265743635" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="13" isPending="false" isSolved="false" points="0" problemId="NEWTEST-596273864573110856" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="14" isPending="false" isSolved="false" points="0" problemId="NEWTEST-8575427072942469460" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="15" isPending="false" isSolved="false" points="0" problemId="NEWTEST-1392576944304572800" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="16" isPending="false" isSolved="false" points="0" problemId="NEWTEST--9004221673204648271" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="16" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team17 (not aliasesd)" teamExternalId="1017" teamId="17" teamKey="1TEAM17" teamName="team17" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="Scale-7240596095855506735" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="Playtime--6880609553831630343" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="Floor_Cleaner-8187387806821416961" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="Feed_Store-3055666975435761890" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="Reverse--2982540782513586259" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="Spiral--7372903428126228707" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="Demo_Clean_Up--7697438239547019681" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="Rook--1447082115065482455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Word_Mix-5366080239438405028" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="Rain_Boots--2606853793672691817" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="11" isPending="false" isSolved="false" points="0" problemId="Triangle_Height--2002149900713166121" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="12" isPending="false" isSolved="false" points="0" problemId="Best_Seller--1221713392265743635" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="13" isPending="false" isSolved="false" points="0" problemId="NEWTEST-596273864573110856" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="14" isPending="false" isSolved="false" points="0" problemId="NEWTEST-8575427072942469460" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="15" isPending="false" isSolved="false" points="0" problemId="NEWTEST-1392576944304572800" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="16" isPending="false" isSolved="false" points="0" problemId="NEWTEST--9004221673204648271" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="17" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team18 (not aliasesd)" teamExternalId="1018" teamId="18" teamKey="1TEAM18" teamName="team18" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="Scale-7240596095855506735" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="Playtime--6880609553831630343" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="Floor_Cleaner-8187387806821416961" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="Feed_Store-3055666975435761890" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="Reverse--2982540782513586259" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="Spiral--7372903428126228707" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="Demo_Clean_Up--7697438239547019681" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="Rook--1447082115065482455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Word_Mix-5366080239438405028" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="Rain_Boots--2606853793672691817" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="11" isPending="false" isSolved="false" points="0" problemId="Triangle_Height--2002149900713166121" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="12" isPending="false" isSolved="false" points="0" problemId="Best_Seller--1221713392265743635" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="13" isPending="false" isSolved="false" points="0" problemId="NEWTEST-596273864573110856" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="14" isPending="false" isSolved="false" points="0" problemId="NEWTEST-8575427072942469460" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="15" isPending="false" isSolved="false" points="0" problemId="NEWTEST-1392576944304572800" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="16" isPending="false" isSolved="false" points="0" problemId="NEWTEST--9004221673204648271" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="18" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team19 (not aliasesd)" teamExternalId="1019" teamId="19" teamKey="1TEAM19" teamName="team19" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="Scale-7240596095855506735" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="Playtime--6880609553831630343" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="Floor_Cleaner-8187387806821416961" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="Feed_Store-3055666975435761890" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="Reverse--2982540782513586259" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="Spiral--7372903428126228707" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="Demo_Clean_Up--7697438239547019681" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="Rook--1447082115065482455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Word_Mix-5366080239438405028" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="Rain_Boots--2606853793672691817" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="11" isPending="false" isSolved="false" points="0" problemId="Triangle_Height--2002149900713166121" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="12" isPending="false" isSolved="false" points="0" problemId="Best_Seller--1221713392265743635" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="13" isPending="false" isSolved="false" points="0" problemId="NEWTEST-596273864573110856" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="14" isPending="false" isSolved="false" points="0" problemId="NEWTEST-8575427072942469460" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="15" isPending="false" isSolved="false" points="0" problemId="NEWTEST-1392576944304572800" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="16" isPending="false" isSolved="false" points="0" problemId="NEWTEST--9004221673204648271" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="19" lastSolved="0" points="0" problemsAttempted="0" rank="2" solved="0" teamAlias="team20 (not aliasesd)" teamExternalId="1020" teamId="20" teamKey="1TEAM20" teamName="team20" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="Scale-7240596095855506735" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="Playtime--6880609553831630343" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="Floor_Cleaner-8187387806821416961" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="Feed_Store-3055666975435761890" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="Reverse--2982540782513586259" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="Spiral--7372903428126228707" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="Demo_Clean_Up--7697438239547019681" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="Rook--1447082115065482455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Word_Mix-5366080239438405028" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="Rain_Boots--2606853793672691817" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="11" isPending="false" isSolved="false" points="0" problemId="Triangle_Height--2002149900713166121" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="12" isPending="false" isSolved="false" points="0" problemId="Best_Seller--1221713392265743635" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="13" isPending="false" isSolved="false" points="0" problemId="NEWTEST-596273864573110856" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="14" isPending="false" isSolved="false" points="0" problemId="NEWTEST-8575427072942469460" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="15" isPending="false" isSolved="false" points="0" problemId="NEWTEST-1392576944304572800" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="16" isPending="false" isSolved="false" points="0" problemId="NEWTEST--9004221673204648271" solutionTime="0"/>
+  </teamStanding>
+</contestStandings>
+
+
+-- End XML --
+
+ #document DOCUMENT_NODE
+    contestStandings ELEMENT_NODE
+       #text TEXT_NODE
+       standingsHeader ELEMENT_NODE
+          #text TEXT_NODE
+          groupList ELEMENT_NODE
+          #text TEXT_NODE
+          colorList ELEMENT_NODE
+          #text TEXT_NODE
+          problem ELEMENT_NODE
+          #text TEXT_NODE
+          problem ELEMENT_NODE
+          #text TEXT_NODE
+          problem ELEMENT_NODE
+          #text TEXT_NODE
+          problem ELEMENT_NODE
+          #text TEXT_NODE
+          problem ELEMENT_NODE
+          #text TEXT_NODE
+          problem ELEMENT_NODE
+          #text TEXT_NODE
+          problem ELEMENT_NODE
+          #text TEXT_NODE
+          problem ELEMENT_NODE
+          #text TEXT_NODE
+          problem ELEMENT_NODE
+          #text TEXT_NODE
+          problem ELEMENT_NODE
+          #text TEXT_NODE
+          problem ELEMENT_NODE
+          #text TEXT_NODE
+          problem ELEMENT_NODE
+          #text TEXT_NODE
+          problem ELEMENT_NODE
+          #text TEXT_NODE
+          problem ELEMENT_NODE
+          #text TEXT_NODE
+          problem ELEMENT_NODE
+          #text TEXT_NODE
+          problem ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+
+
+end report
