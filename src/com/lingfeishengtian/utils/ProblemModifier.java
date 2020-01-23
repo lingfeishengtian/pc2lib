@@ -3,6 +3,7 @@ package com.lingfeishengtian.utils;
 import edu.csus.ecs.pc2.core.model.Problem;
 import edu.csus.ecs.pc2.core.model.ProblemDataFiles;
 import edu.csus.ecs.pc2.core.model.SerializedFile;
+import edu.csus.ecs.pc2.validator.pc2Validator.PC2ValidatorSettings;
 
 import java.io.File;
 import java.util.Arrays;
@@ -26,6 +27,7 @@ public class ProblemModifier {
                 problem.setDataFileName(inputFile.getName());
             problem.setAnswerFileName(outputFile.getName());
             problem.setValidatorType(Problem.VALIDATOR_TYPE.PC2VALIDATOR);
+            //problem.setPC2ValidatorSettings(new PC2ValidatorSettings());
             problem.setShowCompareWindow(true);
             problem.setShowValidationToJudges(true);
             problem.setManualReview(true);

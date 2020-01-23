@@ -20,7 +20,7 @@ public class TestProgram {
      */
     public static void main(String[] args) throws FileSecurityException, IOException, ClassNotFoundException {
         Extractor x = new Extractor("/Users/hunterhan/Desktop/pc2-9.6.0-1-10-20BROK/bin/profiles/P62d231b8-4de3-4ad6-80ee-2c1e04418419/db.1");
-        FileSecurity f = x.getFileSecurity("NONONO");
+        FileSecurity f = x.getFileSecurity("NONO");
         Hashtable hash = x.getConfigHashTable(f);
         ProblemModifier.addProblemWithDefaultSettings("TEST", new File("TestData/playtime1.in"),  new File("TestData/playtime1.out"), hash);
         ProblemModifier.addProblemWithDefaultSettings("TEST", new File("TestData/playtime1.in"),  new File("TestData/playtime1.out"), hash);

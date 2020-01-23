@@ -3,7 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/pc2lib_jar</output-path>
     <root id="archive" name="pc2lib.jar">
       <element id="module-output" name="pc2lib" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/lib/pc2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/exampleDir/lib/pc2.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
