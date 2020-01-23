@@ -1,5 +1,6 @@
 import edu.csus.ecs.pc2.core.model.Problem;
 import edu.csus.ecs.pc2.core.model.ProblemDataFiles;
+import edu.csus.ecs.pc2.core.model.Profile;
 import edu.csus.ecs.pc2.core.model.SerializedFile;
 import edu.csus.ecs.pc2.core.security.FileSecurity;
 import edu.csus.ecs.pc2.core.security.FileSecurityException;
@@ -18,7 +19,11 @@ public class TestProgram {
     -Djdk.crypto.KeyAgreement.legacyKDF=true
      */
     public static void main(String[] args) throws FileSecurityException, IOException, ClassNotFoundException {
-        ProblemModifier.addProblemWithDefaultSettings("TEST", new File("TestData/playtime1.in"),  new File("TestData/playtime1.out"), null);
+        Extractor x = new Extractor("/Users/hunterhan/Desktop/pc2-9.6.0-1-10-20BROK/bin/profiles/P62d231b8-4de3-4ad6-80ee-2c1e04418419/db.1");
+        FileSecurity f = x.getFileSecurity("NONONO");
+        Hashtable hash = x.getConfigHashTable(f);
+        ProblemModifier.addProblemWithDefaultSettings("TEST", new File("TestData/playtime1.in"),  new File("TestData/playtime1.out"), hash);
+        ProblemModifier.addProblemWithDefaultSettings("TEST", new File("TestData/playtime1.in"),  new File("TestData/playtime1.out"), hash);
         //SettingsModifier();
         //ValidatorTester();
     }

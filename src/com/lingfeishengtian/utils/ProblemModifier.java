@@ -5,6 +5,7 @@ import edu.csus.ecs.pc2.core.model.ProblemDataFiles;
 import edu.csus.ecs.pc2.core.model.SerializedFile;
 
 import java.io.File;
+import java.util.Arrays;
 import java.util.Hashtable;
 
 public class ProblemModifier {
@@ -37,8 +38,13 @@ public class ProblemModifier {
             Problem[] problemArray = (Problem[]) config.get("PROBLEMS");
             ProblemDataFiles[] problemDataArray = (ProblemDataFiles[]) config.get("PROBLEM_DATA_FILES");
 
-            config.put("PROBLEMS", addObjectToArray(problemArray, problem));
-            config.put("PROBLEM_DATA_FILES", addObjectToArray(problemDataArray, problemDataFiles));
+            Object[] a = addObjectToArray(problemArray, problem);
+            Object[] b = addObjectToArray(problemDataArray, problemDataFiles);
+
+            Problem[] c = Arrays.copyOf(a, a.length, Problem[].class);
+            ProblemDataFiles[] d = Arrays.copyOf(b, b.length, ProblemDataFiles[].class);
+            config.put("PROBLEMS", c);
+            config.put("PROBLEM_DATA_FILES", d);
         }else{
             System.out.println("The files given are invalid files.");
             return;
