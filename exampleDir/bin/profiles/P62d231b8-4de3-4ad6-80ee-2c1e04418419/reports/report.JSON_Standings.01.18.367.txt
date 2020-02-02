@@ -1,7 +1,0 @@
-CSUS Programming Contest System
-Date: Saturday, January 18, 2020 3:02:22 PM CST
-Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
-
-JSON Standings Report
-[{"id":"1","name":"team9","group":"","I":{"a":4,"t":14,"s":"first"},"O":{"a":2,"t":11,"s":"first"},"P":{"a":1,"t":13,"s":"first"}}{"id":"2","name":"team1","group":""}{"id":"2","name":"team2","group":""}{"id":"2","name":"team3","group":""}{"id":"2","name":"team4","group":""}{"id":"2","name":"team5","group":""}{"id":"2","name":"team6","group":""}{"id":"2","name":"team7","group":""}{"id":"2","name":"team8","group":""}{"id":"2","name":"team10","group":""}{"id":"2","name":"team11","group":""}{"id":"2","name":"team12","group":""}{"id":"2","name":"team13","group":""}{"id":"2","name":"team14","group":""}{"id":"2","name":"team15","group":""}{"id":"2","name":"team16","group":""}{"id":"2","name":"team17","group":""}{"id":"2","name":"team18","group":""}{"id":"2","name":"team19","group":""}{"id":"2","name":"team20","group":""}]
-end report

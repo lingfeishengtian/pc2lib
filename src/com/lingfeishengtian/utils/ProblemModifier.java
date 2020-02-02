@@ -19,7 +19,7 @@ public class ProblemModifier {
      * @param outputFile The output data, this is required!!!!
      * @param config The hashtable configuration retrieved from security.
      */
-    public static void addProblemWithDefaultSettings(String problemName, File inputFile, File outputFile, Hashtable config){
+    public static void addProblemWithDefaultSettings(String problemName, File inputFile, File outputFile, Hashtable config) throws Exception {
         if((inputFile == null || inputFile.isFile()) && outputFile.isFile()) {
             Problem problem = new Problem(problemName);
             problem.setComputerJudged(true);
@@ -27,7 +27,6 @@ public class ProblemModifier {
                 problem.setDataFileName(inputFile.getName());
             problem.setAnswerFileName(outputFile.getName());
             problem.setValidatorType(Problem.VALIDATOR_TYPE.PC2VALIDATOR);
-            //problem.setPC2ValidatorSettings(new PC2ValidatorSettings());
             problem.setShowCompareWindow(true);
             problem.setShowValidationToJudges(true);
             problem.setManualReview(true);
@@ -47,9 +46,10 @@ public class ProblemModifier {
             ProblemDataFiles[] d = Arrays.copyOf(b, b.length, ProblemDataFiles[].class);
             config.put("PROBLEMS", c);
             config.put("PROBLEM_DATA_FILES", d);
+
+            DefaultContest.modifyContestToDefaultSettings(config);
         }else{
-            System.out.println("The files given are invalid files.");
-            return;
+            throw new Exception("The files provided are invalid.");
         }
     }
 

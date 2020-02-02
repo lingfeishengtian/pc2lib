@@ -1,320 +1,160 @@
-200110 113831.577|CONFIG|main|setFileHandlers|Now logging to C:\Users\625783\Desktop\pc2-9.6.0-1-10-20\bin\logs directory.
-200110 113831.577|INFO|main|info|
-200110 113831.577|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_191 build 5102 Windows 10 10.0 (amd64) 
-200110 113831.593|INFO|main|startLog|Working directory is C:\Users\625783\Desktop\pc2-9.6.0-1-10-20\bin
-200110 113831.608|INFO|main|startLog|Process id is 5392@CHS-2513-L-29-S
-200110 113831.608|INFO|main|start|Starting ConnectionManager...
-200110 113831.812|INFO|main|start|Started ConnectionManager
-200110 113831.812|INFO|main|info|Starting Server Transport...
-200110 121307.664|CONFIG|main|setFileHandlers|Now logging to C:\Users\625783\Desktop\pc2-9.6.0-1-10-20\bin\logs directory.
-200110 121307.664|INFO|main|info|
-200110 121307.664|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_191 build 5102 Windows 10 10.0 (amd64) 
-200110 121307.664|INFO|main|startLog|Working directory is C:\Users\625783\Desktop\pc2-9.6.0-1-10-20\bin
-200110 121307.680|INFO|main|startLog|Process id is 9660@CHS-2513-L-29-S
-200110 121307.680|INFO|main|start|Starting ConnectionManager...
-200110 121307.789|INFO|main|start|Started ConnectionManager
-200110 121307.789|INFO|main|info|Starting Server Transport...
-200110 121403.815|CONFIG|main|setFileHandlers|Now logging to C:\Users\625783\Desktop\pc2-9.6.0-1-10-20\bin\logs directory.
-200110 121403.815|INFO|main|info|
-200110 121403.815|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_191 build 5102 Windows 10 10.0 (amd64) 
-200110 121403.815|INFO|main|startLog|Working directory is C:\Users\625783\Desktop\pc2-9.6.0-1-10-20\bin
-200110 121403.831|INFO|main|startLog|Process id is 13000@CHS-2513-L-29-S
-200110 121403.831|INFO|main|start|Starting ConnectionManager...
-200110 121403.925|INFO|main|start|Started ConnectionManager
-200110 121403.925|INFO|main|info|Starting Server Transport...
-200110 145213.938|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 145213.940|INFO|main|info|
-200110 145213.944|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 145213.944|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 145213.966|INFO|main|startLog|Process id is 6711@Elijahs-iPhone.District.FBISD.local
-200110 145213.966|INFO|main|start|Starting ConnectionManager...
-200110 145214.112|INFO|main|start|Started ConnectionManager
-200110 145214.114|INFO|main|info|Starting Server Transport...
-200110 145300.769|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 145300.770|INFO|main|info|
-200110 145300.773|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 145300.774|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 145300.789|INFO|main|startLog|Process id is 6886@Elijahs-iPhone.District.FBISD.local
-200110 145300.789|INFO|main|start|Starting ConnectionManager...
-200110 145300.892|INFO|main|start|Started ConnectionManager
-200110 145300.893|INFO|main|info|Starting Server Transport...
-200110 145723.644|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 145723.646|INFO|main|info|
-200110 145723.649|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 145723.650|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 145723.659|INFO|main|startLog|Process id is 7298@Hunters-MacBook-Pro.local
-200110 145723.659|INFO|main|start|Starting ConnectionManager...
-200110 145723.763|INFO|main|start|Started ConnectionManager
-200110 145723.765|INFO|main|info|Starting Server Transport...
-200110 152802.604|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 152802.606|INFO|main|info|
-200110 152802.609|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 152802.610|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 152802.626|INFO|main|startLog|Process id is 10080@Elijahs-iPhone.District.FBISD.local
-200110 152802.627|INFO|main|start|Starting ConnectionManager...
-200110 152802.739|INFO|main|start|Started ConnectionManager
-200110 152802.740|INFO|main|info|Starting Server Transport...
-200110 153112.375|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 153112.377|INFO|main|info|
-200110 153112.380|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 153112.381|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 153112.395|INFO|main|startLog|Process id is 10342@Elijahs-iPhone.District.FBISD.local
-200110 153112.396|INFO|main|start|Starting ConnectionManager...
-200110 153112.505|INFO|main|start|Started ConnectionManager
-200110 153112.507|INFO|main|info|Starting Server Transport...
-200110 164004.356|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 164004.359|INFO|main|info|
-200110 164004.362|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 164004.363|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 164004.378|INFO|main|startLog|Process id is 15380@Elijahs-iPhone.District.FBISD.local
-200110 164004.379|INFO|main|start|Starting ConnectionManager...
-200110 164004.483|INFO|main|start|Started ConnectionManager
-200110 164004.485|INFO|main|info|Starting Server Transport...
-200110 190043.888|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 190043.890|INFO|main|info|
-200110 190043.895|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 190043.895|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 190043.931|INFO|main|startLog|Process id is 19901@Hunters-MBP.T-mobile.com
-200110 190043.931|INFO|main|start|Starting ConnectionManager...
-200110 190044.071|INFO|main|start|Started ConnectionManager
-200110 190044.072|INFO|main|info|Starting Server Transport...
-200110 190258.797|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 190258.798|INFO|main|info|
-200110 190258.802|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 190258.802|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 190258.836|INFO|main|startLog|Process id is 20087@Hunters-MBP.T-mobile.com
-200110 190258.836|INFO|main|start|Starting ConnectionManager...
-200110 190258.940|INFO|main|start|Started ConnectionManager
-200110 190258.942|INFO|main|info|Starting Server Transport...
-200110 190538.442|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 190538.444|INFO|main|info|
-200110 190538.448|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 190538.449|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 190538.487|INFO|main|startLog|Process id is 20308@Hunters-MBP.T-mobile.com
-200110 190538.487|INFO|main|start|Starting ConnectionManager...
-200110 190538.635|INFO|main|start|Started ConnectionManager
-200110 190538.637|INFO|main|info|Starting Server Transport...
-200110 190821.273|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 190821.275|INFO|main|info|
-200110 190821.278|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 190821.279|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 190821.312|INFO|main|startLog|Process id is 20578@Hunters-MBP.T-mobile.com
-200110 190821.313|INFO|main|start|Starting ConnectionManager...
-200110 190821.421|INFO|main|start|Started ConnectionManager
-200110 190821.423|INFO|main|info|Starting Server Transport...
-200110 191122.068|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 191122.069|INFO|main|info|
-200110 191122.074|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 191122.075|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 191122.109|INFO|main|startLog|Process id is 20838@Hunters-MBP.T-mobile.com
-200110 191122.109|INFO|main|start|Starting ConnectionManager...
-200110 191122.228|INFO|main|start|Started ConnectionManager
-200110 191122.231|INFO|main|info|Starting Server Transport...
-200110 191130.836|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 191130.837|INFO|main|info|
-200110 191130.841|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 191130.841|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 191130.851|INFO|main|startLog|Process id is 20857@Hunters-MBP.T-mobile.com
-200110 191130.852|INFO|main|start|Starting ConnectionManager...
-200110 191130.961|INFO|main|start|Started ConnectionManager
-200110 191130.962|INFO|main|info|Starting Server Transport...
-200110 191214.540|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 191214.541|INFO|main|info|
-200110 191214.545|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 191214.545|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 191214.558|INFO|main|startLog|Process id is 20926@Hunters-MBP.T-mobile.com
-200110 191214.558|INFO|main|start|Starting ConnectionManager...
-200110 191214.659|INFO|main|start|Started ConnectionManager
-200110 191214.661|INFO|main|info|Starting Server Transport...
-200110 191533.248|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 191533.250|INFO|main|info|
-200110 191533.255|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 191533.255|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 191533.282|INFO|main|startLog|Process id is 21190@Hunters-MBP.T-mobile.com
-200110 191533.282|INFO|main|start|Starting ConnectionManager...
-200110 191533.409|INFO|main|start|Started ConnectionManager
-200110 191533.411|INFO|main|info|Starting Server Transport...
-200110 191633.128|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 191633.130|INFO|main|info|
-200110 191633.133|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 191633.134|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 191633.150|INFO|main|startLog|Process id is 21277@Hunters-MBP.T-mobile.com
-200110 191633.151|INFO|main|start|Starting ConnectionManager...
-200110 191633.262|INFO|main|start|Started ConnectionManager
-200110 191633.264|INFO|main|info|Starting Server Transport...
-200110 191750.320|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 191750.322|INFO|main|info|
-200110 191750.325|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 191750.326|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 191750.382|INFO|main|startLog|Process id is 21397@Hunters-MBP.T-mobile.com
-200110 191750.382|INFO|main|start|Starting ConnectionManager...
-200110 191750.612|INFO|main|start|Started ConnectionManager
-200110 191750.614|INFO|main|info|Starting Server Transport...
-200110 191917.606|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 191917.607|INFO|main|info|
-200110 191917.611|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 191917.612|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 191917.646|INFO|main|startLog|Process id is 21518@Hunters-MBP.T-mobile.com
-200110 191917.646|INFO|main|start|Starting ConnectionManager...
-200110 191917.751|INFO|main|start|Started ConnectionManager
-200110 191917.753|INFO|main|info|Starting Server Transport...
-200110 192519.976|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 192519.977|INFO|main|info|
-200110 192519.981|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 192519.981|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 192520.015|INFO|main|startLog|Process id is 22002@Hunters-MBP.T-mobile.com
-200110 192520.015|INFO|main|start|Starting ConnectionManager...
-200110 192520.120|INFO|main|start|Started ConnectionManager
-200110 192520.121|INFO|main|info|Starting Server Transport...
-200110 194304.863|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 194304.864|INFO|main|info|
-200110 194304.867|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 194304.868|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 194304.900|INFO|main|startLog|Process id is 22901@Hunters-MBP.T-mobile.com
-200110 194304.901|INFO|main|start|Starting ConnectionManager...
-200110 194305.007|INFO|main|start|Started ConnectionManager
-200110 194305.008|INFO|main|info|Starting Server Transport...
-200110 195038.957|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 195038.959|INFO|main|info|
-200110 195038.967|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 195038.967|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 195039.001|INFO|main|startLog|Process id is 23473@Hunters-MBP.T-mobile.com
-200110 195039.001|INFO|main|start|Starting ConnectionManager...
-200110 195039.125|INFO|main|start|Started ConnectionManager
-200110 195039.127|INFO|main|info|Starting Server Transport...
-200110 195522.172|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 195522.174|INFO|main|info|
-200110 195522.178|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 195522.179|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 195522.218|INFO|main|startLog|Process id is 23837@Hunters-MBP.T-mobile.com
-200110 195522.218|INFO|main|start|Starting ConnectionManager...
-200110 195522.363|INFO|main|start|Started ConnectionManager
-200110 195522.365|INFO|main|info|Starting Server Transport...
-200110 195809.390|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 195809.392|INFO|main|info|
-200110 195809.395|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 195809.396|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 195809.432|INFO|main|startLog|Process id is 24065@Hunters-MBP.T-mobile.com
-200110 195809.432|INFO|main|start|Starting ConnectionManager...
-200110 195809.554|INFO|main|start|Started ConnectionManager
-200110 195809.557|INFO|main|info|Starting Server Transport...
-200110 195950.607|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 195950.609|INFO|main|info|
-200110 195950.614|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 195950.614|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 195950.652|INFO|main|startLog|Process id is 24203@Hunters-MBP.T-mobile.com
-200110 195950.653|INFO|main|start|Starting ConnectionManager...
-200110 195950.830|INFO|main|start|Started ConnectionManager
-200110 195950.832|INFO|main|info|Starting Server Transport...
-200110 200025.106|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 200025.108|INFO|main|info|
-200110 200025.111|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 200025.112|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 200025.126|INFO|main|startLog|Process id is 24256@Hunters-MBP.T-mobile.com
-200110 200025.128|INFO|main|start|Starting ConnectionManager...
-200110 200025.237|INFO|main|start|Started ConnectionManager
-200110 200025.239|INFO|main|info|Starting Server Transport...
-200110 200145.160|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 200145.161|INFO|main|info|
-200110 200145.165|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 200145.165|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 200145.176|INFO|main|startLog|Process id is 24374@Hunters-MBP.T-mobile.com
-200110 200145.176|INFO|main|start|Starting ConnectionManager...
-200110 200145.281|INFO|main|start|Started ConnectionManager
-200110 200145.282|INFO|main|info|Starting Server Transport...
-200110 200651.065|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 200651.067|INFO|main|info|
-200110 200651.072|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 200651.072|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 200651.111|INFO|main|startLog|Process id is 24798@Hunters-MBP.T-mobile.com
-200110 200651.111|INFO|main|start|Starting ConnectionManager...
-200110 200651.259|INFO|main|start|Started ConnectionManager
-200110 200651.261|INFO|main|info|Starting Server Transport...
-200110 203634.869|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 203634.870|INFO|main|info|
-200110 203634.874|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 203634.875|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200110 203634.913|INFO|main|startLog|Process id is 26117@Hunters-MBP.T-mobile.com
-200110 203634.913|INFO|main|start|Starting ConnectionManager...
-200110 203635.020|INFO|main|start|Started ConnectionManager
-200110 203635.022|INFO|main|info|Starting Server Transport...
-200117 144410.714|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200117 144410.716|INFO|main|info|
-200117 144410.720|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200117 144410.721|INFO|main|startLog|Working directory is /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin
-200117 144410.877|INFO|main|startLog|Process id is 40792@kennedys-Air.District.FBISD.local
-200117 144410.877|INFO|main|start|Starting ConnectionManager...
-200117 144410.985|INFO|main|start|Started ConnectionManager
-200117 144410.987|INFO|main|info|Starting Server Transport...
-200117 222252.153|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
-200117 222252.154|INFO|main|info|
-200117 222252.159|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
-200117 222252.159|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
-200117 222252.168|INFO|main|startLog|Process id is 85516@DESKTOP-K31L36J
-200117 222252.169|INFO|main|start|Starting ConnectionManager...
-200117 222252.393|INFO|main|start|Started ConnectionManager
-200117 222252.395|INFO|main|info|Starting Server Transport...
-200117 225518.351|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
-200117 225518.352|INFO|main|info|
-200117 225518.356|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
-200117 225518.356|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
-200117 225518.364|INFO|main|startLog|Process id is 86916@DESKTOP-K31L36J
-200117 225518.364|INFO|main|start|Starting ConnectionManager...
-200117 225518.563|INFO|main|start|Started ConnectionManager
-200117 225518.563|INFO|main|info|Starting Server Transport...
-200117 225541.529|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
-200117 225541.529|INFO|main|info|
-200117 225541.534|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
-200117 225541.534|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
-200117 225541.541|INFO|main|startLog|Process id is 79708@DESKTOP-K31L36J
-200117 225541.542|INFO|main|start|Starting ConnectionManager...
-200117 225541.742|INFO|main|start|Started ConnectionManager
-200117 225541.742|INFO|main|info|Starting Server Transport...
-200117 225747.424|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
-200117 225747.425|INFO|main|info|
-200117 225747.430|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
-200117 225747.430|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
-200117 225747.437|INFO|main|startLog|Process id is 88092@DESKTOP-K31L36J
-200117 225747.437|INFO|main|start|Starting ConnectionManager...
-200117 225747.635|INFO|main|start|Started ConnectionManager
-200117 225747.636|INFO|main|info|Starting Server Transport...
-200117 225916.175|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
-200117 225916.176|INFO|main|info|
-200117 225916.180|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
-200117 225916.180|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
-200117 225916.189|INFO|main|startLog|Process id is 88340@DESKTOP-K31L36J
-200117 225916.190|INFO|main|start|Starting ConnectionManager...
-200117 225916.389|INFO|main|start|Started ConnectionManager
-200117 225916.389|INFO|main|info|Starting Server Transport...
-200117 230842.974|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
-200117 230842.975|INFO|main|info|
-200117 230842.979|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
-200117 230842.980|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
-200117 230842.987|INFO|main|startLog|Process id is 88988@DESKTOP-K31L36J
-200117 230842.987|INFO|main|start|Starting ConnectionManager...
-200117 230843.191|INFO|main|start|Started ConnectionManager
-200117 230843.192|INFO|main|info|Starting Server Transport...
-200117 235426.744|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
-200117 235426.745|INFO|main|info|
-200117 235426.749|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
-200117 235426.749|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
-200117 235426.756|INFO|main|startLog|Process id is 98016@DESKTOP-K31L36J
-200117 235426.756|INFO|main|start|Starting ConnectionManager...
-200117 235426.960|INFO|main|start|Started ConnectionManager
-200117 235426.960|INFO|main|info|Starting Server Transport...
-200118 143202.922|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
-200118 143202.923|INFO|main|info|
-200118 143202.927|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
-200118 143202.928|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
-200118 143202.935|INFO|main|startLog|Process id is 67244@DESKTOP-K31L36J
-200118 143202.935|INFO|main|start|Starting ConnectionManager...
-200118 143203.137|INFO|main|start|Started ConnectionManager
-200118 143203.138|INFO|main|info|Starting Server Transport...
-200118 150412.861|CONFIG|main|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
-200118 150412.862|INFO|main|info|
-200118 150412.866|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
-200118 150412.866|INFO|main|startLog|Working directory is C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin
-200118 150412.873|INFO|main|startLog|Process id is 65136@DESKTOP-K31L36J
-200118 150412.873|INFO|main|start|Starting ConnectionManager...
-200118 150413.073|INFO|main|start|Started ConnectionManager
-200118 150413.073|INFO|main|info|Starting Server Transport...
+200201 230102.220|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200201 230102.221|INFO|main|info|
+200201 230102.226|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200201 230102.226|INFO|main|startLog|Working directory is /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin
+200201 230102.243|INFO|main|startLog|Process id is 47182@Hunters-MBP.T-mobile.com
+200201 230102.243|INFO|main|start|Starting ConnectionManager...
+200201 230102.381|INFO|main|start|Started ConnectionManager
+200201 230102.382|INFO|main|info|Starting Server Transport...
+200201 230449.426|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200201 230449.428|INFO|main|info|
+200201 230449.432|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200201 230449.432|INFO|main|startLog|Working directory is /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin
+200201 230449.469|INFO|main|startLog|Process id is 47238@Hunters-MBP.T-mobile.com
+200201 230449.469|INFO|main|start|Starting ConnectionManager...
+200201 230449.626|INFO|main|start|Started ConnectionManager
+200201 230449.629|INFO|main|info|Starting Server Transport...
+200201 231936.800|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200201 231936.803|INFO|main|info|
+200201 231936.806|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200201 231936.807|INFO|main|startLog|Working directory is /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin
+200201 231936.841|INFO|main|startLog|Process id is 47306@Hunters-MBP.T-mobile.com
+200201 231936.841|INFO|main|start|Starting ConnectionManager...
+200201 231936.989|INFO|main|start|Started ConnectionManager
+200201 231936.992|INFO|main|info|Starting Server Transport...
+200201 234253.242|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200201 234253.244|INFO|main|info|
+200201 234253.247|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200201 234253.248|INFO|main|startLog|Working directory is /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin
+200201 234253.283|INFO|main|startLog|Process id is 47395@Hunters-MBP.T-mobile.com
+200201 234253.283|INFO|main|start|Starting ConnectionManager...
+200201 234253.411|INFO|main|start|Started ConnectionManager
+200201 234253.412|INFO|main|info|Starting Server Transport...
+200202 001551.903|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200202 001551.906|INFO|main|info|
+200202 001551.909|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200202 001551.909|INFO|main|startLog|Working directory is /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin
+200202 001551.941|INFO|main|startLog|Process id is 47575@Hunters-MBP.T-mobile.com
+200202 001551.941|INFO|main|start|Starting ConnectionManager...
+200202 001552.051|INFO|main|start|Started ConnectionManager
+200202 001552.053|INFO|main|info|Starting Server Transport...
+200202 001635.767|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200202 001635.769|INFO|main|info|
+200202 001635.772|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200202 001635.772|INFO|main|startLog|Working directory is /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin
+200202 001635.783|INFO|main|startLog|Process id is 47586@Hunters-MBP.T-mobile.com
+200202 001635.783|INFO|main|start|Starting ConnectionManager...
+200202 001635.896|INFO|main|start|Started ConnectionManager
+200202 001635.899|INFO|main|info|Starting Server Transport...
+200202 001842.586|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200202 001842.589|INFO|main|info|
+200202 001842.592|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200202 001842.593|INFO|main|startLog|Working directory is /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin
+200202 001842.624|INFO|main|startLog|Process id is 47614@Hunters-MBP.T-mobile.com
+200202 001842.624|INFO|main|start|Starting ConnectionManager...
+200202 001842.747|INFO|main|start|Started ConnectionManager
+200202 001842.749|INFO|main|info|Starting Server Transport...
+200202 002006.090|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200202 002006.093|INFO|main|info|
+200202 002006.096|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200202 002006.096|INFO|main|startLog|Working directory is /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin
+200202 002006.130|INFO|main|startLog|Process id is 47643@Hunters-MBP.T-mobile.com
+200202 002006.130|INFO|main|start|Starting ConnectionManager...
+200202 002006.238|INFO|main|start|Started ConnectionManager
+200202 002006.241|INFO|main|info|Starting Server Transport...
+200202 002036.969|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200202 002036.971|INFO|main|info|
+200202 002036.974|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200202 002036.974|INFO|main|startLog|Working directory is /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin
+200202 002036.987|INFO|main|startLog|Process id is 47656@Hunters-MBP.T-mobile.com
+200202 002036.987|INFO|main|start|Starting ConnectionManager...
+200202 002037.098|INFO|main|start|Started ConnectionManager
+200202 002037.099|INFO|main|info|Starting Server Transport...
+200202 002139.560|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200202 002139.563|INFO|main|info|
+200202 002139.566|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200202 002139.566|INFO|main|startLog|Working directory is /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin
+200202 002139.606|INFO|main|startLog|Process id is 47680@Hunters-MBP.T-mobile.com
+200202 002139.606|INFO|main|start|Starting ConnectionManager...
+200202 002139.715|INFO|main|start|Started ConnectionManager
+200202 002139.717|INFO|main|info|Starting Server Transport...
+200202 002656.926|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200202 002656.928|INFO|main|info|
+200202 002656.933|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200202 002656.933|INFO|main|startLog|Working directory is /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin
+200202 002656.970|INFO|main|startLog|Process id is 47706@Hunters-MBP.T-mobile.com
+200202 002656.971|INFO|main|start|Starting ConnectionManager...
+200202 002657.110|INFO|main|start|Started ConnectionManager
+200202 002657.113|INFO|main|info|Starting Server Transport...
+200202 003126.965|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200202 003126.966|INFO|main|info|
+200202 003126.969|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200202 003126.970|INFO|main|startLog|Working directory is /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin
+200202 003126.995|INFO|main|startLog|Process id is 47729@Hunters-MBP.T-mobile.com
+200202 003126.995|INFO|main|start|Starting ConnectionManager...
+200202 003127.116|INFO|main|start|Started ConnectionManager
+200202 003127.118|INFO|main|info|Starting Server Transport...
+200202 003150.866|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200202 003150.867|INFO|main|info|
+200202 003150.870|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200202 003150.871|INFO|main|startLog|Working directory is /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin
+200202 003150.884|INFO|main|startLog|Process id is 47755@Hunters-MBP.T-mobile.com
+200202 003150.884|INFO|main|start|Starting ConnectionManager...
+200202 003150.995|INFO|main|start|Started ConnectionManager
+200202 003150.997|INFO|main|info|Starting Server Transport...
+200202 003423.073|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200202 003423.075|INFO|main|info|
+200202 003423.078|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200202 003423.078|INFO|main|startLog|Working directory is /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin
+200202 003423.110|INFO|main|startLog|Process id is 47788@Hunters-MBP.T-mobile.com
+200202 003423.110|INFO|main|start|Starting ConnectionManager...
+200202 003423.226|INFO|main|start|Started ConnectionManager
+200202 003423.229|INFO|main|info|Starting Server Transport...
+200202 011948.729|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200202 011948.730|INFO|main|info|
+200202 011948.733|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200202 011948.734|INFO|main|startLog|Working directory is /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin
+200202 011948.766|INFO|main|startLog|Process id is 48083@Hunters-MBP.T-mobile.com
+200202 011948.766|INFO|main|start|Starting ConnectionManager...
+200202 011948.891|INFO|main|start|Started ConnectionManager
+200202 011948.893|INFO|main|info|Starting Server Transport...
+200202 022511.685|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200202 022511.687|INFO|main|info|
+200202 022511.690|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200202 022511.690|INFO|main|startLog|Working directory is /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin
+200202 022511.706|INFO|main|startLog|Process id is 48458@Hunters-MBP.T-mobile.com
+200202 022511.707|INFO|main|start|Starting ConnectionManager...
+200202 022511.826|INFO|main|start|Started ConnectionManager
+200202 022511.827|INFO|main|info|Starting Server Transport...
+200202 022555.869|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200202 022555.870|INFO|main|info|
+200202 022555.873|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200202 022555.874|INFO|main|startLog|Working directory is /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin
+200202 022555.906|INFO|main|startLog|Process id is 48473@Hunters-MBP.T-mobile.com
+200202 022555.907|INFO|main|start|Starting ConnectionManager...
+200202 022556.026|INFO|main|start|Started ConnectionManager
+200202 022556.029|INFO|main|info|Starting Server Transport...
+200202 022726.840|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200202 022726.842|INFO|main|info|
+200202 022726.845|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200202 022726.846|INFO|main|startLog|Working directory is /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin
+200202 022726.886|INFO|main|startLog|Process id is 48502@Hunters-MBP.T-mobile.com
+200202 022726.886|INFO|main|start|Starting ConnectionManager...
+200202 022727.000|INFO|main|start|Started ConnectionManager
+200202 022727.002|INFO|main|info|Starting Server Transport...
+200202 023007.411|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200202 023007.413|INFO|main|info|
+200202 023007.416|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200202 023007.417|INFO|main|startLog|Working directory is /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin
+200202 023007.428|INFO|main|startLog|Process id is 48558@Hunters-MBP.T-mobile.com
+200202 023007.429|INFO|main|start|Starting ConnectionManager...
+200202 023007.547|INFO|main|start|Started ConnectionManager
+200202 023007.548|INFO|main|info|Starting Server Transport...
+200202 023101.927|CONFIG|main|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200202 023101.929|INFO|main|info|
+200202 023101.932|INFO|main|info|Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200202 023101.933|INFO|main|startLog|Working directory is /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin
+200202 023101.948|INFO|main|startLog|Process id is 48571@Hunters-MBP.T-mobile.com
+200202 023101.949|INFO|main|start|Starting ConnectionManager...
+200202 023102.076|INFO|main|start|Started ConnectionManager
+200202 023102.078|INFO|main|info|Starting Server Transport...

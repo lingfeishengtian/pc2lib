@@ -14,13 +14,7 @@ import java.util.Hashtable;
 import java.util.LinkedList;
 import java.util.Vector;
 
-/**
- * A bunch of junk and modified PC2 API to retrieve configuration data.
- */
 public class CustomConfigurationIO {
-    public enum ConfigKeys {
-        SITE_NUMBER, PROBLEMS, LANGUAGES, CONTEST_TIME, SITES, ACCOUNTS, JUDGEMENTS, PROBLEM_DATA_FILES, GENERAL_PROBLEM, CONTEST_TIME_LIST, CONTEST_INFORMATION, CLIENT_SETTINGS_LIST, BALLOON_SETTINGS_LIST, GROUPS, PROFILE, PROFILES, PROFILE_CLONE_SETTINGS, FINALIZE_DATA, CATEGORIES;
-    }
 
     private IStorage storage = null;
 
@@ -34,7 +28,7 @@ public class CustomConfigurationIO {
         Configuration configuration = new Configuration(this.storage);
         try {
             if (configuration.loadFromDisk(getFileName())) {
-                ConfigKeys key = ConfigKeys.SITE_NUMBER;
+                ConfigurationIO.ConfigKeys key = ConfigurationIO.ConfigKeys.SITE_NUMBER;
                 if (configuration.containsKey(key)) {
                     Integer diskSiteNumber = (Integer)configuration.get(key.toString());
                     return configuration.configItemHash;
@@ -47,11 +41,11 @@ public class CustomConfigurationIO {
                     //contest.setSiteNumber(diskSiteNumber.intValue());
                     //log.info("Loading site number " + diskSiteNumber);
                 } else {
-                    System.err.println("WARNING Attempted to load site " + siteNumber + " but key " + ConfigKeys.SITE_NUMBER + " not found");
+                    System.err.println("WARNING Attempted to load site " + siteNumber + " but key " + ConfigurationIO.ConfigKeys.SITE_NUMBER + " not found");
                     //log.info("WARNING Attempted to load site " + siteNumber + " but key " + ConfigKeys.SITE_NUMBER + " not found");
                 }
                 try {
-                    key = ConfigKeys.LANGUAGES;
+                    key = ConfigurationIO.ConfigKeys.LANGUAGES;
                     if (configuration.containsKey(key)) {
                         Language[] languages = (Language[])configuration.get(key.toString());
                         byte b;
@@ -68,7 +62,7 @@ public class CustomConfigurationIO {
                     //log.log(Log.WARNING, "Exception while loading languages ", e);
                 }
                 try {
-                    key = ConfigKeys.PROBLEMS;
+                    key = ConfigurationIO.ConfigKeys.PROBLEMS;
                     if (configuration.containsKey(key)) {
                         Problem[] problems = (Problem[])configuration.get(key.toString());
                         byte b;
@@ -85,7 +79,7 @@ public class CustomConfigurationIO {
                     //log.log(Log.WARNING, "Exception while loading problems ", e);
                 }
                 try {
-                    key = ConfigKeys.CONTEST_TIME_LIST;
+                    key = ConfigurationIO.ConfigKeys.CONTEST_TIME_LIST;
                     if (configuration.containsKey(key)) {
                         ContestTime[] contestTimes = (ContestTime[])configuration.get(key.toString());
                         byte b;
@@ -102,7 +96,7 @@ public class CustomConfigurationIO {
                     //log.log(Log.WARNING, "Exception while loading contest times ", e);
                 }
                 try {
-                    key = ConfigKeys.ACCOUNTS;
+                    key = ConfigurationIO.ConfigKeys.ACCOUNTS;
                     if (configuration.containsKey(key)) {
                         Account[] accounts = (Account[])configuration.get(key.toString());
                         byte b;
@@ -119,7 +113,7 @@ public class CustomConfigurationIO {
                     //log.log(Log.WARNING, "Exception while loading accounts ", e);
                 }
                 try {
-                    key = ConfigKeys.JUDGEMENTS;
+                    key = ConfigurationIO.ConfigKeys.JUDGEMENTS;
                     if (configuration.containsKey(key)) {
                         Judgement[] judgements = (Judgement[])configuration.get(key.toString());
                         byte b;
@@ -168,29 +162,29 @@ public class CustomConfigurationIO {
 
     public synchronized boolean store(IInternalContest contest, Log log) throws IOException, ClassNotFoundException, FileSecurityException {
         Configuration configuration = new Configuration(this.storage);
-        configuration.add(ConfigKeys.SITE_NUMBER, new Integer(contest.getSiteNumber()));
-        configuration.add(ConfigKeys.ACCOUNTS, (Serializable)getAllAccounts(contest));
-        configuration.add(ConfigKeys.CONTEST_TIME, contest.getContestTime());
-        configuration.add(ConfigKeys.CONTEST_TIME_LIST, (Serializable)contest.getContestTimes());
-        configuration.add(ConfigKeys.BALLOON_SETTINGS_LIST, (Serializable)contest.getBalloonSettings());
+        configuration.add("SITE_NUMBER", new Integer(contest.getSiteNumber()));
+        configuration.add("ACCOUNTS", (Serializable)getAllAccounts(contest));
+        configuration.add("CONTEST_TIME", contest.getContestTime());
+        configuration.add("CONTEST_TIME_LIST", (Serializable)contest.getContestTimes());
+        configuration.add("BALLOON_SETTINGS_LIST", (Serializable)contest.getBalloonSettings());
         if (contest.getGeneralProblem() != null)
-            configuration.add(ConfigKeys.GENERAL_PROBLEM, contest.getGeneralProblem());
-        configuration.add(ConfigKeys.PROBLEM_DATA_FILES, (Serializable)contest.getProblemDataFiles());
-        configuration.add(ConfigKeys.JUDGEMENTS, (Serializable)contest.getJudgements());
-        configuration.add(ConfigKeys.LANGUAGES, (Serializable)contest.getLanguages());
-        configuration.add(ConfigKeys.PROBLEMS, (Serializable)contest.getProblems());
-        configuration.add(ConfigKeys.SITES, (Serializable)contest.getSites());
-        configuration.add(ConfigKeys.CONTEST_INFORMATION, contest.getContestInformation());
-        configuration.add(ConfigKeys.CLIENT_SETTINGS_LIST, (Serializable)contest.getClientSettingsList());
-        configuration.add(ConfigKeys.GROUPS, (Serializable)contest.getGroups());
-        configuration.add(ConfigKeys.PROFILES, (Serializable)contest.getProfiles());
-        configuration.add(ConfigKeys.PROFILE, contest.getProfile());
+            configuration.add("GENERAL_PROBLEM", contest.getGeneralProblem());
+        configuration.add("PROBLEM_DATA_FILES", (Serializable)contest.getProblemDataFiles());
+        configuration.add("JUDGEMENTS", (Serializable)contest.getJudgements());
+        configuration.add("LANGUAGES", (Serializable)contest.getLanguages());
+        configuration.add("PROBLEMS", (Serializable)contest.getProblems());
+        configuration.add("SITES", (Serializable)contest.getSites());
+        configuration.add("CONTEST_INFORMATION", contest.getContestInformation());
+        configuration.add("CLIENT_SETTINGS_LIST", (Serializable)contest.getClientSettingsList());
+        configuration.add("GROUPS", (Serializable)contest.getGroups());
+        configuration.add("PROFILES", (Serializable)contest.getProfiles());
+        configuration.add("PROFILE", contest.getProfile());
         if (contest.getFinalizeData() != null)
-            configuration.add(ConfigKeys.FINALIZE_DATA, contest.getFinalizeData());
+            configuration.add("FINALIZE_DATA", contest.getFinalizeData());
         if (contest.getCategories() != null)
-            configuration.add(ConfigKeys.CATEGORIES, (Serializable)contest.getCategories());
+            configuration.add("CATEGORIES", (Serializable)contest.getCategories());
         if (contest.getProfileCloneSettings() != null)
-            configuration.add(ConfigKeys.PROFILE_CLONE_SETTINGS, (Serializable)contest.getProfileCloneSettings());
+            configuration.add("PROFILE_CLONE_SETTINGS", (Serializable)contest.getProfileCloneSettings());
         configuration.writeToDisk(getFileName());
         String backupFilename = getBackupFilename();
         configuration.writeToDisk(backupFilename);
@@ -214,14 +208,14 @@ public class CustomConfigurationIO {
             this.storage = storage;
         }
 
-        public boolean add(CustomConfigurationIO.ConfigKeys key, Serializable object) {
+        public boolean add(String key, Serializable object) {
             if (object == null)
                 return false;
             this.configItemHash.put(key.toString(), object);
             return true;
         }
 
-        public boolean containsKey(CustomConfigurationIO.ConfigKeys key) {
+        public boolean containsKey(ConfigurationIO.ConfigKeys key) {
             return this.configItemHash.containsKey(key.toString());
         }
 

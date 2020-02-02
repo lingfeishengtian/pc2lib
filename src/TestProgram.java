@@ -1,15 +1,20 @@
 import com.lingfeishengtian.utils.DefaultContest;
+import edu.csus.ecs.pc2.api.implementation.Contest;
+import edu.csus.ecs.pc2.core.InternalController;
+import edu.csus.ecs.pc2.core.exception.ProfileCloneException;
+import edu.csus.ecs.pc2.core.log.Log;
 import edu.csus.ecs.pc2.core.model.*;
 import edu.csus.ecs.pc2.core.security.FileSecurity;
 import edu.csus.ecs.pc2.core.security.FileSecurityException;
+import edu.csus.ecs.pc2.profile.ProfileManager;
 import edu.csus.ecs.pc2.validator.pc2Validator.PC2Validator;
 import com.lingfeishengtian.security.Extractor;
-import com.lingfeishengtian.utils.ProblemModifier;
 
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.util.Arrays;
 import java.util.Hashtable;
-import java.util.Properties;
 
 public class TestProgram {
     // Test Data
@@ -17,12 +22,57 @@ public class TestProgram {
     REQUIRED VM OPTION
     -Djdk.crypto.KeyAgreement.legacyKDF=true
      */
-    public static void main(String[] args) throws FileSecurityException, IOException, ClassNotFoundException {
-        Extractor x = new Extractor("/Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/profiles/P62d231b8-4de3-4ad6-80ee-2c1e04418419/db.1");
-        FileSecurity f = x.getFileSecurity("chscompsci");
-        Hashtable hash = x.getConfigHashTable(f);
-        DefaultContest.modifyContestToDefaultSettings(hash);
-        x.writeConfigurationToDisk(hash, f);
+    public static void main(String[] args) throws FileSecurityException, ProfileCloneException, IOException, ClassNotFoundException {
+//        Hashtable hash = x.getConfigHashTable(f);
+        //TODO CREATE CUSTOM PROFILES.PROPERTIES
+        //TURN THIS INTO A DIFFERENT LIBRARY
+        InternalContest internalContest = new InternalContest();
+        InternalController controller = new InternalController((IInternalContest)internalContest);
+        controller.setUsingGUI(false);
+
+        ProfileManager manager = new ProfileManager();
+        Profile profile = ProfileManager.createNewProfile();
+        profile.setSiteNumber(1);
+        profile.setProfilePath(profile.createProfilePath("/Users/hunterhan/IdeaProjects/pc2lib/exampleDir" + "/" + "bin/"));
+        manager.createProfilesPathandFiles(profile, 1, "chscompsci");
+
+        Log log = new Log("/Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs", "oops.log");
+        controller.setTheProfile(profile);
+        internalContest.setContestPassword("chscompsci");
+        controller.setLog(log);
+        controller.initializeServer(internalContest);
+
+        internalContest.addProblem(new Problem("FUCKME"));
+        internalContest.storeConfiguration(log);
+
+//        Hashtable defaultConfig = DefaultContest.setupDefaultContestWithPasscode("chscompsci", new File("exampleDir"));
+//        Extractor x = new Extractor(((Profile)defaultConfig.get(ConfigurationIO.ConfigKeys.PROFILE)).getProfilePath()+"/db.1");
+//        FileSecurity f = x.getFileSecurity("chscompsci");
+//        x.writeConfigurationToDisk(new Hashtable(), f);
+
+//            Extractor x = new Extractor("exampleDir/bin/profiles/P8e27fad7-8763-402f-aa4e-804f7db3ff72/db.1");
+//            FileSecurity f = x.getFileSecurity("chscompsci");
+//            Hashtable hash = x.getConfigHashTable(f);
+//
+//            System.out.println(ConfigurationIO.ConfigKeys.SITE_NUMBER.getClass());
+//        //System.out.println(hash.put(ConfigurationIO.ConfigKeys.SITE_NUMBER, 22));
+//        System.out.println(hash.put("SITE_NUMBER", 1));
+//            hash.forEach ((e, a) -> {
+//                try {
+//                    System.out.println(e + " : " + Arrays.toString((Object[]) a));
+//                }catch (Exception ea){
+//                    System.out.println(e + " : " + a);
+//                    if(e.equals("CONTEST_INFORMATION")){
+//                        System.out.println(((ContestInformation) a));
+//                    }
+//                }
+//            });
+
+
+//        Hashtable hash = x.getConfigHashTable(f);
+//        DefaultContest.modifyContestToDefaultSettings(hash);
+//
+//        x.writeConfigurationToDisk(hash, f);
 //      ProblemModifier.addProblemWithDefaultSettings("TEST", new File("TestData/playtime1.in"),  new File("TestData/playtime1.out"), hash);
 //      ProblemModifier.addProblemWithDefaultSettings("TEST", new File("TestData/playtime1.in"),  new File("TestData/playtime1.out"), hash);
         //SettingsModifier();

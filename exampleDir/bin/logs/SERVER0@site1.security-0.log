@@ -1,38 +1,10 @@
-200110 113852.833|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to C:\Users\625783\Desktop\pc2-9.6.0-1-10-20\bin\logs directory.
-200110 113852.833|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_191 build 5102 Windows 10 10.0 (amd64) 
-200110 121317.138|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to C:\Users\625783\Desktop\pc2-9.6.0-1-10-20\bin\logs directory.
-200110 121317.153|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_191 build 5102 Windows 10 10.0 (amd64) 
-200110 121413.206|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to C:\Users\625783\Desktop\pc2-9.6.0-1-10-20\bin\logs directory.
-200110 121413.212|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_191 build 5102 Windows 10 10.0 (amd64) 
-200110 145250.469|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 145250.479|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 145308.825|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 145308.839|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 145730.253|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 145730.295|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 152815.709|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 152815.738|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 153126.365|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 153126.389|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 190838.037|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 190838.048|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 191224.779|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 191224.794|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 191542.000|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 191542.029|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 191802.918|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 191802.940|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 195537.408|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 195537.417|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 200700.108|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 200700.146|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200110 203642.232|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200110 203642.240|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200117 144421.387|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to /Users/hunterhan/Desktop/pc2-9.6.0-1-10-20/bin/logs directory.
-200117 144421.407|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
-200117 235437.614|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
-200117 235437.618|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
-200118 143214.970|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
-200118 143214.974|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
-200118 150425.278|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to C:\Users\Hunter Han\Documents\IntelliJProgs\pc2lib\exampleDir\bin\logs directory.
-200118 150425.283|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 () Java ver 1.8.0_231 build 5102 Windows 10 10.0 (amd64) 
+200201 230559.492|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200201 230559.527|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200202 011958.853|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200202 011958.894|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200202 022738.504|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200202 022738.516|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200202 023014.850|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200202 023014.865|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
+200202 023111.153|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to /Users/hunterhan/IdeaProjects/pc2lib/exampleDir/bin/logs directory.
+200202 023111.184|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 () Java ver 1.8.0_221 build 5102 Mac OS X 10.15.2 (x86_64) 
